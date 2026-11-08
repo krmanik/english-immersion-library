@@ -1,0 +1,538 @@
+{
+ "category": {
+  "id": "sports",
+  "group": "watch",
+  "name": "Sports & Fitness",
+  "icon": "figure.run",
+  "web_icon": "dumbbell",
+  "description": "Sports leagues, analysis, workouts and outdoor channels."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 19,
+ "resources": [
+  {
+   "id": "athlean-x",
+   "name": "ATHLEAN-X",
+   "url": "https://www.youtube.com/@athleanx",
+   "description": "Workouts and training.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe0TLA0EsQbE-MjuHXevj2A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCe0TLA0EsQbE-MjuHXevj2A"
+   },
+   "image": "https://yt3.googleusercontent.com/UN93iXdFUqIzbOHUOneFgq4hxmqbZVXAxNx-e_OJJ6FRwiQH3Id0SBYa99ezjeZd82wow6nE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "bbc-sport",
+   "name": "BBC Sport",
+   "url": "https://www.bbc.com/sport",
+   "description": "British and world sport.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://feeds.bbci.co.uk/sport/rss.xml"
+   }
+  },
+  {
+   "id": "dude-perfect",
+   "name": "Dude Perfect",
+   "url": "https://www.youtube.com/@DudePerfect",
+   "description": "Trick shots and sports comedy.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRijo3ddMTht_IHyNSNXpNQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCRijo3ddMTht_IHyNSNXpNQ"
+   },
+   "image": "https://yt3.googleusercontent.com/nZRsCgyfOVFhBzY-YFV8AhdMcYAybNZ8uttjcsrUGOnGRSVF5yKqRh6XHIs_o03TcbixvlOZ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "espn",
+   "name": "ESPN",
+   "url": "https://www.espn.com",
+   "description": "US sports news.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "fitness-blender",
+   "name": "Fitness Blender",
+   "url": "https://www.youtube.com/@FitnessBlender",
+   "description": "Free full workouts.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiP6wD_tYlYLYh3agzbByWQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCiP6wD_tYlYLYh3agzbByWQ"
+   },
+   "image": "https://yt3.googleusercontent.com/Ms7dCtkrB7DZn9M5sqhFU8fGPKQv_a_eiADZ_TJrPrA-a5da7vi71d3A-ETCuuJcVJ9_mD7Vxw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "formula-1",
+   "name": "Formula 1",
+   "url": "https://www.youtube.com/@Formula1",
+   "description": "F1 highlights and features.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB_qr75-ydFVKSF9Dmo6izg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCB_qr75-ydFVKSF9Dmo6izg"
+   },
+   "image": "https://yt3.googleusercontent.com/vpoaETGREjrZSH2aYrufkv2tOIi8GPVWlwKQsObUGYnStFTDxv7PkX1BysCMG9qOQYij8RVDHQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "jeff-nippard",
+   "name": "Jeff Nippard",
+   "url": "https://www.youtube.com/@JeffNippard",
+   "description": "Science-based training.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC68TLK0mAEzUyHx5x5k-S1Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UC68TLK0mAEzUyHx5x5k-S1Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_k3d_sCJXZcQk5KQTlFzdGMIJwJpZ9g2W07Z616E5DENGI=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "nba",
+   "name": "NBA",
+   "url": "https://www.youtube.com/@NBA",
+   "description": "Highlights and interviews.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWJ2lWNubArHWmf3FIHbfcQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ"
+   },
+   "image": "https://yt3.googleusercontent.com/MKePmq2on00c6rI4vgJnfuCxUI5Mbw3UtbSXXRFUyUtafAAhS-XZgd2nfZcZpjDvc27_dawf=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "nfl",
+   "name": "NFL",
+   "url": "https://www.youtube.com/@NFL",
+   "description": "Highlights.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDVYQ4Zhbm3S2dlz7P1GBDg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg"
+   },
+   "image": "https://yt3.googleusercontent.com/mTNz2WARw0gLIz_BM5cuB6oRAQCTapuIwiiAAHd-IeWMCfE_zNcRVOXt4N6c4YxJbQ_kibWOFg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "olympics",
+   "name": "Olympics",
+   "url": "https://www.youtube.com/@Olympics",
+   "description": "Olympic sport.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTl3QQTvqHFjurroKxexy2Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCTl3QQTvqHFjurroKxexy2Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mgqNPYKqnE7FG3Pk1zbi0hpKihVPbWSk-Rfsbr0ki0bFPK=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "outside",
+   "name": "Outside",
+   "url": "https://www.outsideonline.com",
+   "description": "Outdoor adventure.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "premier-league",
+   "name": "Premier League",
+   "url": "https://www.youtube.com/@premierleague",
+   "description": "English football.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCG5qGWdu8nIRZqJ_GgDwQ-w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCG5qGWdu8nIRZqJ_GgDwQ-w"
+   },
+   "image": "https://yt3.googleusercontent.com/zhPMOpUIlmMa_xAgrHYGYrkCSWS-3tE0yPPKVUzh1iiYOF1QDqGtg3ZIbWXjkNmN3l3WPqziRHE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "runner-s-world",
+   "name": "Runner's World",
+   "url": "https://www.runnersworld.com",
+   "description": "Running advice.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "secret-base",
+   "name": "Secret Base",
+   "url": "https://www.youtube.com/@SecretBase",
+   "description": "Sports documentaries and stories.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw_LnTX4iYwMic7q20I4uRQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCw_LnTX4iYwMic7q20I4uRQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kF3qc2Dj122iQoSiL_ErXetlHiE7RSYIfKwd2t5a_bQQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "sky-sports",
+   "name": "Sky Sports",
+   "url": "https://www.skysports.com",
+   "description": "British sport news.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "the-athletic",
+   "name": "The Athletic",
+   "url": "https://www.nytimes.com/athletic/",
+   "description": "In-depth sports journalism.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "paid",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "the-body-coach-tv",
+   "name": "The Body Coach TV",
+   "url": "https://www.youtube.com/@TheBodyCoachTV",
+   "description": "Joe Wicks's home workouts.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAxW1XT0iEJo0TYlRfn6rYQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCAxW1XT0iEJo0TYlRfn6rYQ"
+   },
+   "image": "https://yt3.googleusercontent.com/6dcZ2-G9oD3F02Melxd4wtc9yVeJIYdxBLdPp-WNmHZ43rY47qBBHbJlvs-AB6A8p0Tv0ej95w=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "tifo-football",
+   "name": "Tifo Football",
+   "url": "https://www.youtube.com/@TifoFootball_",
+   "description": "Football tactics explained.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "yoga-with-adriene",
+   "name": "Yoga With Adriene",
+   "url": "https://www.youtube.com/@yogawithadriene",
+   "description": "Gentle yoga with clear spoken instructions.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFKE7WVJfvaHW5q283SxchA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCFKE7WVJfvaHW5q283SxchA"
+   },
+   "image": "https://yt3.googleusercontent.com/qm6um_oBgmmXadNn1CbzvnatZC5uA9mbhhIb_fYx2qOdz16pXmVD8ZoQMoO-LQU98S6PXwJaSA=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}

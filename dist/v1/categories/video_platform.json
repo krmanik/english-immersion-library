@@ -1,0 +1,390 @@
+{
+ "category": {
+  "id": "video_platform",
+  "group": "watch",
+  "name": "Free Streaming",
+  "icon": "tv.fill",
+  "web_icon": "tv",
+  "description": "Legal free (or mostly free) streaming services and broadcaster players."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 16,
+ "resources": [
+  {
+   "id": "abc-iview",
+   "name": "ABC iview",
+   "url": "https://iview.abc.net.au",
+   "description": "Australian ABC TV on demand (Australia only).",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "partial",
+   "subtitles": "free",
+   "recommended": false
+  },
+  {
+   "id": "bbc-iplayer",
+   "name": "BBC iPlayer",
+   "url": "https://www.bbc.co.uk/iplayer",
+   "description": "BBC TV on demand with subtitles (UK only, needs a TV licence).",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "required",
+   "subtitles": "free",
+   "recommended": false
+  },
+  {
+   "id": "cbc-gem",
+   "name": "CBC Gem",
+   "url": "https://gem.cbc.ca",
+   "description": "Canadian TV and films (Canada only).",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "partial",
+   "subtitles": "free",
+   "recommended": false
+  },
+  {
+   "id": "channel-4",
+   "name": "Channel 4",
+   "url": "https://www.channel4.com",
+   "description": "Free British TV on demand (UK only).",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "required",
+   "subtitles": "free",
+   "recommended": false
+  },
+  {
+   "id": "internet-archive-movies",
+   "name": "Internet Archive Movies",
+   "url": "https://archive.org/details/movies",
+   "description": "Public-domain films and old TV.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "itvx",
+   "name": "ITVX",
+   "url": "https://www.itv.com",
+   "description": "Free British TV with ads (UK only).",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "required",
+   "subtitles": "free",
+   "recommended": false
+  },
+  {
+   "id": "kanopy",
+   "name": "Kanopy",
+   "url": "https://www.kanopy.com",
+   "description": "Films and documentaries free with a library card.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "required",
+   "subtitles": "free",
+   "recommended": false
+  },
+  {
+   "id": "netflix",
+   "name": "Netflix",
+   "url": "https://www.netflix.com",
+   "description": "Films and series with English subtitles and audio description.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "paid",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "required",
+   "subtitles": "free",
+   "recommended": false
+  },
+  {
+   "id": "pbs-video",
+   "name": "PBS Video",
+   "url": "https://www.pbs.org/video/",
+   "description": "PBS documentaries and dramas with captions.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true
+  },
+  {
+   "id": "plex",
+   "name": "Plex",
+   "url": "https://www.plex.tv",
+   "description": "Free films and live TV with ads.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "pluto-tv",
+   "name": "Pluto TV",
+   "url": "https://pluto.tv",
+   "description": "Free live channels and on-demand shows.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "rt-player",
+   "name": "RTÉ Player",
+   "url": "https://www.rte.ie/player",
+   "description": "Irish TV on demand.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ie",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "partial",
+   "subtitles": "free",
+   "recommended": false
+  },
+  {
+   "id": "sbs-on-demand",
+   "name": "SBS On Demand",
+   "url": "https://www.sbs.com.au/ondemand",
+   "description": "Free Australian and world TV (Australia only).",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "required",
+   "subtitles": "free",
+   "recommended": false
+  },
+  {
+   "id": "the-roku-channel",
+   "name": "The Roku Channel",
+   "url": "https://therokuchannel.roku.com",
+   "description": "Free films and TV (US, UK, Canada).",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "tubi",
+   "name": "Tubi",
+   "url": "https://tubitv.com",
+   "description": "Free films and TV with ads, with English subtitles (US and some other countries).",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false
+  },
+  {
+   "id": "tvnz",
+   "name": "TVNZ+",
+   "url": "https://www.tvnz.co.nz",
+   "description": "New Zealand TV on demand (NZ only).",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "nz",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "required",
+   "subtitles": "free",
+   "recommended": false
+  }
+ ]
+}

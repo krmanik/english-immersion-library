@@ -1,0 +1,1069 @@
+{
+ "category": {
+  "id": "food",
+  "group": "watch",
+  "name": "Food & Cooking",
+  "icon": "fork.knife",
+  "web_icon": "utensils",
+  "description": "Cooking shows, recipes, food science and restaurant culture."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 38,
+ "resources": [
+  {
+   "id": "adam-ragusea",
+   "name": "Adam Ragusea",
+   "url": "https://www.youtube.com/@aragusea",
+   "description": "Food science and home cooking explained.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9_p50tH3WmMslWRWKnM7dQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC9_p50tH3WmMslWRWKnM7dQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_k1Qk7novhk1zSZqL-Ws8Xp3cFPPtvzdhroHp1DMMOO1Go=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "allrecipes",
+   "name": "Allrecipes",
+   "url": "https://www.allrecipes.com",
+   "description": "User recipes with reviews.",
+   "category": "food",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "america-s-test-kitchen",
+   "name": "America's Test Kitchen",
+   "url": "https://www.youtube.com/@americastestkitchen",
+   "description": "Tested recipes and equipment reviews.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxAS_aK7sS2x_bqnlJHDSHw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCxAS_aK7sS2x_bqnlJHDSHw"
+   },
+   "image": "https://yt3.googleusercontent.com/sKzhpJifGA4tZFt-KHpQ7iUbc3FohuxAY7Gqiea8xOfMK_sb2iRsjkWzy8VEe8zlymCX6L0s=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "andy-cooks",
+   "name": "Andy Cooks",
+   "url": "https://www.youtube.com/@andy_cooks",
+   "description": "Australian chef's quick recipes.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqNkn5PNeSqbQTAR5RP-L-Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCqNkn5PNeSqbQTAR5RP-L-Q"
+   },
+   "image": "https://yt3.googleusercontent.com/0Nnon0k06NgVzquT2vsGXE7J3uzhVlZ3yOjnFtfCTLXisT5qSvsh4Hz_fQNbVraOmUoJZpjN=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "babish-culinary-universe",
+   "name": "Babish Culinary Universe",
+   "url": "https://www.youtube.com/@babishculinaryuniverse",
+   "description": "Recreating food from films and TV.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "bbc-good-food",
+   "name": "BBC Good Food",
+   "url": "https://www.bbcgoodfood.com",
+   "description": "Tested British recipes.",
+   "category": "food",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.bbcgoodfood.com/feed"
+   }
+  },
+  {
+   "id": "bon-app-tit",
+   "name": "Bon Appétit",
+   "url": "https://www.youtube.com/@bonappetit",
+   "description": "Cooking videos from the Bon Appétit test kitchen.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbpMy0Fg74eXXkvxJrtEn3w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCbpMy0Fg74eXXkvxJrtEn3w"
+   },
+   "image": "https://yt3.googleusercontent.com/cXS_yturdFtxAvqzJRnbMtZRYKCv3CDD7VHqHmhGZ2jgM8PYnOAbAbhZaK-Wb1NWgIrxrUjJiA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "brian-lagerstrom",
+   "name": "Brian Lagerstrom",
+   "url": "https://www.youtube.com/@BrianLagerstrom",
+   "description": "Restaurant techniques at home.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCn5fhcGRrCvrmFibPbT6q1A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCn5fhcGRrCvrmFibPbT6q1A"
+   },
+   "image": "https://yt3.googleusercontent.com/Yc9iM-g4OdaoXNsUxVXKM1B3EEm4V7NJ1MFFPLCbyyyKLua6l2z9yCQsimgJPcMxiogye1PMng=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "budget-bytes",
+   "name": "Budget Bytes",
+   "url": "https://www.budgetbytes.com",
+   "description": "Cheap, simple recipes.",
+   "category": "food",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "chef-jean-pierre",
+   "name": "Chef Jean-Pierre",
+   "url": "https://www.youtube.com/@ChefJeanPierre",
+   "description": "Cheerful classic cooking.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLGNeElk4sNgzUrZr0c9krA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCLGNeElk4sNgzUrZr0c9krA"
+   },
+   "image": "https://yt3.googleusercontent.com/r8w7YwJiYUG9wUIN8yIbrft8suo-tIfgL7C2_orRkpv7rINERB7-elYgqA1KZyAJ8GeHv1tGwss=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "delish",
+   "name": "Delish",
+   "url": "https://www.delish.com",
+   "description": "Recipes and food news.",
+   "category": "food",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "eater",
+   "name": "Eater",
+   "url": "https://www.eater.com",
+   "description": "Restaurant and food culture.",
+   "category": "food",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.eater.com/rss/index.xml"
+   }
+  },
+  {
+   "id": "emmymade",
+   "name": "emmymade",
+   "url": "https://www.youtube.com/@emmymade",
+   "description": "Trying unusual foods and recipes.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzqbfYjQmf9nLQPMxVgPhiA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCzqbfYjQmf9nLQPMxVgPhiA"
+   },
+   "image": "https://yt3.googleusercontent.com/M7VzpQNl1ZyRzanTjgXqJaG_96xCUSCEuauwragf_R3P-khtUEr3cKFVluZcj-WawfiCBbpwpA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "epicurious",
+   "name": "Epicurious",
+   "url": "https://www.youtube.com/@epicurious",
+   "description": "4 Levels and kitchen skills.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcjhYlL1WRBjKaJsMH_h7Lg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCcjhYlL1WRBjKaJsMH_h7Lg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lZx80-3cTYmxKt9xeXzUUkAP9RuDcDT6J0u_5RSRBYHQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "ethan-chlebowski",
+   "name": "Ethan Chlebowski",
+   "url": "https://www.youtube.com/@EthanChlebowski",
+   "description": "How to cook without recipes.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDq5v10l4wkV5-ZBIJJFbzQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCDq5v10l4wkV5-ZBIJJFbzQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nASBGz3OXASRVham6ZgSHJrheFcXNKHtI86bw0QeA9ENc=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "food-wishes",
+   "name": "Food Wishes",
+   "url": "https://www.youtube.com/@foodwishes",
+   "description": "Chef John's recipes with his famous narration.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRIZtPl9nb9RiXc9btSTQNw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCRIZtPl9nb9RiXc9btSTQNw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kGZ14S6frarUZ0q3zzhqTSnl3zkYo_qxwQ8Wi-J11MaA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "food52",
+   "name": "Food52",
+   "url": "https://food52.com",
+   "description": "Recipes and kitchen community.",
+   "category": "food",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "glen-and-friends-cooking",
+   "name": "Glen and Friends Cooking",
+   "url": "https://www.youtube.com/@glenandfriendscooking",
+   "description": "Vintage recipes.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsU15yvILBmnHPeAf4SFVaQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCsU15yvILBmnHPeAf4SFVaQ"
+   },
+   "image": "https://yt3.googleusercontent.com/cGs4_-dRsVwaqvkPUIKwujCrQhaZRWLbmMk_FqLVhdHZbfx50fr1syRCJdVOG4f-C1zPDf9Fow=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "gordon-ramsay",
+   "name": "Gordon Ramsay",
+   "url": "https://www.youtube.com/@gordonramsay",
+   "description": "Recipes and kitchen shows.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIEv3lZ_tNXHzL3ox-_uUGQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCIEv3lZ_tNXHzL3ox-_uUGQ"
+   },
+   "image": "https://yt3.googleusercontent.com/iu8M-gugkNvz-lHxC1sMEfAlL7ONWbP91c5SM9bb98oCJAcYUl0HIAMZFFR2Dd-soGag1Y1y8A=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "j-kenji-l-pez-alt",
+   "name": "J. Kenji López-Alt",
+   "url": "https://www.youtube.com/@JKenjiLopezAlt",
+   "description": "Point-of-view cooking with food science.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqqJQ_cXSat0KIAVfIfKkVA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCqqJQ_cXSat0KIAVfIfKkVA"
+   },
+   "image": "https://yt3.googleusercontent.com/tEql8Eq4IgP3UNx5v646k5U1QKidegUlZRvS18PyF2WM9YGt770IlxFVRrdDatLKHRCFuv9kfA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "james-hoffmann",
+   "name": "James Hoffmann",
+   "url": "https://www.youtube.com/@jameshoffmann",
+   "description": "Coffee explained.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMb0O2CdPBNi-QqPk5T3gsQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCMb0O2CdPBNi-QqPk5T3gsQ"
+   },
+   "image": "https://yt3.googleusercontent.com/2k3-P8cX-0sawteUmQSzaQb7pLaCOKcNtEYDEXy1y8Y5wv97Ecgzhgg50b6NYCwxm677h9bT=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "jamie-oliver",
+   "name": "Jamie Oliver",
+   "url": "https://www.youtube.com/@JamieOliver",
+   "description": "Simple home cooking.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpSgg_ECBj25s9moCDfSTsA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCpSgg_ECBj25s9moCDfSTsA"
+   },
+   "image": "https://yt3.googleusercontent.com/IuSK5Kbv2c6duyWbtH413CRL9F0J3K-owptbpUbDPXGHrZXz8PKr7mim3nsj5EQYlpOoJbT16uk=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "joshua-weissman",
+   "name": "Joshua Weissman",
+   "url": "https://www.youtube.com/@JoshuaWeissman",
+   "description": "Homemade versions of everything.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChBEbMKI1eCcejTtmI32UEw"
+   },
+   "ids": {
+    "youtube_channel_id": "UChBEbMKI1eCcejTtmI32UEw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nfXRvoxu5cFt2H4WhJfFLbL5SVdzmvEnFymnPzH3_1qPM=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "king-arthur-baking",
+   "name": "King Arthur Baking",
+   "url": "https://www.kingarthurbaking.com",
+   "description": "Baking recipes and guides.",
+   "category": "food",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.kingarthurbaking.com/blog/feed"
+   }
+  },
+  {
+   "id": "minimalist-baker",
+   "name": "Minimalist Baker",
+   "url": "https://minimalistbaker.com",
+   "description": "Simple recipes with 10 ingredients or fewer.",
+   "category": "food",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://minimalistbaker.com/feed/"
+   }
+  },
+  {
+   "id": "nick-digiovanni",
+   "name": "Nick DiGiovanni",
+   "url": "https://www.youtube.com/@NickDiGiovanni",
+   "description": "Big cooking challenges.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMyOj6fhvKFMjxUCp3b_3gA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCMyOj6fhvKFMjxUCp3b_3gA"
+   },
+   "image": "https://yt3.googleusercontent.com/CofMW7AEzKvJogOyUg6_k_H0_jlaa4y2yC0mm-cbjvEpAv_IdOTxttHMIDFM3bD_pM6BBzS4Y44=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "nyt-cooking",
+   "name": "NYT Cooking",
+   "url": "https://cooking.nytimes.com",
+   "description": "New York Times recipes.",
+   "category": "food",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "paid",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "pick-up-limes",
+   "name": "Pick Up Limes",
+   "url": "https://www.youtube.com/@PickUpLimes",
+   "description": "Calm plant-based cooking.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq2E1mIwUKMWzCA4liA_XGQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCq2E1mIwUKMWzCA4liA_XGQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mCSpBDGSScH-p2WZgteRPLbfYTv3x4axX0joyY83xhP_A=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "pro-home-cooks",
+   "name": "Pro Home Cooks",
+   "url": "https://www.youtube.com/@ProHomeCooks",
+   "description": "Home cooking skills.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "rainbow-plant-life",
+   "name": "Rainbow Plant Life",
+   "url": "https://www.youtube.com/@RainbowPlantLife",
+   "description": "Vegan recipes.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDbZvuDA_tZ6XP5wKKFuemQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCDbZvuDA_tZ6XP5wKKFuemQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lOI8pgWUflxt7T5JRkkvbEGNGzuejytAmGj6-ufLZN3cA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "recipetin-eats",
+   "name": "RecipeTin Eats",
+   "url": "https://www.recipetineats.com",
+   "description": "Popular Australian recipe blog.",
+   "category": "food",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.recipetineats.com/feed/"
+   }
+  },
+  {
+   "id": "serious-eats",
+   "name": "Serious Eats",
+   "url": "https://www.seriouseats.com",
+   "description": "Science-based recipes and techniques.",
+   "category": "food",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "simply-recipes",
+   "name": "Simply Recipes",
+   "url": "https://www.simplyrecipes.com",
+   "description": "Family recipes.",
+   "category": "food",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "smitten-kitchen",
+   "name": "Smitten Kitchen",
+   "url": "https://smittenkitchen.com",
+   "description": "Home-cooking blog.",
+   "category": "food",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://smittenkitchen.com/feed/"
+   }
+  },
+  {
+   "id": "sorted-food",
+   "name": "Sorted Food",
+   "url": "https://www.youtube.com/@SortedFood",
+   "description": "Friends cook, compete and test gadgets.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfyehHM_eo4g5JUyWmms2LA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCfyehHM_eo4g5JUyWmms2LA"
+   },
+   "image": "https://yt3.googleusercontent.com/bHXL5q3XP6hdWDZ25fZVkFyUYQE7qVcWY1cT_3iEpARVdaMv2jEJIno-EYJMUnD5Z0qWO3h9=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "tasting-history-with-max-miller",
+   "name": "Tasting History with Max Miller",
+   "url": "https://www.youtube.com/@TastingHistory",
+   "description": "Historic recipes and the stories behind them.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsaGKqPZnGp_7N80hcHySGQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCsaGKqPZnGp_7N80hcHySGQ"
+   },
+   "image": "https://yt3.googleusercontent.com/UtovQ9ZNIIMpkeSDjPzxZSlQnVjwxOjBV2tX3kKYupcH8EEeaIQ7dbMwCKXJKFfJYn4CnqPilg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "tasty",
+   "name": "Tasty",
+   "url": "https://www.youtube.com/@buzzfeedtasty",
+   "description": "Quick recipe videos.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJFp8uSYCjXOMnkUyb3CQ3Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCJFp8uSYCjXOMnkUyb3CQ3Q"
+   },
+   "image": "https://yt3.googleusercontent.com/CfYIjL1dN06jrOxVxw4ElFs_0ShkZw9WpFmfkgoEx_-tdmG5Iv6CtlFmi3L-jkTmvTKfBXtMoMw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "townsends",
+   "name": "Townsends",
+   "url": "https://www.youtube.com/@townsends",
+   "description": "18th-century cooking and life.",
+   "category": "food",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxr2d4As312LulcajAkKJYw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCxr2d4As312LulcajAkKJYw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lnXbU6gj6vrXSKlWZ0LpZ6VH5C_XO3h85uzZMr-6mFE6w=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}

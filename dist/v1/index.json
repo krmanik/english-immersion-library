@@ -1,0 +1,477 @@
+{
+ "api_version": "v1",
+ "schema_version": 1,
+ "data_version": "31d8413d2e0a",
+ "count": 1171,
+ "endpoints": {
+  "all": "all.json",
+  "feeds": "feeds.json",
+  "category": "categories/{id}.json"
+ },
+ "categories": [
+  {
+   "id": "learn_video",
+   "group": "learn",
+   "name": "Learn English: Video",
+   "icon": "play.rectangle.fill",
+   "web_icon": "circle-play",
+   "description": "YouTube channels made for learners: lessons, vocabulary, grammar and everyday English.",
+   "count": 53,
+   "path": "categories/learn_video.json"
+  },
+  {
+   "id": "learn_podcast",
+   "group": "learn",
+   "name": "Learn English: Podcasts",
+   "icon": "headphones",
+   "web_icon": "headphones",
+   "description": "Podcasts made for learners, from slow, graded episodes to natural conversation.",
+   "count": 32,
+   "path": "categories/learn_podcast.json"
+  },
+  {
+   "id": "pronunciation",
+   "group": "learn",
+   "name": "Pronunciation & Accents",
+   "icon": "waveform",
+   "web_icon": "audio-lines",
+   "description": "Sounds, stress, intonation, accent training and shadowing practice.",
+   "count": 25,
+   "path": "categories/pronunciation.json"
+  },
+  {
+   "id": "graded_reading",
+   "group": "learn",
+   "name": "Graded Reading",
+   "icon": "book.pages",
+   "web_icon": "book-open",
+   "description": "Graded readers, levelled news and easy articles written for learners.",
+   "count": 24,
+   "path": "categories/graded_reading.json"
+  },
+  {
+   "id": "courses",
+   "group": "learn",
+   "name": "Courses & Grammar",
+   "icon": "graduationcap.fill",
+   "web_icon": "graduation-cap",
+   "description": "Free courses, grammar references, writing guides and lesson sites.",
+   "count": 32,
+   "path": "categories/courses.json"
+  },
+  {
+   "id": "dictionary",
+   "group": "learn",
+   "name": "Dictionaries & Tools",
+   "icon": "character.book.closed.fill",
+   "web_icon": "book-a",
+   "description": "Learner dictionaries, thesauruses, pronunciation lookups, corpora and writing tools.",
+   "count": 43,
+   "path": "categories/dictionary.json"
+  },
+  {
+   "id": "apps",
+   "group": "learn",
+   "name": "Learning Apps",
+   "icon": "apps.iphone",
+   "web_icon": "smartphone",
+   "description": "Apps for flashcards, courses, listening, speaking and immersion.",
+   "count": 26,
+   "path": "categories/apps.json"
+  },
+  {
+   "id": "exam",
+   "group": "learn",
+   "name": "IELTS, TOEFL & Cambridge",
+   "icon": "checkmark.seal.fill",
+   "web_icon": "badge-check",
+   "description": "Official exam sites, free practice tests and exam-prep channels.",
+   "count": 24,
+   "path": "categories/exam.json"
+  },
+  {
+   "id": "community",
+   "group": "learn",
+   "name": "Tutors & Community",
+   "icon": "person.2.fill",
+   "web_icon": "users",
+   "description": "Tutors, conversation practice, language exchange and learner communities.",
+   "count": 18,
+   "path": "categories/community.json"
+  },
+  {
+   "id": "news",
+   "group": "read",
+   "name": "News",
+   "icon": "newspaper.fill",
+   "web_icon": "newspaper",
+   "description": "Daily news in English from the US, UK, Australia, Canada, Ireland, India and international media.",
+   "count": 91,
+   "path": "categories/news.json"
+  },
+  {
+   "id": "tech",
+   "group": "read",
+   "name": "Tech",
+   "icon": "cpu.fill",
+   "web_icon": "cpu",
+   "description": "Tech news, reviews, gadgets and developer communities.",
+   "count": 43,
+   "path": "categories/tech.json"
+  },
+  {
+   "id": "business",
+   "group": "read",
+   "name": "Business & Finance",
+   "icon": "chart.line.uptrend.xyaxis",
+   "web_icon": "trending-up",
+   "description": "Economics explainers, markets, personal finance and business media.",
+   "count": 35,
+   "path": "categories/business.json"
+  },
+  {
+   "id": "science",
+   "group": "read",
+   "name": "Science & Nature",
+   "icon": "atom",
+   "web_icon": "atom",
+   "description": "Popular science, space, health, nature and research news.",
+   "count": 55,
+   "path": "categories/science.json"
+  },
+  {
+   "id": "history_culture",
+   "group": "read",
+   "name": "History & Culture",
+   "icon": "building.columns.fill",
+   "web_icon": "landmark",
+   "description": "History, museums, art, design and culture writing.",
+   "count": 33,
+   "path": "categories/history_culture.json"
+  },
+  {
+   "id": "stories",
+   "group": "read",
+   "name": "Essays & Longform",
+   "icon": "book.closed.fill",
+   "web_icon": "feather",
+   "description": "Magazines, essays, short fiction and longform journalism: well-edited prose for advanced readers.",
+   "count": 30,
+   "path": "categories/stories.json"
+  },
+  {
+   "id": "web_fiction",
+   "group": "read",
+   "name": "Web Fiction",
+   "icon": "text.book.closed.fill",
+   "web_icon": "book-text",
+   "description": "Serial fiction platforms: fantasy, romance, sci-fi, fan fiction and more.",
+   "count": 19,
+   "path": "categories/web_fiction.json"
+  },
+  {
+   "id": "literature",
+   "group": "read",
+   "name": "Classics & Poetry",
+   "icon": "scroll.fill",
+   "web_icon": "scroll-text",
+   "description": "Public-domain classics, poetry archives and literary study guides.",
+   "count": 21,
+   "path": "categories/literature.json"
+  },
+  {
+   "id": "ebooks",
+   "group": "read",
+   "name": "Books & Libraries",
+   "icon": "books.vertical.fill",
+   "web_icon": "library",
+   "description": "Free e-book libraries, library-lending apps and book communities.",
+   "count": 16,
+   "path": "categories/ebooks.json"
+  },
+  {
+   "id": "comics",
+   "group": "read",
+   "name": "Comics & Webcomics",
+   "icon": "rectangle.split.3x1.fill",
+   "web_icon": "panels-top-left",
+   "description": "Webcomics, comic strips and licensed comic platforms.",
+   "count": 28,
+   "path": "categories/comics.json"
+  },
+  {
+   "id": "social",
+   "group": "read",
+   "name": "Social & Forums",
+   "icon": "bubble.left.and.bubble.right.fill",
+   "web_icon": "messages-square",
+   "description": "Forums, Q&A and social platforms where native speakers talk.",
+   "count": 17,
+   "path": "categories/social.json"
+  },
+  {
+   "id": "video_platform",
+   "group": "watch",
+   "name": "Free Streaming",
+   "icon": "tv.fill",
+   "web_icon": "tv",
+   "description": "Legal free (or mostly free) streaming services and broadcaster players.",
+   "count": 16,
+   "path": "categories/video_platform.json"
+  },
+  {
+   "id": "drama_film",
+   "group": "watch",
+   "name": "TV & Film",
+   "icon": "film.fill",
+   "web_icon": "clapperboard",
+   "description": "Official channels with scenes, full episodes, trailers and film criticism.",
+   "count": 30,
+   "path": "categories/drama_film.json"
+  },
+  {
+   "id": "talk_shows",
+   "group": "watch",
+   "name": "Talk Shows & Interviews",
+   "icon": "sparkles.tv.fill",
+   "web_icon": "sparkles",
+   "description": "Late-night shows, interviews and long-form conversation.",
+   "count": 25,
+   "path": "categories/talk_shows.json"
+  },
+  {
+   "id": "comedy",
+   "group": "watch",
+   "name": "Comedy & Sketches",
+   "icon": "theatermasks.fill",
+   "web_icon": "drama",
+   "description": "Sketch comedy, stand-up, satire and improv.",
+   "count": 25,
+   "path": "categories/comedy.json"
+  },
+  {
+   "id": "documentary",
+   "group": "watch",
+   "name": "Documentaries",
+   "icon": "video.fill",
+   "web_icon": "video",
+   "description": "Documentary channels and free documentary sites.",
+   "count": 16,
+   "path": "categories/documentary.json"
+  },
+  {
+   "id": "explainers",
+   "group": "watch",
+   "name": "Explainers & Education",
+   "icon": "lightbulb.fill",
+   "web_icon": "lightbulb",
+   "description": "Clear, well-made videos that explain science, history, ideas and how things work.",
+   "count": 50,
+   "path": "categories/explainers.json"
+  },
+  {
+   "id": "vlog",
+   "group": "watch",
+   "name": "Vlogs & Lifestyle",
+   "icon": "camera.fill",
+   "web_icon": "camera",
+   "description": "Daily-life vlogs, productivity, home, fashion and personal channels.",
+   "count": 24,
+   "path": "categories/vlog.json"
+  },
+  {
+   "id": "food",
+   "group": "watch",
+   "name": "Food & Cooking",
+   "icon": "fork.knife",
+   "web_icon": "utensils",
+   "description": "Cooking shows, recipes, food science and restaurant culture.",
+   "count": 38,
+   "path": "categories/food.json"
+  },
+  {
+   "id": "travel",
+   "group": "watch",
+   "name": "Travel",
+   "icon": "airplane",
+   "web_icon": "plane",
+   "description": "Travel vlogs, guides and geography.",
+   "count": 23,
+   "path": "categories/travel.json"
+  },
+  {
+   "id": "animation",
+   "group": "watch",
+   "name": "Animation",
+   "icon": "wand.and.stars",
+   "web_icon": "wand-sparkles",
+   "description": "Animated series, shorts, storytime animation and animation studios.",
+   "count": 13,
+   "path": "categories/animation.json"
+  },
+  {
+   "id": "kids",
+   "group": "watch",
+   "name": "Kids & Family",
+   "icon": "figure.and.child.holdinghands",
+   "web_icon": "baby",
+   "description": "Children's shows, songs, phonics and read-alouds: simple, clear English.",
+   "count": 37,
+   "path": "categories/kids.json"
+  },
+  {
+   "id": "gaming",
+   "group": "watch",
+   "name": "Gaming",
+   "icon": "gamecontroller.fill",
+   "web_icon": "gamepad-2",
+   "description": "Game news, reviews, essays and let's plays.",
+   "count": 25,
+   "path": "categories/gaming.json"
+  },
+  {
+   "id": "sports",
+   "group": "watch",
+   "name": "Sports & Fitness",
+   "icon": "figure.run",
+   "web_icon": "dumbbell",
+   "description": "Sports leagues, analysis, workouts and outdoor channels.",
+   "count": 19,
+   "path": "categories/sports.json"
+  },
+  {
+   "id": "music",
+   "group": "listen",
+   "name": "Music & Lyrics",
+   "icon": "music.note",
+   "web_icon": "music",
+   "description": "Lyrics sites, song breakdowns, live sessions and music radio.",
+   "count": 21,
+   "path": "categories/music.json"
+  },
+  {
+   "id": "podcast",
+   "group": "listen",
+   "name": "Podcasts: Talk & Ideas",
+   "icon": "mic.fill",
+   "web_icon": "mic",
+   "description": "Popular English podcasts on news, science, culture, business and life.",
+   "count": 85,
+   "path": "categories/podcast.json"
+  },
+  {
+   "id": "story_podcast",
+   "group": "listen",
+   "name": "Podcasts: Stories",
+   "icon": "waveform.circle.fill",
+   "web_icon": "audio-waveform",
+   "description": "True stories, history, storytelling, fiction and audio drama.",
+   "count": 41,
+   "path": "categories/story_podcast.json"
+  },
+  {
+   "id": "radio_audio",
+   "group": "listen",
+   "name": "Radio & Audiobooks",
+   "icon": "radio.fill",
+   "web_icon": "radio",
+   "description": "Public radio, live stations and free audiobooks.",
+   "count": 18,
+   "path": "categories/radio_audio.json"
+  }
+ ],
+ "facets": {
+  "types": [
+   "app",
+   "newsletter",
+   "podcast",
+   "website",
+   "youtube"
+  ],
+  "levels": [
+   "beginner",
+   "intermediate",
+   "advanced"
+  ],
+  "regions": [
+   "au",
+   "ca",
+   "gb",
+   "global",
+   "ie",
+   "in",
+   "nz",
+   "sg",
+   "us",
+   "za"
+  ],
+  "pricing": [
+   "free",
+   "freemium",
+   "paid"
+  ],
+  "login": [
+   "none",
+   "partial",
+   "required"
+  ],
+  "subtitles": [
+   "free",
+   "paid"
+  ],
+  "tags": [
+   "accents",
+   "beginner",
+   "british-vs-american",
+   "business-english",
+   "cambridge",
+   "cefr",
+   "classes",
+   "collocations",
+   "conversation",
+   "corpus",
+   "culture",
+   "encyclopedia",
+   "etymology",
+   "flashcards",
+   "fluency",
+   "grammar",
+   "humor",
+   "idioms",
+   "ielts",
+   "interviews",
+   "kids",
+   "language",
+   "language-exchange",
+   "linguistics",
+   "listening",
+   "live",
+   "michigan",
+   "movies",
+   "news",
+   "phonetics",
+   "phrasal-verbs",
+   "pronunciation",
+   "pte",
+   "qa",
+   "reader",
+   "science",
+   "slang",
+   "slow-english",
+   "speaking",
+   "speeches",
+   "stories",
+   "street-interviews",
+   "subtitles",
+   "toefl",
+   "toeic",
+   "tool",
+   "transcripts",
+   "translation",
+   "tutors",
+   "tv",
+   "vocabulary",
+   "writing"
+  ]
+ }
+}

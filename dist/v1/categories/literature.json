@@ -1,0 +1,462 @@
+{
+ "category": {
+  "id": "literature",
+  "group": "read",
+  "name": "Classics & Poetry",
+  "icon": "scroll.fill",
+  "web_icon": "scroll-text",
+  "description": "Public-domain classics, poetry archives and literary study guides."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 21,
+ "resources": [
+  {
+   "id": "american-literature",
+   "name": "American Literature",
+   "url": "https://americanliterature.com",
+   "description": "Classic short stories, poems and novels.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "bartleby",
+   "name": "Bartleby",
+   "url": "https://www.bartleby.com",
+   "description": "Classic literature and reference works.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "classic-short-stories",
+   "name": "Classic Short Stories",
+   "url": "https://www.classicshorts.com",
+   "description": "Classic short stories to read online.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "east-of-the-web-short-stories",
+   "name": "East of the Web Short Stories",
+   "url": "https://www.eastoftheweb.com/short-stories/",
+   "description": "Classic and new short stories with reading times.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "faded-page",
+   "name": "Faded Page",
+   "url": "https://www.fadedpage.com",
+   "description": "Public-domain e-books under Canadian law.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "folger-shakespeare",
+   "name": "Folger Shakespeare",
+   "url": "https://www.folger.edu/explore/shakespeares-works/",
+   "description": "Free Shakespeare texts from the Folger Library.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "interesting-literature",
+   "name": "Interesting Literature",
+   "url": "https://interestingliterature.com",
+   "description": "Short essays on classic books and poems.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://interestingliterature.com/feed/"
+   }
+  },
+  {
+   "id": "litcharts",
+   "name": "LitCharts",
+   "url": "https://www.litcharts.com",
+   "description": "Detailed literature guides and Shakespeare translations.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "open-source-shakespeare",
+   "name": "Open Source Shakespeare",
+   "url": "https://www.opensourceshakespeare.org",
+   "description": "Searchable complete works of Shakespeare.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "pennsound",
+   "name": "PennSound",
+   "url": "https://writing.upenn.edu/pennsound/",
+   "description": "Free archive of poetry recordings.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "poem-hunter",
+   "name": "Poem Hunter",
+   "url": "https://www.poemhunter.com",
+   "description": "Large poetry collection.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "poem-a-day",
+   "name": "Poem-a-Day",
+   "url": "https://poets.org/poem-a-day",
+   "description": "A new poem by email every day.",
+   "category": "literature",
+   "type": "newsletter",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "poetry-foundation",
+   "name": "Poetry Foundation",
+   "url": "https://www.poetryfoundation.org",
+   "description": "Poems, poets and articles.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "poetry-out-loud",
+   "name": "Poetry Out Loud",
+   "url": "https://www.poetryoutloud.org",
+   "description": "Poems chosen for reciting aloud, with audio.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://poetryoutloud.org/feed/"
+   }
+  },
+  {
+   "id": "poets-org",
+   "name": "Poets.org",
+   "url": "https://poets.org",
+   "description": "The Academy of American Poets' library and Poem-a-Day.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "project-gutenberg",
+   "name": "Project Gutenberg",
+   "url": "https://www.gutenberg.org",
+   "description": "70,000+ free public-domain e-books.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "project-gutenberg-australia",
+   "name": "Project Gutenberg Australia",
+   "url": "https://gutenberg.net.au",
+   "description": "Public-domain books under Australian law.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "sparknotes",
+   "name": "SparkNotes",
+   "url": "https://www.sparknotes.com",
+   "description": "Study guides to literature.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "standard-ebooks",
+   "name": "Standard Ebooks",
+   "url": "https://standardebooks.org",
+   "description": "Beautifully formatted free public-domain classics.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "atom",
+    "url": "https://standardebooks.org/feeds/atom/new-releases"
+   }
+  },
+  {
+   "id": "the-poetry-archive",
+   "name": "The Poetry Archive",
+   "url": "https://poetryarchive.org",
+   "description": "Recordings of poets reading their own work.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "wikisource",
+   "name": "Wikisource",
+   "url": "https://en.wikisource.org",
+   "description": "Free library of source texts.",
+   "category": "literature",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  }
+ ]
+}

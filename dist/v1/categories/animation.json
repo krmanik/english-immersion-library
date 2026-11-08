@@ -1,0 +1,385 @@
+{
+ "category": {
+  "id": "animation",
+  "group": "watch",
+  "name": "Animation",
+  "icon": "wand.and.stars",
+  "web_icon": "wand-sparkles",
+  "description": "Animated series, shorts, storytime animation and animation studios."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 13,
+ "resources": [
+  {
+   "id": "adult-swim",
+   "name": "Adult Swim",
+   "url": "https://www.youtube.com/@adultswim",
+   "description": "Adult animation clips.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgPClNr5VSYC3syrDUIlzLw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCgPClNr5VSYC3syrDUIlzLw"
+   },
+   "image": "https://yt3.googleusercontent.com/oGhBcOj4r0zwibT0YBO70um0bKh5g-DW7cuamIha3zmdJ7wxcinJUMybzVwhXCn6PXnFf8zP=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "animation-obsessive",
+   "name": "Animation Obsessive",
+   "url": "https://animationobsessive.substack.com",
+   "description": "Newsletter on animation history.",
+   "category": "animation",
+   "type": "newsletter",
+   "level": [
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://animationobsessive.substack.com/feed"
+   }
+  },
+  {
+   "id": "cartoon-brew",
+   "name": "Cartoon Brew",
+   "url": "https://www.cartoonbrew.com",
+   "description": "Animation industry news.",
+   "category": "animation",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://cartoonbrew.com/feed"
+   }
+  },
+  {
+   "id": "cartoon-network",
+   "name": "Cartoon Network",
+   "url": "https://www.youtube.com/@cartoonnetwork",
+   "description": "Clips and episodes from Cartoon Network shows.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "domics",
+   "name": "Domics",
+   "url": "https://www.youtube.com/@Domics",
+   "description": "Animated stories.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCn1XB-jvmd9fXMzhiA6IR0w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCn1XB-jvmd9fXMzhiA6IR0w"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nCDcKUdy_IXCFt9oyETKTYzbECJ9n6v4yhRJ4a61Ab38U=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "emirichu",
+   "name": "emirichu",
+   "url": "https://www.youtube.com/@emirichu",
+   "description": "Animated storytime.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFeqAfEuKm7lIg2ddQzh61A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCFeqAfEuKm7lIg2ddQzh61A"
+   },
+   "image": "https://yt3.googleusercontent.com/bmGUiFwugkbTumh0AtN0Iz99o-supQrB6A3rPh0QQiGYCAVo3NQXNZeEqtYM9whgxSRwqJPAig=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "glitch",
+   "name": "GLITCH",
+   "url": "https://www.youtube.com/@GLITCH",
+   "description": "Indie animated series like The Amazing Digital Circus.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCn_FAXem2-e3HQvmK-mOH4g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCn_FAXem2-e3HQvmK-mOH4g"
+   },
+   "image": "https://yt3.googleusercontent.com/JgzaWBB7n02Ru2TTmcVLCJJNBW1mLnh_f6eJYPOuEShb3PaXmwkqas5zfpA_sVXjYkg_UNmx=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "illumination",
+   "name": "Illumination",
+   "url": "https://www.youtube.com/@Illumination",
+   "description": "Trailers and clips from Illumination films.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq7OHvWO6Z3u-LztFdrcU-g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCq7OHvWO6Z3u-LztFdrcU-g"
+   },
+   "image": "https://yt3.googleusercontent.com/jVkTxjd53v2skyBGzf9mnifiV29VLY_7DZeVSRbUaGXDswKAD5v1Ziquj_uuF5p_xplqbVL5mCw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "jaiden-animations",
+   "name": "Jaiden Animations",
+   "url": "https://www.youtube.com/@JaidenAnimations",
+   "description": "Animated storytime about life.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGwu0nbY2wSkW8N-cghnLpA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCGwu0nbY2wSkW8N-cghnLpA"
+   },
+   "image": "https://yt3.googleusercontent.com/6uDu4HmbcorfDWch6L4FAzv-DFMOstOwhTks-5VUm-kY5puZ_oU4EeA1YOqEM_EDvCTj3UPUW68=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "pixar",
+   "name": "Pixar",
+   "url": "https://www.youtube.com/@Pixar",
+   "description": "Trailers, shorts and behind-the-scenes.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_IRYSp4auq7hKLvziWVH6w"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_IRYSp4auq7hKLvziWVH6w"
+   },
+   "image": "https://yt3.googleusercontent.com/Jx6IMa3GXkYWkb-vcQAXbLjo34AnwQDF8lmL-jpe6NDZ-MJBl5U8-1Olgg3Ry_M1awca0vMrVQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "rebecca-parham",
+   "name": "Rebecca Parham",
+   "url": "https://www.youtube.com/@RebeccaParham",
+   "description": "Animated storytime and animation history.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_go-6byieQdSnAfO-LMHLQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_go-6byieQdSnAfO-LMHLQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lS3NowzQMkyuyqzzuxUUmD9uEXbNZUjzLbp-xL4Vk=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "theodd1sout",
+   "name": "TheOdd1sOut",
+   "url": "https://www.youtube.com/@theodd1sout",
+   "description": "Animated personal stories.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo8bcnLyZH8tBIH9V1mLgqQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCo8bcnLyZH8tBIH9V1mLgqQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mxpQ2hfudhflswgM8pZg22Jn_bgaQV0gIpUqYQW4z9Av8=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "vivziepop",
+   "name": "Vivziepop",
+   "url": "https://www.youtube.com/@VivziePop",
+   "description": "Animated musical comedies.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  }
+ ]
+}

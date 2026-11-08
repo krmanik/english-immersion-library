@@ -1,0 +1,975 @@
+{
+ "category": {
+  "id": "learn_podcast",
+  "group": "learn",
+  "name": "Learn English: Podcasts",
+  "icon": "headphones",
+  "web_icon": "headphones",
+  "description": "Podcasts made for learners, from slow, graded episodes to natural conversation."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 32,
+ "resources": [
+  {
+   "id": "6-minute-english",
+   "name": "6 Minute English",
+   "url": "https://podcasts.apple.com/us/podcast/6-minute-english/id262026947",
+   "description": "BBC discussions of a topical subject with key vocabulary, with transcripts on the BBC site.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "vocabulary"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcasts.files.bbci.co.uk/p02pc9tn.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "262026947"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ba/98/35/ba9835eb-1ef3-60e4-bf05-3d141b8d1c7a/mza_3844641997714022659.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "adept-english",
+   "name": "Adept English",
+   "url": "https://podcasts.apple.com/",
+   "description": "Listening practice on everyday topics in clear British English.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "listening"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "all-ears-english-podcast",
+   "name": "All Ears English Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/all-ears-english-podcast/id751574016",
+   "description": "Short daily episodes on natural American English, connection and confidence.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/allearsenglish"
+   },
+   "ids": {
+    "apple_podcast_id": "751574016"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cb/a1/13/cba113a7-999d-3c3d-a594-900adb69624e/mza_7992161192502469150.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "better-at-english",
+   "name": "Better at English",
+   "url": "https://podcasts.apple.com/us/podcast/get-better-english/id1745665226",
+   "description": "Real, unscripted conversations with native speakers, explained.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://cloud.mave.digital/54669"
+   },
+   "ids": {
+    "apple_podcast_id": "1745665226"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/e0/6b/71e06bb0-68cd-4287-57a4-ed4d068cdced/mza_9360756383024568562.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "business-english-pod",
+   "name": "Business English Pod",
+   "url": "https://podcasts.apple.com/us/podcast/business-english-pod-learn-business-english/id206603090",
+   "description": "Dialogues and lessons on English for business and work.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [
+    "business-english"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "http://feeds.feedburner.com/businessenglishpod"
+   },
+   "ids": {
+    "apple_podcast_id": "206603090"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/de/02/b9/de02b97f-032c-c5f5-77d7-1f4deaedcfdd/mza_11632169673225948197.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "coffee-break-english",
+   "name": "Coffee Break English",
+   "url": "https://podcasts.apple.com/us/podcast/coffee-break-english/id1519676522",
+   "description": "Structured lessons following a learner's progress through real English.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/271d6740/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1519676522"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9d/20/a0/9d20a002-1f8f-ac77-b091-22eb64b27cc6/mza_4867184619362581234.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "culips-english-podcast",
+   "name": "Culips English Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/culips-everyday-english-podcast/id279999557",
+   "description": "Natural conversations between native speakers, explained for learners.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://esl.culips.com/feed/podcast/"
+   },
+   "ids": {
+    "apple_podcast_id": "279999557"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/ca/bd/be/cabdbe46-9408-6ff9-dd4c-fa944d90d9f4/mza_9088968848133222748.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "daily-easy-english-expression-podcast",
+   "name": "Daily Easy English Expression Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/daily-easy-english-expression-podcast/id878268013",
+   "description": "One everyday expression per episode, explained simply.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "idioms"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.libsyn.com/shows/54133/destinations/197908.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "878268013"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/1a/59/3f/1a593fb9-0a6a-1556-9e49-70de0189fa63/mza_1870991887510831346.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "down-to-earth-english",
+   "name": "Down to Earth English",
+   "url": "https://podcasts.apple.com/us/podcast/down-to-earth/id1055025787",
+   "description": "Natural conversations about life and the world with transcripts.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://apis.france24.com/products/get_product/podcast-f24-en-get-video-podcast-by-entreprise-id?token_application=33d60288-7e20-11e9-884b-005056a9c687&program.entrepriseId=WB5407606-F24-EN-20130412"
+   },
+   "ids": {
+    "apple_podcast_id": "1055025787"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/86/2f/09/862f0974-f71a-9849-7ad7-6126d7b9a0f6/mza_16598129493982732179.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "easy-stories-in-english",
+   "name": "Easy Stories in English",
+   "url": "https://podcasts.apple.com/us/podcast/easy-stories-in-english/id1448201565",
+   "description": "Fairy tales and stories retold at beginner, intermediate and advanced levels.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "stories"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/GLSS2276105381"
+   },
+   "ids": {
+    "apple_podcast_id": "1448201565"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/50/c7/97/50c79792-1448-8402-89b8-980fe261bcd7/mza_613017404602441223.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "english-across-the-pond",
+   "name": "English Across the Pond",
+   "url": "https://podcasts.apple.com/",
+   "description": "A British and an American host compare vocabulary and culture.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "british-vs-american"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "english-learning-for-curious-minds",
+   "name": "English Learning for Curious Minds",
+   "url": "https://podcasts.apple.com/",
+   "description": "Stories about history, science and culture told clearly for intermediate learners.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "culture",
+    "stories"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true
+  },
+  {
+   "id": "english-plus-podcast",
+   "name": "English Plus Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/english-plus/id1459817244",
+   "description": "Episodes on vocabulary, culture and ideas for intermediate learners.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.captivate.fm/english-plus-with-danny/"
+   },
+   "ids": {
+    "apple_podcast_id": "1459817244"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bb/7a/91/bb7a915f-1fcf-0fb8-7d81-dc4ed1bff344/mza_13491020698420675949.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "eslpod",
+   "name": "ESLPod",
+   "url": "https://podcasts.apple.com/",
+   "description": "Slow, clear dialogues explained in detail, from the long-running ESL Podcast.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [
+    "slow-english"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "espresso-english-podcast",
+   "name": "Espresso English Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/espresso-english-podcast/id957223102",
+   "description": "Short episodes on everyday vocabulary and grammar.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.libsyn.com/shows/56803/destinations/212704.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "957223102"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/83/4a/31/834a31b2-3941-72ae-1253-b9e430796451/mza_16021704442878844145.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "go-natural-english-podcast",
+   "name": "Go Natural English Podcast",
+   "url": "https://podcasts.apple.com/",
+   "description": "Gabby's lessons on listening and speaking natural English.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "grammar-girl-quick-and-dirty-tips-for-better-writing",
+   "name": "Grammar Girl Quick and Dirty Tips for Better Writing",
+   "url": "https://podcasts.apple.com/",
+   "description": "Short, friendly episodes on grammar, usage and words.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "grammar",
+    "writing"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "ielts-energy-english-podcast",
+   "name": "IELTS Energy English Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/ielts-energy-english-7/id969076668",
+   "description": "All Ears English's show on IELTS speaking and test strategy.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "ielts"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/ALLE4310393056"
+   },
+   "ids": {
+    "apple_podcast_id": "969076668"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3c/05/50/3c055046-4900-44d9-a803-bc383300cd99/mza_4842244749630690355.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "learning-english-broadcast",
+   "name": "Learning English Broadcast",
+   "url": "https://podcasts.apple.com/",
+   "description": "VOA's slow-speed news broadcast for learners of American English.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "news",
+    "slow-english"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true
+  },
+  {
+   "id": "learning-english-conversations",
+   "name": "Learning English Conversations",
+   "url": "https://podcasts.apple.com/us/podcast/learn-english-with-podcast-conversation/id1784080825",
+   "description": "BBC Learning English lessons on phrases, grammar and conversation.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/fe3c8db4/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1784080825"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/97/4b/64/974b64bf-ee57-a370-8171-b7e1d56822c3/mza_16196221763075355560.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "luke-s-english-podcast",
+   "name": "Luke's English Podcast",
+   "url": "https://podcasts.apple.com/",
+   "description": "Long, funny and natural British English episodes from a teacher and comedian.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "plain-english",
+   "name": "Plain English",
+   "url": "https://podcasts.apple.com/us/podcast/plain-english/id1327149893",
+   "description": "Current events in slower English, with full transcripts and vocabulary.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "news"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.captivate.fm/plain-english/"
+   },
+   "ids": {
+    "apple_podcast_id": "1327149893"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ac/b7/83/acb78350-ee0e-0cd4-db56-846f81d0244a/mza_10163635134295731422.png/600x600bb.jpg"
+  },
+  {
+   "id": "real-english-conversations",
+   "name": "Real English Conversations",
+   "url": "https://podcasts.apple.com/",
+   "description": "Australian teachers in natural, unscripted conversation about learning English.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "simple-english-news-daily",
+   "name": "Simple English News Daily",
+   "url": "https://podcasts.apple.com/us/podcast/simple-english-news-daily/id1505603790",
+   "description": "Short daily news summaries read in simple English.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "news"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.spreaker.com/show/4907677/episodes/feed"
+   },
+   "ids": {
+    "apple_podcast_id": "1505603790"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/23/e8/bb23e8d6-0b5b-813d-9fd3-450810d19718/mza_615770896190910080.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "speak-better-english-with-harry",
+   "name": "Speak Better English with Harry",
+   "url": "https://podcasts.apple.com/us/podcast/speak-better-english-with-harry/id1474389130",
+   "description": "British English lessons on vocabulary and fluency.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/11803a930/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1474389130"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/75/84/7a/75847a12-579f-47f7-6b9b-b30722dafb7c/mza_771048615833820258.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "speak-english-now-podcast",
+   "name": "Speak English Now Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/speak-english-now-podcast-learn-english-speak-english/id1216879060",
+   "description": "Georgiana's slow, clear episodes on natural speaking and listening.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "slow-english"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.libsyn.com/shows/95915/destinations/491662.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1216879060"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/fa/c8/6efac86f-d9ae-e31b-3ae6-ea6ca43380e6/mza_12347604421466927243.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "spotlight-english",
+   "name": "Spotlight English",
+   "url": "https://podcasts.apple.com/us/podcast/spotlight-english/id1461661420",
+   "description": "Slow, clear English programs on world topics for learners.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "slow-english"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.spreaker.com/show/4065149/episodes/feed"
+   },
+   "ids": {
+    "apple_podcast_id": "1461661420"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/43/0d/7b/430d7b22-4c39-6883-39c6-b028ffe849d5/mza_14385578498165818435.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-bob-the-canadian-podcast",
+   "name": "The Bob the Canadian Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/beyond-bob-the-canadian-english-learning-notes/id1833778421",
+   "description": "Bob's relaxed conversations for listening practice.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/108628500/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1833778421"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/39/10/fb39104b-943f-8282-c9d1-409032742e38/mza_8701356425362905571.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-english-we-speak",
+   "name": "The English We Speak",
+   "url": "https://podcasts.apple.com/",
+   "description": "Three-minute BBC episodes, each explaining one everyday English phrase.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "idioms"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "the-level-up-english-podcast",
+   "name": "The Level Up English Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/the-level-up-english-podcast/id1459642847",
+   "description": "Natural British English conversation and tips from Ben.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.acast.com/public/shows/695f66d5313b8080650f58ae"
+   },
+   "ids": {
+    "apple_podcast_id": "1459642847"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/15/f5/79/15f57931-3ec9-7a61-48e7-2f492b883cd0/mza_6999856224961397978.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "thinking-in-english",
+   "name": "Thinking in English",
+   "url": "https://podcasts.apple.com/us/podcast/thinking-in-english/id1535401964",
+   "description": "Episodes on current topics designed to help you think in English.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "fluency"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.pdrl.fm/699122/feeds.megaphone.fm/ARML8307714981"
+   },
+   "ids": {
+    "apple_podcast_id": "1535401964"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/d9/84/6ad984d4-46b5-80f4-801b-ccfda17d6d32/mza_7127684008959106584.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "zdenek-s-english-podcast",
+   "name": "Zdenek's English Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/zdeneks-english-podcast/id1291763311",
+   "description": "A learner-turned-teacher's long conversations about English and life.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://media.rss.com/zdeneksenglishpodcast/feed.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1291763311"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/0e/61/f5/0e61f552-d8d5-8915-ec8d-258ead32d57e/mza_3053398622899576487.jpg/600x600bb.jpg"
+  }
+ ]
+}

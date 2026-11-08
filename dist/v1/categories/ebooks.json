@@ -1,0 +1,354 @@
+{
+ "category": {
+  "id": "ebooks",
+  "group": "read",
+  "name": "Books & Libraries",
+  "icon": "books.vertical.fill",
+  "web_icon": "library",
+  "description": "Free e-book libraries, library-lending apps and book communities."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 16,
+ "resources": [
+  {
+   "id": "digital-public-library-of-america",
+   "name": "Digital Public Library of America",
+   "url": "https://dp.la",
+   "description": "Free access to America's libraries and archives.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "feedbooks-public-domain",
+   "name": "Feedbooks Public Domain",
+   "url": "https://www.feedbooks.com/publicdomain",
+   "description": "Free public-domain e-books.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "global-grey",
+   "name": "Global Grey",
+   "url": "https://www.globalgreyebooks.com",
+   "description": "Free classic e-books.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "goodreads",
+   "name": "Goodreads",
+   "url": "https://www.goodreads.com",
+   "description": "Book reviews and reading lists.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "google-play-books",
+   "name": "Google Play Books",
+   "url": "https://play.google.com/store/books",
+   "description": "E-book store with many free books.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "hathitrust",
+   "name": "HathiTrust",
+   "url": "https://www.hathitrust.org",
+   "description": "Digital library of scanned books.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "hoopla",
+   "name": "Hoopla",
+   "url": "https://www.hoopladigital.com",
+   "description": "Library app for e-books, audiobooks, comics and films.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "required",
+   "recommended": false
+  },
+  {
+   "id": "internet-archive",
+   "name": "Internet Archive",
+   "url": "https://archive.org",
+   "description": "Free books, films, audio and the Wayback Machine.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "kobo",
+   "name": "Kobo",
+   "url": "https://www.kobo.com",
+   "description": "E-book store with free classics.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "paid",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "libby",
+   "name": "Libby",
+   "url": "https://libbyapp.com",
+   "description": "Borrow e-books and audiobooks with a library card.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "required",
+   "recommended": false
+  },
+  {
+   "id": "librarything",
+   "name": "LibraryThing",
+   "url": "https://www.librarything.com",
+   "description": "Catalogue your books and find recommendations.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "manybooks",
+   "name": "ManyBooks",
+   "url": "https://manybooks.net",
+   "description": "Free e-books.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "open-library",
+   "name": "Open Library",
+   "url": "https://openlibrary.org",
+   "description": "Borrow millions of e-books for free.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "serial-reader",
+   "name": "Serial Reader",
+   "url": "https://www.serialreader.org",
+   "description": "Classic books delivered in short daily instalments.",
+   "category": "ebooks",
+   "type": "app",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "smashwords",
+   "name": "Smashwords",
+   "url": "https://www.smashwords.com",
+   "description": "Indie e-books, many free.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "the-storygraph",
+   "name": "The StoryGraph",
+   "url": "https://www.thestorygraph.com",
+   "description": "Book tracking and recommendations.",
+   "category": "ebooks",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "required",
+   "recommended": false
+  }
+ ]
+}

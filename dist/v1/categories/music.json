@@ -1,0 +1,563 @@
+{
+ "category": {
+  "id": "music",
+  "group": "listen",
+  "name": "Music & Lyrics",
+  "icon": "music.note",
+  "web_icon": "music",
+  "description": "Lyrics sites, song breakdowns, live sessions and music radio."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 21,
+ "resources": [
+  {
+   "id": "azlyrics",
+   "name": "AZLyrics",
+   "url": "https://www.azlyrics.com",
+   "description": "Song lyrics.",
+   "category": "music",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "bandcamp-daily",
+   "name": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com",
+   "description": "Features on independent music.",
+   "category": "music",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "bbc-radio-1",
+   "name": "BBC Radio 1",
+   "url": "https://www.youtube.com/@BBCRadio1",
+   "description": "Live Lounge and interviews.",
+   "category": "music",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-FQUIVQ-bZiefzBiQAa8Fw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC-FQUIVQ-bZiefzBiQAa8Fw"
+   },
+   "image": "https://yt3.googleusercontent.com/DCFe6o9pTYMisY4K9sCR5TP4QoOfBKC2bGURwUduYe2KyYp4rTOakvv2X9PKOg1LDQBBVOa2IQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "dissect",
+   "name": "Dissect",
+   "url": "https://podcasts.apple.com/us/podcast/dissect/id1143845868",
+   "description": "Long-form analysis of one album per season.",
+   "category": "music",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/dissectwide"
+   },
+   "ids": {
+    "apple_podcast_id": "1143845868"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/d8/f5/3ed8f5f4-4113-9049-ddf9-6900d2d2969d/mza_6863756797238193337.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "genius",
+   "name": "Genius",
+   "url": "https://genius.com",
+   "description": "Song lyrics annotated with meanings.",
+   "category": "music",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "genius-youtube",
+   "name": "Genius (YouTube)",
+   "url": "https://www.youtube.com/@Genius",
+   "description": "Artists explain their lyrics (Verified).",
+   "category": "music",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyFZMEnm1il5Wv3a6tPscbA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCyFZMEnm1il5Wv3a6tPscbA"
+   },
+   "image": "https://yt3.googleusercontent.com/MqakHuFktIhFCdhHVU6t5a838FSm_UZfQjbI1I826lapHOHoEmviw7ghwNZBCgNdY_lvWQSplhE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "kcrw",
+   "name": "KCRW",
+   "url": "https://www.kcrw.com",
+   "description": "Public music radio from Los Angeles.",
+   "category": "music",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "kexp",
+   "name": "KEXP",
+   "url": "https://www.youtube.com/@kexp",
+   "description": "Live studio sessions with interviews.",
+   "category": "music",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3I2GFN_F8WudD_2jUZbojA"
+   },
+   "ids": {
+    "youtube_channel_id": "UC3I2GFN_F8WudD_2jUZbojA"
+   },
+   "image": "https://yt3.googleusercontent.com/cl8yKGTNMIspmtTvc0UJIiFzn3b0jH-eOlSBwd4ODVbXNkxUEZ-7JVlCZi2DRPw8qtIDv-jN2Gg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "lyricstraining",
+   "name": "LyricsTraining",
+   "url": "https://lyricstraining.com",
+   "description": "Fill in missing lyrics while music videos play.",
+   "category": "music",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "musixmatch",
+   "name": "Musixmatch",
+   "url": "https://www.musixmatch.com",
+   "description": "Synced lyrics and translations.",
+   "category": "music",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "nme",
+   "name": "NME",
+   "url": "https://www.nme.com",
+   "description": "British music news.",
+   "category": "music",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "npr-music",
+   "name": "NPR Music",
+   "url": "https://www.youtube.com/@nprmusic",
+   "description": "Tiny Desk Concerts and live sessions.",
+   "category": "music",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A"
+   },
+   "ids": {
+    "youtube_channel_id": "UC4eYXhJI4-7wSWc8UNRwD4A"
+   },
+   "image": "https://yt3.googleusercontent.com/IXJZjJSYR9kfnUcHwIzAYjunIfovC2QYOOAseZxrDHBwvCKQEHBNcdC6PmNxn8EALE357U3vvhE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "pitchfork",
+   "name": "Pitchfork",
+   "url": "https://pitchfork.com",
+   "description": "Music reviews and news.",
+   "category": "music",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://pitchfork.com/feed/rss"
+   }
+  },
+  {
+   "id": "polyphonic",
+   "name": "Polyphonic",
+   "url": "https://www.youtube.com/@Polyphonic",
+   "description": "Video essays on classic songs and albums.",
+   "category": "music",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXkNod_JcH7PleOjwK_8rYQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCXkNod_JcH7PleOjwK_8rYQ"
+   },
+   "image": "https://yt3.googleusercontent.com/LdXQvS2K34PScBVl6pP8as7JI70RIpNssWhc6CZy-oNlw0Buo9bFTu6ex7GRpJGwFQZxJeenyXs=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "radio-paradise",
+   "name": "Radio Paradise",
+   "url": "https://radioparadise.com",
+   "description": "Listener-supported eclectic radio.",
+   "category": "music",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "rick-beato",
+   "name": "Rick Beato",
+   "url": "https://www.youtube.com/@RickBeato",
+   "description": "Music theory and song analysis.",
+   "category": "music",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJquYOG5EL82sKTfH9aMA9Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCJquYOG5EL82sKTfH9aMA9Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ZfDOigTWKzMkwaokreALniSPfAzaAq4v2T9hawgoFmjX4mHULaVyCcySqKjmvcBqvoPyWX7gsg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "rolling-stone",
+   "name": "Rolling Stone",
+   "url": "https://www.rollingstone.com",
+   "description": "Music and pop culture.",
+   "category": "music",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.rollingstone.com/feed/rss/"
+   }
+  },
+  {
+   "id": "song-exploder",
+   "name": "Song Exploder",
+   "url": "https://podcasts.apple.com/us/podcast/song-exploder/id788236947",
+   "description": "Musicians take apart their songs.",
+   "category": "music",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feed.songexploder.net/SongExploder"
+   },
+   "ids": {
+    "apple_podcast_id": "788236947"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/7b/35/057b3588-c74c-0334-d8ef-c6b8166d4afc/mza_12324100546486323942.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "stereogum",
+   "name": "Stereogum",
+   "url": "https://www.stereogum.com",
+   "description": "Music news.",
+   "category": "music",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://stereogum.com/feed"
+   }
+  },
+  {
+   "id": "switched-on-pop",
+   "name": "Switched on Pop",
+   "url": "https://podcasts.apple.com/us/podcast/switched-on-pop/id934552872",
+   "description": "How pop music works.",
+   "category": "music",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/switchedonpop"
+   },
+   "ids": {
+    "apple_podcast_id": "934552872"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/23/60/d02360bb-d259-0b5a-9a36-191fc0b9ada7/mza_16956768187482662583.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "theneedledrop",
+   "name": "theneedledrop",
+   "url": "https://www.youtube.com/@theneedledrop",
+   "description": "Album reviews.",
+   "category": "music",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCt7fwAhXDy3oNFTAzF2o8Pw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCt7fwAhXDy3oNFTAzF2o8Pw"
+   },
+   "image": "https://yt3.googleusercontent.com/p60m-2Z8bPTuhMaU4yfsOIpTz3NfrUbrcUx7gUko3vvoUU-MTB3Ra_PUEtPPg0D7dnKwjQB-Fw=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}

@@ -1,0 +1,426 @@
+{
+ "category": {
+  "id": "web_fiction",
+  "group": "read",
+  "name": "Web Fiction",
+  "icon": "text.book.closed.fill",
+  "web_icon": "book-text",
+  "description": "Serial fiction platforms: fantasy, romance, sci-fi, fan fiction and more."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 19,
+ "resources": [
+  {
+   "id": "a-practical-guide-to-evil",
+   "name": "A Practical Guide to Evil",
+   "url": "https://practicalguidetoevil.wordpress.com",
+   "description": "Completed fantasy web serial.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://practicalguidetoevil.wordpress.com/feed/"
+   }
+  },
+  {
+   "id": "archive-of-our-own",
+   "name": "Archive of Our Own",
+   "url": "https://archiveofourown.org",
+   "description": "Huge nonprofit fan-fiction archive.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "fanfiction-net",
+   "name": "FanFiction.Net",
+   "url": "https://www.fanfiction.net",
+   "description": "Long-running fan-fiction site.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "inkitt",
+   "name": "Inkitt",
+   "url": "https://www.inkitt.com",
+   "description": "Reader-driven fiction platform.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "novel-updates",
+   "name": "Novel Updates",
+   "url": "https://www.novelupdates.com",
+   "description": "Directory of translated Asian web novels.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "pale",
+   "name": "Pale",
+   "url": "https://palewebserial.wordpress.com",
+   "description": "Wildbow's supernatural mystery serial.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://palewebserial.wordpress.com/feed/"
+   }
+  },
+  {
+   "id": "r-nosleep",
+   "name": "r/nosleep",
+   "url": "https://www.reddit.com/r/nosleep/",
+   "description": "Horror stories told as if they were true.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "r-writingprompts",
+   "name": "r/WritingPrompts",
+   "url": "https://www.reddit.com/r/WritingPrompts/",
+   "description": "Short stories written in response to prompts.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "royal-road",
+   "name": "Royal Road",
+   "url": "https://www.royalroad.com",
+   "description": "Free serial fantasy and LitRPG fiction.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "scp-foundation",
+   "name": "SCP Foundation",
+   "url": "https://scp-wiki.wikidot.com",
+   "description": "Collaborative fiction about anomalous objects.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "scribble-hub",
+   "name": "Scribble Hub",
+   "url": "https://www.scribblehub.com",
+   "description": "Original web novels, many inspired by Asian web fiction.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "spacebattles",
+   "name": "SpaceBattles",
+   "url": "https://forums.spacebattles.com",
+   "description": "Forum with creative-writing sections.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "sufficient-velocity",
+   "name": "Sufficient Velocity",
+   "url": "https://forums.sufficientvelocity.com",
+   "description": "Forum for original and fan fiction quests.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "the-wandering-inn",
+   "name": "The Wandering Inn",
+   "url": "https://wanderinginn.com",
+   "description": "Long-running fantasy web serial.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://wanderinginn.com/feed/"
+   }
+  },
+  {
+   "id": "top-web-fiction",
+   "name": "Top Web Fiction",
+   "url": "https://topwebfiction.com",
+   "description": "Rankings of web serials.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "twig",
+   "name": "Twig",
+   "url": "https://twigserial.wordpress.com",
+   "description": "Wildbow's biopunk serial.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://twigserial.wordpress.com/feed/"
+   }
+  },
+  {
+   "id": "wattpad",
+   "name": "Wattpad",
+   "url": "https://www.wattpad.com",
+   "description": "Stories by millions of writers, many for young readers.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "webnovel",
+   "name": "Webnovel",
+   "url": "https://www.webnovel.com",
+   "description": "Translated and original web novels.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "worm",
+   "name": "Worm",
+   "url": "https://parahumans.wordpress.com",
+   "description": "A famous superhero web serial by Wildbow.",
+   "category": "web_fiction",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://parahumans.wordpress.com/feed/"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1031 @@
+{
+ "category": {
+  "id": "kids",
+  "group": "watch",
+  "name": "Kids & Family",
+  "icon": "figure.and.child.holdinghands",
+  "web_icon": "baby",
+  "description": "Children's shows, songs, phonics and read-alouds: simple, clear English."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 37,
+ "resources": [
+  {
+   "id": "alphablocks",
+   "name": "Alphablocks",
+   "url": "https://www.youtube.com/@officialalphablocks",
+   "description": "Phonics cartoon from the BBC.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_qs3c0ehDvZkbiEbOj6Drg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_qs3c0ehDvZkbiEbOj6Drg"
+   },
+   "image": "https://yt3.googleusercontent.com/4hW2cvLDW8yX5v3O_PzzyfHhQ0MCv_URg_OFOdElQ0jJ-BmiS0zXMUwikr-D1WMkC2taQO-S=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "blippi",
+   "name": "Blippi",
+   "url": "https://www.youtube.com/@Blippi",
+   "description": "Exploring the world for toddlers.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5PYHgAzJ1wLEidB58SK6Xw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC5PYHgAzJ1wLEidB58SK6Xw"
+   },
+   "image": "https://yt3.googleusercontent.com/5RLphM956w5pfV843mKs401NNeshKiq70_KBwHdLVAhdTl323Q_qc1fxZcvyilx7pL_Rij3V=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "bluey",
+   "name": "Bluey",
+   "url": "https://www.youtube.com/@BlueyOfficialChannel",
+   "description": "Clips from the Australian family cartoon.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVzLLZkDuFGAE2BGdBuBNBg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCVzLLZkDuFGAE2BGdBuBNBg"
+   },
+   "image": "https://yt3.googleusercontent.com/6bBUQ32f2n9uU-PdmNrKZ3vh9bseOtTKApdriAaHvUw6DG4fDv5DQmLHDP_IWqeVkcZvIAgMmh4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "brains-on",
+   "name": "Brains On!",
+   "url": "https://podcasts.apple.com/",
+   "description": "Science podcast for curious kids.",
+   "category": "kids",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "cbeebies",
+   "name": "CBeebies",
+   "url": "https://www.bbc.co.uk/cbeebies",
+   "description": "BBC games and shows for young children.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "circle-round",
+   "name": "Circle Round",
+   "url": "https://podcasts.apple.com/us/podcast/circle-round/id1246443751",
+   "description": "Folktales from around the world.",
+   "category": "kids",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.wbur.org/circleround/podcast"
+   },
+   "ids": {
+    "apple_podcast_id": "1246443751"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/38/74/543874b1-821b-9e11-6f5d-965d2f0c5245/mza_218851255204087494.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "cocomelon",
+   "name": "CoComelon",
+   "url": "https://www.youtube.com/@CoComelon",
+   "description": "Nursery rhymes.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbCmjCuTUZos6Inko4u57UQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCbCmjCuTUZos6Inko4u57UQ"
+   },
+   "image": "https://yt3.googleusercontent.com/yiljI_XQcX8X0p_E2S0APGrUs7tHBMukf5_3dhVzhbH-z5uhzpt88tUopQa7ngVwO1nGAAnr6A=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "crash-course-kids",
+   "name": "Crash Course Kids",
+   "url": "https://www.youtube.com/@crashcoursekids",
+   "description": "Science for children.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCONtPx56PSebXJOxbFv-2jQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCONtPx56PSebXJOxbFv-2jQ"
+   },
+   "image": "https://yt3.googleusercontent.com/mDXMqPIcDc_yfAqXGvBu0ufz7J3AJVlcstUxXs_y1yh34pf34wDy96qKGM4HEE_l_fzNeqpP=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "dream-english-kids",
+   "name": "Dream English Kids",
+   "url": "https://www.youtube.com/@DreamEnglishKids",
+   "description": "Songs for young English learners.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6LKuH7RPkvRmzS9-8URtqA"
+   },
+   "ids": {
+    "youtube_channel_id": "UC6LKuH7RPkvRmzS9-8URtqA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mMWSn5EMfdyQBKZ03a6Fh9my3mX_loCknCRUzyhnWWH5Y=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "english-singsing",
+   "name": "English Singsing",
+   "url": "https://www.youtube.com/@EnglishSingsing",
+   "description": "Songs and conversations for kids learning English.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGwA4GjY4nGMIYvaJiA0EGA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCGwA4GjY4nGMIYvaJiA0EGA"
+   },
+   "image": "https://yt3.googleusercontent.com/wXeMaXCcCpJAl8dDc4Exw9OZFWCEBkn4BqX8Bcx1mscv0_4IScyF6MPiNl_ECGoNlfp9NpC15w=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "epic",
+   "name": "Epic",
+   "url": "https://www.getepic.com",
+   "description": "Digital library for kids.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "required",
+   "recommended": false
+  },
+  {
+   "id": "free-school",
+   "name": "Free School",
+   "url": "https://www.youtube.com/@freeschool",
+   "description": "Kids' videos on science, art and literature.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCebMFnw6WxozGmqGekJHOJg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCebMFnw6WxozGmqGekJHOJg"
+   },
+   "image": "https://yt3.googleusercontent.com/DT0mTJ9ZPrSUTgJVthX8fek8AcTfK1Ns-U_vNszl4aqiantMgMis-PkP6ZqH0B3eRCG75S5Pxg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "fun-kids",
+   "name": "Fun Kids",
+   "url": "https://www.funkidslive.com",
+   "description": "UK children's radio.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "gracie-s-corner",
+   "name": "Gracie's Corner",
+   "url": "https://www.youtube.com/@GraciesCorner",
+   "description": "Learning songs.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ2FzqIvWSE7ysvL1sLWQ5Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCQ2FzqIvWSE7ysvL1sLWQ5Q"
+   },
+   "image": "https://yt3.googleusercontent.com/Jpfe9X7TfMU2LC-iqKYG-58FM9H6G-71R_WgIeW3InHNhxiWX7muKw62Aa-f_t8QkNLjakWtqvg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "homeschool-pop",
+   "name": "Homeschool Pop",
+   "url": "https://www.youtube.com/@HomeschoolPop",
+   "description": "Educational videos for kids.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfPyVJEBD7Di1YYjTdS2v8g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCfPyVJEBD7Di1YYjTdS2v8g"
+   },
+   "image": "https://yt3.googleusercontent.com/yENC7nbCi2IqwCeDy8T7Kzpcubxt-iz_yR69dlKGXvwufaEJIbk7iYYseVAqMAAoLNrs4hjR=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "jack-hartmann-kids-music",
+   "name": "Jack Hartmann Kids Music",
+   "url": "https://www.youtube.com/@JackHartmann",
+   "description": "Songs for phonics and counting.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVcQH8A634mauPrGbWs7QlQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCVcQH8A634mauPrGbWs7QlQ"
+   },
+   "image": "https://yt3.googleusercontent.com/dBGALgiaMfeeHDUW5Vy5W8C8bSdre4ryyx8FMZ8XO_twhhC1GCxivReJS44Eto4rKqfQn9JutA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "learnenglish-kids-british-council",
+   "name": "LearnEnglish Kids (British Council)",
+   "url": "https://learnenglishkids.britishcouncil.org",
+   "description": "Games, songs and stories for children learning English.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "little-fox-english",
+   "name": "Little Fox English",
+   "url": "https://www.youtube.com/@LittleFoxEnglish",
+   "description": "Animated stories for young English learners.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJD28Sggrgc_o2o7hp4p-MA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCJD28Sggrgc_o2o7hp4p-MA"
+   },
+   "image": "https://yt3.googleusercontent.com/t0mWYjNp1_fDERZypg6J9vCyKWqeAq9ZsUPWMofCkDq9kvnE4muCB3yBemWxlfUnyA9R0jKXPk0=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "maple-leaf-learning",
+   "name": "Maple Leaf Learning",
+   "url": "https://www.youtube.com/@MapleLeafLearning",
+   "description": "Songs for kids learning English.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdHK6g8ddMEcMu9B3LgeKYg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCdHK6g8ddMEcMu9B3LgeKYg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kEzx--Ecz3Z1BksT5EPo7HOlHvKm1X7RiZjqg-uLe_s14=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "ms-rachel",
+   "name": "Ms Rachel",
+   "url": "https://www.youtube.com/@msrachel",
+   "description": "Speech and language for toddlers.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCG2CL6EUjG8TVT1Tpl9nJdg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCG2CL6EUjG8TVT1Tpl9nJdg"
+   },
+   "image": "https://yt3.googleusercontent.com/C2nKGvtlPIpTO80svL80ZRRArA_512rEBMiZH6IWForDdVLd0SlVYQVObnmHxzVTeH9sOeNO=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "national-geographic-kids",
+   "name": "National Geographic Kids",
+   "url": "https://kids.nationalgeographic.com",
+   "description": "Animals and science for kids.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "numberblocks",
+   "name": "Numberblocks",
+   "url": "https://www.youtube.com/@Numberblocks",
+   "description": "Counting cartoon from the BBC.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPlwvN0w4qFSP1FllALB92w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCPlwvN0w4qFSP1FllALB92w"
+   },
+   "image": "https://yt3.googleusercontent.com/lhZzvbA1gptFuwFBPKJBsyCS7eksCbOWdX0iLNZeUygKGysu6veWmSGFVNJTGd9qfvYXoPTJoIw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "oxford-owl",
+   "name": "Oxford Owl",
+   "url": "https://www.oxfordowl.co.uk",
+   "description": "Free e-books and phonics for young readers.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "pbs-kids",
+   "name": "PBS KIDS",
+   "url": "https://pbskids.org",
+   "description": "Free games and videos from PBS children's shows.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "pbs-kids-youtube",
+   "name": "PBS KIDS (YouTube)",
+   "url": "https://www.youtube.com/@pbskids",
+   "description": "Clips from PBS KIDS shows.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrNnk0wFBnCS1awGjq_ijGQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCrNnk0wFBnCS1awGjq_ijGQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ZBcGbfxSEOigEe07nPd5AsSrYRO9NLqyxBZ1rGLtFC4Fr6eUqoL5D97U_aHLN4wO-p66Q7sO0g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "peppa-pig",
+   "name": "Peppa Pig",
+   "url": "https://www.youtube.com/@PeppaPigOfficial",
+   "description": "Simple British English stories.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAOtE1V7Ots4DjM8JLlrYgg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCAOtE1V7Ots4DjM8JLlrYgg"
+   },
+   "image": "https://yt3.googleusercontent.com/13Y1jOLVSE09l52UWslwmQdEGEK2MJYE6VxGb_cgGOsZKJbBGUvCFt8ivnCEv4sOG_tNJQl4_2c=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "scishow-kids",
+   "name": "SciShow Kids",
+   "url": "https://www.youtube.com/@scishowkids",
+   "description": "Science for children.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRFIPG2u1DxKLNuE3y2SjHA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCRFIPG2u1DxKLNuE3y2SjHA"
+   },
+   "image": "https://yt3.googleusercontent.com/9RKKCG2JPialTt7Aks6PPjLuETae_Yf-_Und4NERTGdn4tHV7xCr1JzJQc0-ir63DYcvK_cYTA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "scratch-garden",
+   "name": "Scratch Garden",
+   "url": "https://www.youtube.com/@ScratchGarden",
+   "description": "Fun educational videos.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8NFs-VWUsyuq4zaYVVMgCQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC8NFs-VWUsyuq4zaYVVMgCQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kupcu37YBC-tZ4u6E75DlaBZqvmxJz3kSIRDgnAgwarBg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "sesame-street",
+   "name": "Sesame Street",
+   "url": "https://www.youtube.com/@SesameStreet",
+   "description": "Songs, letters and friendship with the Muppets.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoookXUzPciGrEZEXmh4Jjg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCoookXUzPciGrEZEXmh4Jjg"
+   },
+   "image": "https://yt3.googleusercontent.com/UqIbNSghcysIlsbnGUxGMcY1Me7_bJ_zCrjz1oy9PueZVo63d1CnIk1tz8sAmTMNX9ojl4MhDQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "starfall",
+   "name": "Starfall",
+   "url": "https://www.starfall.com",
+   "description": "Phonics and reading games.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "stories-podcast",
+   "name": "Stories Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/stories-podcast-a-bedtime-show-for-kids/id6804020512",
+   "description": "Fairy tales and original stories for kids.",
+   "category": "kids",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://media.rss.com/stories-podcast-a-bedtime-show-for-kids/feed.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "6804020512"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/16/99/32/169932ba-24fa-1763-1d0e-81564f0a5f30/mza_12768829045176617547.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "story-pirates",
+   "name": "Story Pirates",
+   "url": "https://podcasts.apple.com/us/podcast/story-pirates/id719585944",
+   "description": "Stories written by kids, performed by comedians.",
+   "category": "kids",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/LEME2692268862"
+   },
+   "ids": {
+    "apple_podcast_id": "719585944"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/40/0d/06400df3-052b-e503-1cd7-783cfe435d32/mza_2584487554373114557.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "storyline-online",
+   "name": "Storyline Online",
+   "url": "https://storylineonline.net",
+   "description": "Actors read picture books aloud.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true
+  },
+  {
+   "id": "storyline-online-youtube",
+   "name": "Storyline Online (YouTube)",
+   "url": "https://www.youtube.com/@StorylineOnline",
+   "description": "Picture books read by famous actors.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnBdzaRy-Ky9Vh54XJlFz1Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCnBdzaRy-Ky9Vh54XJlFz1Q"
+   },
+   "image": "https://yt3.googleusercontent.com/h11i0p5FnpjJ9RQAjNnrc_qi5Q8f3pbv2M685hyQjkobZZi3CenpaFVByZ6A-_d2ZZNUEnEh=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "storynory",
+   "name": "Storynory",
+   "url": "https://www.storynory.com",
+   "description": "Free audio stories for children with text.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true
+  },
+  {
+   "id": "super-simple-songs",
+   "name": "Super Simple Songs",
+   "url": "https://www.youtube.com/@SuperSimpleSongs",
+   "description": "Simple songs widely used in English classes.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLsooMJoIpl_7ux2jvdPB-Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCLsooMJoIpl_7ux2jvdPB-Q"
+   },
+   "image": "https://yt3.googleusercontent.com/x7yHOvSWKX_olv_pgx1Ou4SsHI_eOg27sXy9jbNO15rHMG3y425LnmFIyoxDyvLA8Qi3k_0rWw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "wow-in-the-world",
+   "name": "Wow in the World",
+   "url": "https://podcasts.apple.com/us/podcast/wow-in-the-world/id1233834541",
+   "description": "Science stories for kids.",
+   "category": "kids",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.art19.com/wow-in-the-world"
+   },
+   "ids": {
+    "apple_podcast_id": "1233834541"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/b0/4a/4cb04a06-4e0a-d534-2a28-3f2fb37fa14e/mza_14610475686329584932.jpeg/600x600bb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,694 @@
+{
+ "category": {
+  "id": "stories",
+  "group": "read",
+  "name": "Essays & Longform",
+  "icon": "book.closed.fill",
+  "web_icon": "feather",
+  "description": "Magazines, essays, short fiction and longform journalism: well-edited prose for advanced readers."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 30,
+ "resources": [
+  {
+   "id": "100-word-story",
+   "name": "100 Word Story",
+   "url": "https://www.100wordstory.org",
+   "description": "Stories in exactly 100 words, ideal for learners.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://100wordstory.org/feed/"
+   }
+  },
+  {
+   "id": "aeon",
+   "name": "Aeon",
+   "url": "https://aeon.co",
+   "description": "Free essays on philosophy, science and culture.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://aeon.co/feed.rss"
+   }
+  },
+  {
+   "id": "astral-codex-ten",
+   "name": "Astral Codex Ten",
+   "url": "https://www.astralcodexten.com",
+   "description": "Essays on psychology and ideas.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.astralcodexten.com/feed"
+   }
+  },
+  {
+   "id": "clarkesworld",
+   "name": "Clarkesworld",
+   "url": "https://clarkesworldmagazine.com",
+   "description": "Science fiction and fantasy stories, also as audio.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "electric-literature",
+   "name": "Electric Literature",
+   "url": "https://electricliterature.com",
+   "description": "Fiction and essays.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://electricliterature.com/feed/"
+   }
+  },
+  {
+   "id": "flash-fiction-online",
+   "name": "Flash Fiction Online",
+   "url": "https://www.flashfictiononline.com",
+   "description": "Very short stories.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "granta",
+   "name": "Granta",
+   "url": "https://granta.com",
+   "description": "Literary magazine.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "guernica",
+   "name": "Guernica",
+   "url": "https://www.guernicamag.com",
+   "description": "Art and politics.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.guernicamag.com/feed/"
+   }
+  },
+  {
+   "id": "harper-s-magazine",
+   "name": "Harper's Magazine",
+   "url": "https://harpers.org",
+   "description": "Essays, fiction and reporting.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "paid",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "kottke-org",
+   "name": "Kottke.org",
+   "url": "https://kottke.org",
+   "description": "Long-running blog of interesting finds.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://feeds.kottke.org/main"
+   }
+  },
+  {
+   "id": "lapham-s-quarterly",
+   "name": "Lapham's Quarterly",
+   "url": "https://www.laphamsquarterly.org",
+   "description": "History through primary texts.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.laphamsquarterly.org/rss.xml"
+   }
+  },
+  {
+   "id": "lightspeed-magazine",
+   "name": "Lightspeed Magazine",
+   "url": "https://www.lightspeedmagazine.com",
+   "description": "Science fiction and fantasy stories.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.lightspeedmagazine.com/rss-2/"
+   }
+  },
+  {
+   "id": "literary-hub",
+   "name": "Literary Hub",
+   "url": "https://lithub.com",
+   "description": "Daily literary essays and news.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://lithub.com/home-page-rigel-two-up-2/feed/"
+   }
+  },
+  {
+   "id": "longreads",
+   "name": "Longreads",
+   "url": "https://longreads.com",
+   "description": "The best long-form stories on the web.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://longreads.com/feed/"
+   }
+  },
+  {
+   "id": "mcsweeney-s-internet-tendency",
+   "name": "McSweeney's Internet Tendency",
+   "url": "https://www.mcsweeneys.net",
+   "description": "Daily humour writing.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "humor"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://feeds.feedburner.com/mcsweeneys"
+   }
+  },
+  {
+   "id": "medium",
+   "name": "Medium",
+   "url": "https://medium.com",
+   "description": "Blogging platform with essays on everything.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "narratively",
+   "name": "Narratively",
+   "url": "https://narratively.com",
+   "description": "True human stories.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://narratively.com/feed"
+   }
+  },
+  {
+   "id": "paul-graham-essays",
+   "name": "Paul Graham Essays",
+   "url": "https://paulgraham.com/articles.html",
+   "description": "Clear essays on startups, writing and thinking.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "psyche",
+   "name": "Psyche",
+   "url": "https://psyche.co",
+   "description": "Free guides and essays on living well.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://psyche.co/feed.rss"
+   }
+  },
+  {
+   "id": "reactor",
+   "name": "Reactor",
+   "url": "https://reactormag.com",
+   "description": "Free short fiction and essays on science fiction and fantasy.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "strange-horizons",
+   "name": "Strange Horizons",
+   "url": "https://strangehorizons.com",
+   "description": "Free speculative fiction magazine.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "the-atlantic",
+   "name": "The Atlantic",
+   "url": "https://www.theatlantic.com",
+   "description": "Essays and reporting on politics, culture and ideas.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "the-long-read-guardian",
+   "name": "The Long Read (Guardian)",
+   "url": "https://www.theguardian.com/news/series/the-long-read",
+   "description": "The Guardian's long-form journalism.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.theguardian.com/news/series/the-long-read/rss"
+   }
+  },
+  {
+   "id": "the-marginalian",
+   "name": "The Marginalian",
+   "url": "https://www.themarginalian.org",
+   "description": "Maria Popova on books, art and meaning.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://feeds.feedburner.com/brainpickings/rss"
+   }
+  },
+  {
+   "id": "the-new-yorker",
+   "name": "The New Yorker",
+   "url": "https://www.newyorker.com",
+   "description": "Long-form journalism, fiction and humour.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.newyorker.com/feed/rss"
+   }
+  },
+  {
+   "id": "the-paris-review",
+   "name": "The Paris Review",
+   "url": "https://www.theparisreview.org",
+   "description": "Literary magazine with famous author interviews.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "the-sun-magazine",
+   "name": "The Sun Magazine",
+   "url": "https://www.thesunmagazine.org",
+   "description": "Personal essays and stories.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "uncanny-magazine",
+   "name": "Uncanny Magazine",
+   "url": "https://www.uncannymagazine.com",
+   "description": "Fantasy and SF stories.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "vanity-fair",
+   "name": "Vanity Fair",
+   "url": "https://www.vanityfair.com",
+   "description": "Culture and politics features.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.vanityfair.com/feed/rss"
+   }
+  },
+  {
+   "id": "wait-but-why",
+   "name": "Wait But Why",
+   "url": "https://waitbutwhy.com",
+   "description": "Long, funny explainers with stick-figure drawings.",
+   "category": "stories",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://waitbutwhy.com/feed"
+   }
+  }
+ ]
+}

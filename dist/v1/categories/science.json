@@ -1,0 +1,1373 @@
+{
+ "category": {
+  "id": "science",
+  "group": "read",
+  "name": "Science & Nature",
+  "icon": "atom",
+  "web_icon": "atom",
+  "description": "Popular science, space, health, nature and research news."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 55,
+ "resources": [
+  {
+   "id": "3blue1brown",
+   "name": "3Blue1Brown",
+   "url": "https://www.youtube.com/@3blue1brown",
+   "description": "Beautiful animated maths explanations.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCYO_jab_esuFRV4b17AJtAw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "applied-science",
+   "name": "Applied Science",
+   "url": "https://www.youtube.com/@AppliedScience",
+   "description": "Advanced home experiments.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCivA7_KLKWo43tFcCkFvydw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_n0HEYF8o6yxXaIs-UhPQIEEuHIP72m7TQYA5uSY3z0cQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "be-smart",
+   "name": "Be Smart",
+   "url": "https://www.youtube.com/@besmart",
+   "description": "Science explainers from PBS.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH4BNI0-FOK2dMXoFtViWHw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCH4BNI0-FOK2dMXoFtViWHw"
+   },
+   "image": "https://yt3.googleusercontent.com/vZZ2-IB7QjYxt-VQPzQyMVqxBQZVWaL-hYu1WsZLsMCtqH0ECwhCWfeMmMP-kPiQsNgES2nglA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "big-think",
+   "name": "Big Think",
+   "url": "https://bigthink.com",
+   "description": "Ideas from experts in science and philosophy.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "britannica",
+   "name": "Britannica",
+   "url": "https://www.britannica.com",
+   "description": "Expert-written encyclopedia.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "carbon-brief",
+   "name": "Carbon Brief",
+   "url": "https://www.carbonbrief.org",
+   "description": "Clear coverage of climate science and policy.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "cosmos",
+   "name": "Cosmos",
+   "url": "https://cosmosmagazine.com",
+   "description": "Australian science magazine.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "deep-look",
+   "name": "Deep Look",
+   "url": "https://www.youtube.com/@KQEDDeepLook",
+   "description": "Ultra-close-up nature films.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-3SbfTPJsL8fJAPKiVqBLg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC-3SbfTPJsL8fJAPKiVqBLg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mx3yOxwr87E2MXEa66ePQWzG9bUNDl1zG4FgiK1kIJGZU=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "discover-magazine",
+   "name": "Discover Magazine",
+   "url": "https://www.discovermagazine.com",
+   "description": "Science news and features.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "dr-becky",
+   "name": "Dr. Becky",
+   "url": "https://www.youtube.com/@DrBecky",
+   "description": "Astrophysicist on the latest space news.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYNbYGl89UUowy8oXkipC-Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCYNbYGl89UUowy8oXkipC-Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_maQlHgnbhwVlenxITT47DIxaXovCJPIIfKBYdKGLnt0w=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "eurekalert",
+   "name": "EurekAlert!",
+   "url": "https://www.eurekalert.org",
+   "description": "Science press releases from universities.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "everyday-astronaut",
+   "name": "Everyday Astronaut",
+   "url": "https://www.youtube.com/@EverydayAstronaut",
+   "description": "Rockets and spaceflight explained.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6uKrU_WqJ1R2HMTY3LIx5Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kUZyAAcoEKNPeHoncE8QHfzXX7dByvg2piQBKsDJOH5_s=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "harvard-health",
+   "name": "Harvard Health",
+   "url": "https://www.health.harvard.edu",
+   "description": "Health explained by Harvard Medical School.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "howstuffworks",
+   "name": "HowStuffWorks",
+   "url": "https://www.howstuffworks.com",
+   "description": "Explanations of how everything works.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "knowable-magazine",
+   "name": "Knowable Magazine",
+   "url": "https://knowablemagazine.org",
+   "description": "Free, clear science explanations from Annual Reviews.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "live-science",
+   "name": "Live Science",
+   "url": "https://www.livescience.com",
+   "description": "Science news.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "mark-rober",
+   "name": "Mark Rober",
+   "url": "https://www.youtube.com/@MarkRober",
+   "description": "Engineering projects and science experiments.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCY1kMZp36IQSyNx_9h4mpCg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_ksXY2REjZ6gYKSgnWT5jC_zT9mX900vyFtVinR8KbHww=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "medlineplus",
+   "name": "MedlinePlus",
+   "url": "https://medlineplus.gov",
+   "description": "Easy-to-read health information.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "mongabay",
+   "name": "Mongabay",
+   "url": "https://news.mongabay.com",
+   "description": "Environmental news from around the world.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "nasa",
+   "name": "NASA",
+   "url": "https://www.nasa.gov",
+   "description": "News, images and missions from NASA.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "nasa-youtube",
+   "name": "NASA (YouTube)",
+   "url": "https://www.youtube.com/@NASA",
+   "description": "Launches, missions and science videos.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ"
+   },
+   "image": "https://yt3.googleusercontent.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "national-geographic",
+   "name": "National Geographic",
+   "url": "https://www.nationalgeographic.com",
+   "description": "Science, nature and exploration.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "nature-news",
+   "name": "Nature News",
+   "url": "https://www.nature.com/news",
+   "description": "News from the journal Nature.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "nautilus",
+   "name": "Nautilus",
+   "url": "https://nautil.us",
+   "description": "Science connected to culture and philosophy.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "new-scientist",
+   "name": "New Scientist",
+   "url": "https://www.newscientist.com",
+   "description": "Science and technology news.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "nhs-health-a-to-z",
+   "name": "NHS Health A to Z",
+   "url": "https://www.nhs.uk/conditions/",
+   "description": "Plain-English guides to health conditions.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "nilered",
+   "name": "NileRed",
+   "url": "https://www.youtube.com/@NileRed",
+   "description": "Chemistry experiments.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCFhXFikryT4aFcLkLw2LBLA"
+   },
+   "image": "https://yt3.googleusercontent.com/Dv2Ma7-KpJt-SXQXv7fIEA7qkRNGEDvGPH0e33nEkgy35fI0fz48EAd-U7x3C2rPl4K-TX11=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "numberphile",
+   "name": "Numberphile",
+   "url": "https://www.youtube.com/@numberphile",
+   "description": "Mathematicians talk about numbers.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCoxcjq-8xIDTYp3uz647V5A"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nmbQSAGKk1OZCBBf_sPJqLoFfYOVDWRDzALocBjGQtHeI=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "our-world-in-data",
+   "name": "Our World in Data",
+   "url": "https://ourworldindata.org",
+   "description": "Charts and articles on the world's biggest problems.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "pbs-space-time",
+   "name": "PBS Space Time",
+   "url": "https://www.youtube.com/@pbsspacetime",
+   "description": "Deep dives into physics and cosmology.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g"
+   },
+   "ids": {
+    "youtube_channel_id": "UC7_gcs09iThXybpVgjHZ_7g"
+   },
+   "image": "https://yt3.googleusercontent.com/A7npG37dOJQffCnkUAyHI8wxnYhWA2q9SQY58AJ_bZUgKv30RtKD9sz5FQs4fs9-xWCg9S0P5jw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "periodic-videos",
+   "name": "Periodic Videos",
+   "url": "https://www.youtube.com/@periodicvideos",
+   "description": "Chemistry with the Nottingham professors.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtESv1e7ntJaLJYKIO1FoYw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCtESv1e7ntJaLJYKIO1FoYw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mVnp1Lc31B0TPILH30sz-eIQqX9ZML3ORtONYjcoNiQP4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "phys-org",
+   "name": "Phys.org",
+   "url": "https://phys.org",
+   "description": "Research news across physics, earth and life sciences.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "physics-girl",
+   "name": "Physics Girl",
+   "url": "https://www.youtube.com/@physicsgirl",
+   "description": "Physics experiments and explanations.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7DdEm33SyaTDtWYGO2CwdA"
+   },
+   "ids": {
+    "youtube_channel_id": "UC7DdEm33SyaTDtWYGO2CwdA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mHLaE8gTxfKJQk8IzA0W-eRAhkogyb1B_aU2yzafp3ots=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "popular-mechanics",
+   "name": "Popular Mechanics",
+   "url": "https://www.popularmechanics.com",
+   "description": "Science, tech and DIY.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "popular-science",
+   "name": "Popular Science",
+   "url": "https://www.popsci.com",
+   "description": "Science and technology for everyone.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "practical-engineering",
+   "name": "Practical Engineering",
+   "url": "https://www.youtube.com/@PracticalEngineeringChannel",
+   "description": "Civil engineering explained with models.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMOqf8ab-42UUQIdVoKwjlQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_m1Y4p9FzWjJBIhIwbVt6Z1qGKa8eWUTzE3kizORZMFKf4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "quanta-magazine",
+   "name": "Quanta Magazine",
+   "url": "https://www.quantamagazine.org",
+   "description": "Beautifully written stories about maths, physics, biology and computer science.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "real-engineering",
+   "name": "Real Engineering",
+   "url": "https://www.youtube.com/@RealEngineering",
+   "description": "Engineering explained.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ie",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCR1IuLEqb6UEA_zQ81kwXfg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mzOoa3L9W_0hApabWg66Ryujuw7FGmLt23dOpIoO5mVNaC=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "sabine-hossenfelder",
+   "name": "Sabine Hossenfelder",
+   "url": "https://www.youtube.com/@SabineHossenfelder",
+   "description": "Physicist on science news, without the hype.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw"
+   },
+   "image": "https://yt3.googleusercontent.com/YjHzJACT7jTFzpkHRfjWxmVKeBh6_8BpvVFS4iT8fb5xwoAU4sq1SeRGUju91bDOFJo6AjQMOZA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "science-news",
+   "name": "Science News",
+   "url": "https://www.sciencenews.org",
+   "description": "Clear, independent science journalism.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "sciencealert",
+   "name": "ScienceAlert",
+   "url": "https://www.sciencealert.com",
+   "description": "Short science news.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "sciencedaily",
+   "name": "ScienceDaily",
+   "url": "https://www.sciencedaily.com",
+   "description": "Research news summaries.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "scientific-american",
+   "name": "Scientific American",
+   "url": "https://www.scientificamerican.com",
+   "description": "Science news and features.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "scishow",
+   "name": "SciShow",
+   "url": "https://www.youtube.com/@SciShow",
+   "description": "Fast, friendly science explainers.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow"
+   },
+   "ids": {
+    "youtube_channel_id": "UCZYTClx2T1of7BRZ86-8fow"
+   },
+   "image": "https://yt3.googleusercontent.com/PeTBgposs2PwFQ9w75vPgEzKGZqHQb6slgisyh3dcF61uLD3y-tczPRhaH0s_AOSovMjtiBy1A=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "scott-manley",
+   "name": "Scott Manley",
+   "url": "https://www.youtube.com/@scottmanley",
+   "description": "Spaceflight and rocket science.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mczi2iS2r0rMXrruJMcOQf4ac5glddZwhDdFHZzljTPC4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "sixty-symbols",
+   "name": "Sixty Symbols",
+   "url": "https://www.youtube.com/@sixtysymbols",
+   "description": "Physics and astronomy with University of Nottingham scientists.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvBqzzvUBLCs8Y7Axb-jZew"
+   },
+   "ids": {
+    "youtube_channel_id": "UCvBqzzvUBLCs8Y7Axb-jZew"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kyM48qMw5ziZF_z3StRQsXB_320rIKeU4cjxLZPVxsUw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "sky-and-telescope",
+   "name": "Sky & Telescope",
+   "url": "https://skyandtelescope.org",
+   "description": "Astronomy news and stargazing guides.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "smarter-every-day",
+   "name": "Smarter Every Day",
+   "url": "https://www.youtube.com/@smartereveryday",
+   "description": "Destin explores science with high-speed cameras.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA"
+   },
+   "ids": {
+    "youtube_channel_id": "UC6107grRI4m0o2-emgoDnAA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_l59Ewmp0DHZBRWbY9dVqjd2_mWwvrn8ad0bJfmdbMRYcA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "smithsonian-magazine",
+   "name": "Smithsonian Magazine",
+   "url": "https://www.smithsonianmag.com",
+   "description": "Science, history and culture stories.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "space-com",
+   "name": "Space.com",
+   "url": "https://www.space.com",
+   "description": "Space and astronomy news.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "stand-up-maths",
+   "name": "Stand-up Maths",
+   "url": "https://www.youtube.com/@standupmaths",
+   "description": "Matt Parker's fun maths videos.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSju5G2aFaWMqn-_0YBtq5A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCSju5G2aFaWMqn-_0YBtq5A"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kH1XY27N-S65HtyJ97eLeiYGSqanZuuVP2NgTzBt081h4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "steve-mould",
+   "name": "Steve Mould",
+   "url": "https://www.youtube.com/@SteveMould",
+   "description": "Surprising physics, clearly explained.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEIwxahdLz7bap-VDs9h35A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCEIwxahdLz7bap-VDs9h35A"
+   },
+   "image": "https://yt3.googleusercontent.com/iX-akiHlJYuPDq4YVBO83cfjWW0aQefdewmI326XVhZkzxnS3MrqNVi49J33jLBw5LR_ZVyKFA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "undark",
+   "name": "Undark",
+   "url": "https://undark.org",
+   "description": "Science journalism on the intersection of science and society.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "universe-today",
+   "name": "Universe Today",
+   "url": "https://www.universetoday.com",
+   "description": "Space and astronomy news.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "wikipedia",
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org",
+   "description": "The free encyclopedia.",
+   "category": "science",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  }
+ ]
+}

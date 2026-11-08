@@ -1,0 +1,642 @@
+{
+ "category": {
+  "id": "pronunciation",
+  "group": "learn",
+  "name": "Pronunciation & Accents",
+  "icon": "waveform",
+  "web_icon": "audio-lines",
+  "description": "Sounds, stress, intonation, accent training and shadowing practice."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 25,
+ "resources": [
+  {
+   "id": "accent-help",
+   "name": "Accent Help",
+   "url": "https://www.youtube.com/@AccentHelp",
+   "description": "Accent coaching on how to do British, Australian, Irish and other accents.",
+   "category": "pronunciation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "accents"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiQTIWSWHAaETWrFjXBm40Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCiQTIWSWHAaETWrFjXBm40Q"
+   },
+   "image": "https://yt3.googleusercontent.com/mjV4sSJYl_1z7UWZ6PcKDDnJ33GfW0Aq43hLveOx7R8JA7K-CFMA3ct1WcKEgrM6fOi2HCAA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "accent-s-way-english-with-hadar",
+   "name": "Accent's Way English with Hadar",
+   "url": "https://www.youtube.com/@hadarshemesh",
+   "description": "Pronunciation and confidence for non-native speakers of American English.",
+   "category": "pronunciation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "accurate-english",
+   "name": "Accurate English",
+   "url": "https://www.youtube.com/@AccurateEnglish",
+   "description": "Lisa Mojsin's American accent training.",
+   "category": "pronunciation",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMTcsanYhBtOb096XegDZQA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCMTcsanYhBtOb096XegDZQA"
+   },
+   "image": "https://yt3.googleusercontent.com/YY3jXHptyxtGOnqSbOef9gM1bdEKBVeosUaA-WKb9D_tL63J6cyya1JTOn6quxeUIUKf13mjKA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "boldvoice",
+   "name": "BoldVoice",
+   "url": "https://www.boldvoice.com",
+   "description": "American accent training app with Hollywood accent coaches.",
+   "category": "pronunciation",
+   "type": "app",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "paid",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "dr-geoff-lindsey",
+   "name": "Dr Geoff Lindsey",
+   "url": "https://www.youtube.com/@DrGeoffLindsey",
+   "description": "A phonetician explains how modern British and American English really sound.",
+   "category": "pronunciation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "phonetics"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtFuCBKQTItHCwfHRP9LIjQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCtFuCBKQTItHCwfHRP9LIjQ"
+   },
+   "image": "https://yt3.googleusercontent.com/vnYj2r3PLZAH-94ESyVKN5w2hunTX7c7mlXdHRv-xL7MwTLDPLKu8VpKi4Da-2cpcehMxDsV=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "elsa-speak",
+   "name": "ELSA Speak",
+   "url": "https://elsaspeak.com",
+   "description": "AI app that scores your pronunciation and suggests fixes.",
+   "category": "pronunciation",
+   "type": "app",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "international-dialects-of-english-archive",
+   "name": "International Dialects of English Archive",
+   "url": "https://www.dialectsarchive.com",
+   "description": "Free recordings of English accents and dialects from around the world.",
+   "category": "pronunciation",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "accents"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "jade-joddle",
+   "name": "Jade Joddle",
+   "url": "https://www.youtube.com/@JadeJoddle",
+   "description": "British accent and modern RP pronunciation coaching.",
+   "category": "pronunciation",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "playphrase-me",
+   "name": "PlayPhrase.me",
+   "url": "https://www.playphrase.me",
+   "description": "Search a phrase to hear it in a quick montage of film and TV clips.",
+   "category": "pronunciation",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "listening"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "pronunciation-studio",
+   "name": "Pronunciation Studio",
+   "url": "https://www.youtube.com/@PronunciationStudio",
+   "description": "London school teaching modern British pronunciation.",
+   "category": "pronunciation",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOA0b3i6zLZLEWSlyvSIFTw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCOA0b3i6zLZLEWSlyvSIFTw"
+   },
+   "image": "https://yt3.googleusercontent.com/FUGXCgQ6aWstEMOxxwvjOpyzEM8oo1k9U_7Bkk8D3tdb5QIQEiYvWLAh7c2fcvvds2a0JSCn=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "pronunciation-studio-website",
+   "name": "Pronunciation Studio (website)",
+   "url": "https://pronunciationstudio.com",
+   "description": "British pronunciation courses, articles and free accent tests.",
+   "category": "pronunciation",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "pronunciation-with-emma",
+   "name": "Pronunciation with Emma",
+   "url": "https://www.youtube.com/@PronunciationwithEmma",
+   "description": "Focused lessons on British and American English sounds.",
+   "category": "pronunciation",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNfm92h83W2i2ijc5Xwp_IA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCNfm92h83W2i2ijc5Xwp_IA"
+   },
+   "image": "https://yt3.googleusercontent.com/6PDaEBtCvZe6Iv4lZ_53JWDDqnC_4hPRHokZi4qivG5l0mF0_nsBADpJ6SMc0yg4egoPH611fA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "rachel-s-english",
+   "name": "Rachel's English",
+   "url": "https://www.youtube.com/@rachelsenglish",
+   "description": "Detailed American English pronunciation: sounds, linking, reductions and rhythm.",
+   "category": "pronunciation",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvn_XCl_mgQmt3sD753zdJA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCvn_XCl_mgQmt3sD753zdJA"
+   },
+   "image": "https://yt3.googleusercontent.com/9PaqSmys-JJVyYRuwEUPYrR5SGgTcSCIcqUobHyznUhv2KA3ImJ1I2HEYHwlOO21zltEXthrFJ4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "rachel-s-english-podcast",
+   "name": "Rachel's English Podcast",
+   "url": "https://podcasts.apple.com/",
+   "description": "Rachel's long-form episodes on American pronunciation and spoken English.",
+   "category": "pronunciation",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "seattle-learning-academy",
+   "name": "Seattle Learning Academy",
+   "url": "https://www.youtube.com/@SeattleLearningAcademy",
+   "description": "Clear American accent lessons on sounds and intonation.",
+   "category": "pronunciation",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "sounds-american",
+   "name": "Sounds American",
+   "url": "https://www.youtube.com/@SoundsAmerican",
+   "description": "Short American pronunciation lessons on single sounds and words.",
+   "category": "pronunciation",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-MSYk9R94F3TMuKAnQ7dDg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC-MSYk9R94F3TMuKAnQ7dDg"
+   },
+   "image": "https://yt3.googleusercontent.com/jSPHu5igFAkPP8_jOUONxJ10OSNiktuNCehrHkNgoBh9s81zU6Q-OFBxXXDGR9a1tj8VcXrzIg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "sounds-of-speech-university-of-iowa",
+   "name": "Sounds of Speech (University of Iowa)",
+   "url": "https://soundsofspeech.uiowa.edu",
+   "description": "Animations and videos showing how each English sound is made.",
+   "category": "pronunciation",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "phonetics"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "sounds-the-pronunciation-app",
+   "name": "Sounds: The Pronunciation App",
+   "url": "https://www.soundspronapp.com",
+   "description": "Interactive phonemic chart and pronunciation practice from Macmillan.",
+   "category": "pronunciation",
+   "type": "app",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "sozo-exchange",
+   "name": "Sozo Exchange",
+   "url": "https://www.youtube.com/@sozoexchange",
+   "description": "American English pronunciation, shadowing and accent training.",
+   "category": "pronunciation",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "speech-accent-archive",
+   "name": "Speech Accent Archive",
+   "url": "https://accent.gmu.edu",
+   "description": "The same paragraph read by thousands of speakers from around the world.",
+   "category": "pronunciation",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "accents"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "speechling",
+   "name": "Speechling",
+   "url": "https://speechling.com",
+   "description": "Record sentences and get feedback from human coaches.",
+   "category": "pronunciation",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "tim-s-pronunciation-workshop",
+   "name": "Tim's Pronunciation Workshop",
+   "url": "https://www.bbc.co.uk/learningenglish/english/features/pronunciation",
+   "description": "BBC Learning English videos on connected speech and weak forms.",
+   "category": "pronunciation",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "tubequizard",
+   "name": "TubeQuizard",
+   "url": "https://tubequizard.com",
+   "description": "Listening quizzes made from YouTube videos, sorted by accent and grammar point.",
+   "category": "pronunciation",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "listening"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "yarn",
+   "name": "Yarn",
+   "url": "https://getyarn.io",
+   "description": "Find the exact clip from films, TV and music where a phrase is spoken.",
+   "category": "pronunciation",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "listening"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "youglish",
+   "name": "YouGlish",
+   "url": "https://youglish.com",
+   "description": "Hear any English word or phrase spoken in thousands of real YouTube videos, by accent.",
+   "category": "pronunciation",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "tool"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  }
+ ]
+}

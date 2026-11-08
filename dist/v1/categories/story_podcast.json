@@ -1,0 +1,1264 @@
+{
+ "category": {
+  "id": "story_podcast",
+  "group": "listen",
+  "name": "Podcasts: Stories",
+  "icon": "waveform.circle.fill",
+  "web_icon": "audio-waveform",
+  "description": "True stories, history, storytelling, fiction and audio drama."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 41,
+ "resources": [
+  {
+   "id": "american-history-tellers",
+   "name": "American History Tellers",
+   "url": "https://podcasts.apple.com/us/podcast/american-history-tellers/id1313596069",
+   "description": "Dramatised American history.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.art19.com/american-history-tellers"
+   },
+   "ids": {
+    "apple_podcast_id": "1313596069"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/37/d8/9337d89a-95d3-8df3-c08a-15408017e408/mza_18105168834619059515.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "behind-the-bastards",
+   "name": "Behind the Bastards",
+   "url": "https://podcasts.apple.com/us/podcast/behind-the-bastards/id1373812661",
+   "description": "The worst people in history.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d64f756d-6d5e-4fae-b24f-ae280140ad36/podcast.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1373812661"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/82/58/ee8258d4-32a6-eae8-ddde-d13113a6baee/mza_2590417236454661582.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "business-wars",
+   "name": "Business Wars",
+   "url": "https://podcasts.apple.com/us/podcast/business-wars/id1335814741",
+   "description": "Dramatised stories of rival companies.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.art19.com/business-wars"
+   },
+   "ids": {
+    "apple_podcast_id": "1335814741"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/88/78/24/887824a1-8191-f922-a27e-499bb3f9e624/mza_2534133078841157643.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "casefile-true-crime",
+   "name": "Casefile True Crime",
+   "url": "https://podcasts.apple.com/us/podcast/casefile-true-crime/id998568017",
+   "description": "Well-researched true crime.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.acast.com/public/shows/679acff465f74095106abfaa"
+   },
+   "ids": {
+    "apple_podcast_id": "998568017"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/32/81/a3/3281a345-6fa5-1d0d-b0bc-f02b0850a0ae/mza_17562537467118278179.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "cautionary-tales-with-tim-harford",
+   "name": "Cautionary Tales with Tim Harford",
+   "url": "https://podcasts.apple.com/us/podcast/cautionary-tales-with-tim-harford/id1484511465",
+   "description": "Stories about mistakes.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/podcast.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1484511465"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/06/02/84/06028448-771b-33bc-aa09-6f8ff5403845/mza_10542795652437011877.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "criminal",
+   "name": "Criminal",
+   "url": "https://podcasts.apple.com/us/podcast/criminal/id809264944",
+   "description": "Stories of people who've done wrong or been wronged.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/VMP7924981569"
+   },
+   "ids": {
+    "apple_podcast_id": "809264944"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/98/22/bd9822cc-b8e0-59de-5809-45926a0ee5f3/mza_2331604259390110897.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "dan-carlin-s-hardcore-history",
+   "name": "Dan Carlin's Hardcore History",
+   "url": "https://podcasts.apple.com/us/podcast/dan-carlins-hardcore-history/id173001861",
+   "description": "Long, dramatic history episodes.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.feedburner.com/dancarlin/history?format=xml"
+   },
+   "ids": {
+    "apple_podcast_id": "173001861"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/49/b7/eb/49b7eb32-8f08-6fac-aadb-2f002131fe5f/mza_15196161972010256532.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "dan-snow-s-history-hit",
+   "name": "Dan Snow's History Hit",
+   "url": "https://podcasts.apple.com/us/podcast/dan-snows-history-hit/id1042631089",
+   "description": "Daily history interviews.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://access.acast.com/rss/c939f8d1-c4bc-478e-8bb9-e5343f9a7ab5"
+   },
+   "ids": {
+    "apple_podcast_id": "1042631089"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0c/d7/01/0cd701da-de4f-9a76-b8bc-eaf886cacb51/mza_5440014230451480464.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "darknet-diaries",
+   "name": "Darknet Diaries",
+   "url": "https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485",
+   "description": "True stories from the dark side of the internet.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcast.darknetdiaries.com"
+   },
+   "ids": {
+    "apple_podcast_id": "1296350485"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/3a/80/a7/3a80a7db-5620-f77b-9935-016e61cc2fbc/mza_9399859904175514567.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "ear-hustle",
+   "name": "Ear Hustle",
+   "url": "https://podcasts.apple.com/us/podcast/ear-hustle/id1240841298",
+   "description": "Stories from inside prison.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.earhustlesq.com/earhustlesq"
+   },
+   "ids": {
+    "apple_podcast_id": "1240841298"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e8/94/86/e8948649-c36e-a0d8-3dca-555d1410987e/mza_1316723170820495850.png/600x600bb.jpg"
+  },
+  {
+   "id": "fall-of-civilizations-podcast",
+   "name": "Fall of Civilizations Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/fall-of-civilizations-podcast/id1449884495",
+   "description": "Long histories of fallen civilisations.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/101adcf44/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1449884495"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0a/06/85/0a0685c1-86d4-6f5d-27e4-75e1771d0bae/mza_3060333100547218575.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "get-sleepy",
+   "name": "Get Sleepy",
+   "url": "https://podcasts.apple.com/us/podcast/get-sleepy-stories-for-sleep/id1487513861",
+   "description": "Calm stories for sleep.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/SGP8517078272"
+   },
+   "ids": {
+    "apple_podcast_id": "1487513861"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "heavyweight",
+   "name": "Heavyweight",
+   "url": "https://podcasts.apple.com/us/podcast/heavyweight/id1150800298",
+   "description": "Jonathan Goldstein revisits people's past.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/d08826cd-f888-4cd3-b700-b28e0126edbb/podcast.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1150800298"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a7/f4/11/a7f411fa-7d05-708c-b9e6-fbb79f16687f/mza_5278700449379998361.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "homecoming",
+   "name": "Homecoming",
+   "url": "https://podcasts.apple.com/",
+   "description": "Psychological thriller audio drama.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "levar-burton-reads",
+   "name": "LeVar Burton Reads",
+   "url": "https://podcasts.apple.com/us/podcast/levar-burton-reads/id1244649384",
+   "description": "Short fiction read by LeVar Burton.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/LDNgBXht"
+   },
+   "ids": {
+    "apple_podcast_id": "1244649384"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/5b/a9/12/5ba9124a-eb6d-6fcc-bd8e-75de88b73517/mza_5106699898373276155.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "limetown",
+   "name": "Limetown",
+   "url": "https://podcasts.apple.com/us/podcast/limetown/id1024247322",
+   "description": "Mystery audio drama.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/PPY5621646923"
+   },
+   "ids": {
+    "apple_podcast_id": "1024247322"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d2/2e/52/d22e5203-0e33-ec5b-b490-da85734784e5/mza_17216057226925912729.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "lore",
+   "name": "Lore",
+   "url": "https://podcasts.apple.com/us/podcast/lore/id978052928",
+   "description": "Dark history and folklore.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.libsyn.com/shows/65267/destinations/259905.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "978052928"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/9b/e0/c0/9be0c09c-b803-4774-77d3-85167bc87a31/mza_16743750170316675841.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "myths-and-legends",
+   "name": "Myths and Legends",
+   "url": "https://podcasts.apple.com/us/podcast/myths-and-legends/id990897842",
+   "description": "Myths and folklore retold with humour.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://audioboom.com/channels/5094626.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "990897842"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/db/81/8e/db818e29-55f8-5343-a185-8db92a0e1981/mza_6705057508729367288.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "nothing-much-happens-bedtime-stories-for-adults",
+   "name": "Nothing much happens: bedtime stories for adults",
+   "url": "https://podcasts.apple.com/",
+   "description": "Gentle stories read slowly to help you sleep.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "our-fake-history",
+   "name": "Our Fake History",
+   "url": "https://podcasts.apple.com/us/podcast/our-fake-history/id1021703062",
+   "description": "Myths that became history.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.art19.com/our-fake-history"
+   },
+   "ids": {
+    "apple_podcast_id": "1021703062"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/f4/d7/5af4d750-f640-3800-502b-59797b8cf1ac/mza_1498867679306953233.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "revisionist-history",
+   "name": "Revisionist History",
+   "url": "https://podcasts.apple.com/us/podcast/revisionist-history/id1119389968",
+   "description": "Malcolm Gladwell revisits the overlooked.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0d4cc74d-fff7-4b89-8818-ae32006cd7f0/podcast.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1119389968"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/de/98/abde988e-2dba-a34a-cd73-ac91341f0399/mza_7021629692279892458.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "revolutions",
+   "name": "Revolutions",
+   "url": "https://podcasts.apple.com/us/podcast/revolutions/id703889772",
+   "description": "Mike Duncan on political revolutions.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.libsyn.com/shows/47475/destinations/159998.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "703889772"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts/v4/fc/90/04/fc9004c7-afd6-4b5e-5033-0fb3dfd6c3a3/mza_7623711418780898276.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "selected-shorts",
+   "name": "Selected Shorts",
+   "url": "https://podcasts.apple.com/us/podcast/selected-shorts/id253191824",
+   "description": "Actors read short stories.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.introcast.io/253191824/feeds.simplecast.com/ZoGIhfvz"
+   },
+   "ids": {
+    "apple_podcast_id": "253191824"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/89/b3/69/89b369f4-f554-5e4e-d47e-5b43fd7811e3/mza_6309785094485113893.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "serial",
+   "name": "Serial",
+   "url": "https://podcasts.apple.com/us/podcast/serial/id917918570",
+   "description": "The investigative series that started the podcast boom.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/PpzWFGhg"
+   },
+   "ids": {
+    "apple_podcast_id": "917918570"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/fb/87/9afb8760-0e05-2b3e-24a2-7e14cce74570/mza_14816055607064169808.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "snap-judgment",
+   "name": "Snap Judgment",
+   "url": "https://podcasts.apple.com/us/podcast/snap-judgment/id283657561",
+   "description": "Storytelling with a beat.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.pdrl.fm/9ba5b0/snap.feed.snapjudgment.org"
+   },
+   "ids": {
+    "apple_podcast_id": "283657561"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/d2/cb/93d2cb73-60f2-4b07-fea3-6f1af6287017/mza_2091129752091434879.png/600x600bb.jpg"
+  },
+  {
+   "id": "storycorps",
+   "name": "StoryCorps",
+   "url": "https://podcasts.apple.com/us/podcast/storycorps/id250500859",
+   "description": "Short conversations between ordinary people.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.npr.org/510200/podcast.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "250500859"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/04/57/3c/04573c66-db41-64d7-f93a-02c9508b6efc/mza_11979259119697604586.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "stuff-you-missed-in-history-class",
+   "name": "Stuff You Missed in History Class",
+   "url": "https://podcasts.apple.com/us/podcast/stuff-you-missed-in-history-class/id283605519",
+   "description": "Overlooked stories from history.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "283605519"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/91/6b/89/916b8925-278d-0d3f-4968-ce8112e372be/mza_11125061227071811319.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-british-history-podcast",
+   "name": "The British History Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/the-british-history-podcast/id440985304",
+   "description": "British history in chronological order.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "http://feeds.feedburner.com/TheBritishHistoryPodcast"
+   },
+   "ids": {
+    "apple_podcast_id": "440985304"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/41/bc/05/41bc05c6-b25c-951a-ec4b-d1ac4d03be2d/mza_2527242105365882062.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-classic-tales-podcast",
+   "name": "The Classic Tales Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/the-classic-tales-podcast/id258214995",
+   "description": "Classic literature read aloud.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.libsyn.com/30031/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "258214995"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/cb/52/fecb5229-badb-583c-d30b-916846880328/mza_14096521703264693443.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-history-of-english-podcast",
+   "name": "The History of English Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/the-history-of-english-podcast/id538608536",
+   "description": "The story of the English language from the beginning.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "language"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://historyofenglishpodcast.com/feed/podcast/"
+   },
+   "ids": {
+    "apple_podcast_id": "538608536"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/90/48/16/9048161e-7222-7898-4f7e-f76a04c9efd8/mza_16488169359597242614.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-history-of-rome",
+   "name": "The History of Rome",
+   "url": "https://podcasts.apple.com/us/podcast/the-history-of-rome/id261654474",
+   "description": "Rome from founding to fall.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.libsyn.com/shows/17332/destinations/5627.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "261654474"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/ec/d6/60/ecd660d3-f7d4-b92f-4043-7671b3459b25/mza_16584089291257984575.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-magnus-archives",
+   "name": "The Magnus Archives",
+   "url": "https://podcasts.apple.com/us/podcast/the-magnus-archives/id1095138637",
+   "description": "British horror anthology.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.acast.com/public/shows/b6085bcd-3542-4a43-b6a8-021e3fd251b8"
+   },
+   "ids": {
+    "apple_podcast_id": "1095138637"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/01/2b/f6/012bf6cf-da73-11a8-4666-d65ad58dcea5/mza_1748774726906212092.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-moth",
+   "name": "The Moth",
+   "url": "https://podcasts.apple.com/us/podcast/the-moth/id275699983",
+   "description": "True stories told live on stage.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "http://feeds.feedburner.com/themothpodcast"
+   },
+   "ids": {
+    "apple_podcast_id": "275699983"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/16/39/63/1639632d-7ad2-d87b-d4f7-d0ec95eff386/mza_8915289722686017414.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-new-yorker-fiction",
+   "name": "The New Yorker: Fiction",
+   "url": "https://podcasts.apple.com/us/podcast/the-new-yorker-fiction/id256945396",
+   "description": "Writers read and discuss stories.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/CNE2112124476"
+   },
+   "ids": {
+    "apple_podcast_id": "256945396"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/06/5d/f2/065df280-c91f-b43c-2396-51affc5dc883/mza_15681886892269349970.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "the-rest-is-history",
+   "name": "The Rest Is History",
+   "url": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786",
+   "description": "Tom Holland and Dominic Sandbrook tell history.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/GLT4787413333"
+   },
+   "ids": {
+    "apple_podcast_id": "1537788786"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/e4/4e/12e44e6e-f250-0621-75c4-668fda6c48a3/mza_9347628783012573828.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-truth",
+   "name": "The Truth",
+   "url": "https://podcasts.apple.com/us/podcast/the-truth/id502304410",
+   "description": "Short audio films.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/SBP9327453320"
+   },
+   "ids": {
+    "apple_podcast_id": "502304410"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/57/5b/a8575bf5-bc35-e755-4a3a-a399dfb1cfc1/mza_14694483306936680780.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "this-american-life",
+   "name": "This American Life",
+   "url": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138",
+   "description": "Weekly true stories around a theme, with transcripts on the website.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.thisamericanlife.org/podcast/rss.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "201671138"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/3c/12/fd3c1215-892b-1c4d-2ff5-cfb7998c3f7c/mza_10880637376617104220.png/600x600bb.jpg"
+  },
+  {
+   "id": "throughline",
+   "name": "Throughline",
+   "url": "https://podcasts.apple.com/us/podcast/throughline/id1451109634",
+   "description": "NPR goes back in time to explain the present.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.npr.org/510333/podcast.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1451109634"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/da/c1/8e/dac18e58-b4c2-525a-2322-b4ec96ee5008/mza_3318470252564262999.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "uncanny",
+   "name": "Uncanny",
+   "url": "https://podcasts.apple.com/us/podcast/uncanny/id1589938734",
+   "description": "Danny Robins investigates paranormal stories.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcasts.files.bbci.co.uk/m0010x7c.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1589938734"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/7e/55/487e5514-62fe-1d3b-3d7a-ad918834ce20/mza_6983228680141619279.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "welcome-to-night-vale",
+   "name": "Welcome to Night Vale",
+   "url": "https://podcasts.apple.com/us/podcast/welcome-to-night-vale/id536258179",
+   "description": "Surreal community-radio fiction.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/byk9wCEi"
+   },
+   "ids": {
+    "apple_podcast_id": "536258179"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/be/28/8d/be288d7f-b604-8fa0-4da6-ad7c331d1680/mza_9522644403683950291.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "you-re-dead-to-me",
+   "name": "You're Dead to Me",
+   "url": "https://podcasts.apple.com/us/podcast/youre-dead-to-me/id1479973402",
+   "description": "Comedy history from the BBC.",
+   "category": "story_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcasts.files.bbci.co.uk/p07mdbhg.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1479973402"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/25/69/73/256973d0-879a-fd30-a99b-6db8d46b4dfc/mza_4030724364882202752.jpg/600x600bb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,984 @@
+{
+ "category": {
+  "id": "dictionary",
+  "group": "learn",
+  "name": "Dictionaries & Tools",
+  "icon": "character.book.closed.fill",
+  "web_icon": "book-a",
+  "description": "Learner dictionaries, thesauruses, pronunciation lookups, corpora and writing tools."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 43,
+ "resources": [
+  {
+   "id": "american-heritage-dictionary",
+   "name": "American Heritage Dictionary",
+   "url": "https://www.ahdictionary.com",
+   "description": "American dictionary with usage notes from a usage panel.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "cambridge-dictionary",
+   "name": "Cambridge Dictionary",
+   "url": "https://dictionary.cambridge.org",
+   "description": "Learner-friendly definitions, British and American audio and example sentences.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "collins-dictionary",
+   "name": "Collins Dictionary",
+   "url": "https://www.collinsdictionary.com",
+   "description": "British and American definitions, COBUILD learner entries and translation.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "deepl-translator",
+   "name": "DeepL Translator",
+   "url": "https://www.deepl.com/translator",
+   "description": "High-quality machine translation and writing assistant.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "freemium",
+   "tags": [
+    "translation"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "dictionary-com",
+   "name": "Dictionary.com",
+   "url": "https://www.dictionary.com",
+   "description": "Definitions, audio, slang and word origins.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "english-vocabulary-profile",
+   "name": "English Vocabulary Profile",
+   "url": "https://www.englishprofile.org/wordlists",
+   "description": "Which words and meanings learners know at each CEFR level.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "cefr"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "english-corpora-org-coca",
+   "name": "English-Corpora.org (COCA)",
+   "url": "https://www.english-corpora.org",
+   "description": "The largest free corpora of English, including COCA and the BNC.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "corpus"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "forvo",
+   "name": "Forvo",
+   "url": "https://forvo.com",
+   "description": "Pronunciations of words recorded by native speakers.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "freemium",
+   "tags": [
+    "pronunciation"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "google-books-ngram-viewer",
+   "name": "Google Books Ngram Viewer",
+   "url": "https://books.google.com/ngrams",
+   "description": "See how often words and phrases appear in books over time.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "corpus"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "google-translate",
+   "name": "Google Translate",
+   "url": "https://translate.google.com",
+   "description": "Translation for text, speech, images and websites.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "translation"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "grammarly",
+   "name": "Grammarly",
+   "url": "https://www.grammarly.com",
+   "description": "Grammar, spelling and tone checker.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [
+    "writing"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "green-s-dictionary-of-slang",
+   "name": "Green's Dictionary of Slang",
+   "url": "https://greensdictofslang.com",
+   "description": "Historical dictionary of English slang.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "slang"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "hemingway-editor",
+   "name": "Hemingway Editor",
+   "url": "https://hemingwayapp.com",
+   "description": "Highlights long sentences and passive voice to make writing clearer.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [
+    "writing"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "languagetool",
+   "name": "LanguageTool",
+   "url": "https://languagetool.org",
+   "description": "Open-source grammar and style checker.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "freemium",
+   "tags": [
+    "writing"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "linguee",
+   "name": "Linguee",
+   "url": "https://www.linguee.com",
+   "description": "Dictionary and search engine of real translated sentences.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "translation"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "longman-dictionary-of-contemporary-english",
+   "name": "Longman Dictionary of Contemporary English",
+   "url": "https://www.ldoceonline.com",
+   "description": "Clear definitions written with a 2,000-word defining vocabulary.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "ludwig",
+   "name": "Ludwig",
+   "url": "https://ludwig.guru",
+   "description": "Sentence search engine to check how phrases are used in reliable sources.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "freemium",
+   "tags": [
+    "writing"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "merriam-webster",
+   "name": "Merriam-Webster",
+   "url": "https://www.merriam-webster.com",
+   "description": "America's best-known dictionary, with Word of the Day and usage notes.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "netspeak",
+   "name": "Netspeak",
+   "url": "https://netspeak.org",
+   "description": "Find the most common way to word a phrase.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "writing"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "onelook",
+   "name": "OneLook",
+   "url": "https://www.onelook.com",
+   "description": "Search hundreds of dictionaries at once, or find a word from its meaning.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "online-etymology-dictionary",
+   "name": "Online Etymology Dictionary",
+   "url": "https://www.etymonline.com",
+   "description": "Where English words come from.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "etymology"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "oxford-learner-s-dictionaries",
+   "name": "Oxford Learner's Dictionaries",
+   "url": "https://www.oxfordlearnersdictionaries.com",
+   "description": "Oxford's learner dictionary with audio, word lists and CEFR levels.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": true,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "ozdic-collocation-dictionary",
+   "name": "Ozdic Collocation Dictionary",
+   "url": "https://ozdic.com",
+   "description": "Collocations: which words naturally go together.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "collocations"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "power-thesaurus",
+   "name": "Power Thesaurus",
+   "url": "https://www.powerthesaurus.org",
+   "description": "Crowdsourced thesaurus ranked by votes.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "quillbot",
+   "name": "QuillBot",
+   "url": "https://quillbot.com",
+   "description": "Paraphrasing tool and grammar checker.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [
+    "writing"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "reverso-context",
+   "name": "Reverso Context",
+   "url": "https://context.reverso.net",
+   "description": "See words and phrases translated in real bilingual sentences.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "freemium",
+   "tags": [
+    "translation"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "rhymezone",
+   "name": "RhymeZone",
+   "url": "https://www.rhymezone.com",
+   "description": "Rhymes, synonyms and related words.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "skell",
+   "name": "SkELL",
+   "url": "https://skell.sketchengine.eu",
+   "description": "Free example sentences, collocations and similar words from a huge corpus.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "corpus"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "text-inspector",
+   "name": "Text Inspector",
+   "url": "https://textinspector.com",
+   "description": "Analyses a text's vocabulary by CEFR level.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "freemium",
+   "tags": [
+    "cefr"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "the-free-dictionary",
+   "name": "The Free Dictionary",
+   "url": "https://www.thefreedictionary.com",
+   "description": "Dictionary, thesaurus and encyclopedia in one.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "the-free-dictionary-idioms",
+   "name": "The Free Dictionary Idioms",
+   "url": "https://idioms.thefreedictionary.com",
+   "description": "Large dictionary of idioms and phrasal verbs.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "idioms"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "the-phrase-finder",
+   "name": "The Phrase Finder",
+   "url": "https://www.phrases.org.uk",
+   "description": "Meanings and origins of English sayings and phrases.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "idioms"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "thesaurus-com",
+   "name": "Thesaurus.com",
+   "url": "https://www.thesaurus.com",
+   "description": "Synonyms and antonyms.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "tophonetics",
+   "name": "toPhonetics",
+   "url": "https://tophonetics.com",
+   "description": "Converts English text to IPA phonetic transcription.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "pronunciation"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "urban-dictionary",
+   "name": "Urban Dictionary",
+   "url": "https://www.urbandictionary.com",
+   "description": "Crowd-written definitions of slang (unfiltered).",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "slang"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.urbandictionary.com/daily.rss"
+   }
+  },
+  {
+   "id": "visuwords",
+   "name": "Visuwords",
+   "url": "https://visuwords.com",
+   "description": "Visual graph of word meanings and associations (WordNet).",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "vocabulary-com",
+   "name": "Vocabulary.com",
+   "url": "https://www.vocabulary.com",
+   "description": "Friendly definitions and adaptive vocabulary practice.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "wiktionary",
+   "name": "Wiktionary",
+   "url": "https://en.wiktionary.org",
+   "description": "The free dictionary, with pronunciations, etymology and translations.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "wordhippo",
+   "name": "WordHippo",
+   "url": "https://www.wordhippo.com",
+   "description": "Synonyms, antonyms, rhymes and example sentences.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "wordnik",
+   "name": "Wordnik",
+   "url": "https://www.wordnik.com",
+   "description": "Definitions with real example sentences from the web.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "wordreference",
+   "name": "WordReference",
+   "url": "https://www.wordreference.com",
+   "description": "Bilingual dictionaries and active language forums.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "translation"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "wordsmith-org-a-word-a-day",
+   "name": "Wordsmith.org A.Word.A.Day",
+   "url": "https://wordsmith.org/awad/",
+   "description": "One interesting word by email every weekday since 1994.",
+   "category": "dictionary",
+   "type": "newsletter",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "vocabulary"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "write-and-improve",
+   "name": "Write & Improve",
+   "url": "https://writeandimprove.com",
+   "description": "Cambridge's free tool that marks your writing and suggests improvements.",
+   "category": "dictionary",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "writing"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web"
+   ],
+   "login": "required",
+   "recommended": false
+  }
+ ]
+}

@@ -1,0 +1,472 @@
+{
+ "category": {
+  "id": "documentary",
+  "group": "watch",
+  "name": "Documentaries",
+  "icon": "video.fill",
+  "web_icon": "video",
+  "description": "Documentary channels and free documentary sites."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 16,
+ "resources": [
+  {
+   "id": "bbc-earth",
+   "name": "BBC Earth",
+   "url": "https://www.youtube.com/@bbcearth",
+   "description": "Nature documentaries narrated by David Attenborough and others.",
+   "category": "documentary",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwmZiChSryoWQCZMIQezgTg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCwmZiChSryoWQCZMIQezgTg"
+   },
+   "image": "https://yt3.googleusercontent.com/4aOOdq9yagLxasYPhdG7qQEVP-nrcmqoFD74N-dxw9ctOxXZtuSTTZKGzNsx-Nn0OqzVGnPZUA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "business-insider-youtube",
+   "name": "Business Insider (YouTube)",
+   "url": "https://www.youtube.com/@BusinessInsider",
+   "description": "How things are made and big business stories.",
+   "category": "documentary",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCcyq283he07B7_KUX07mmtA"
+   },
+   "image": "https://yt3.googleusercontent.com/pjDcIrc21oYPCkKpfY1zElDRHhw907VyW4zpuhJP5YCCvZPpyt0de08XM-uECMPQFAsidNK0bw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "cna-insider",
+   "name": "CNA Insider",
+   "url": "https://www.youtube.com/@CNAInsider",
+   "description": "Asian documentaries and features.",
+   "category": "documentary",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "sg",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_Lnb8ZHqqgLbp-7hltuT9w"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_Lnb8ZHqqgLbp-7hltuT9w"
+   },
+   "image": "https://yt3.googleusercontent.com/doSuEkTIDs-gIx_9HpvQPo3SQWYuxIWLRk8WLrCndT-o1t8Ui9_lU1IddCYHxoHoMaFLSlUOOg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "dw-documentary",
+   "name": "DW Documentary",
+   "url": "https://www.youtube.com/@DWDocumentary",
+   "description": "Full documentaries on society, science and the world.",
+   "category": "documentary",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW39zufHfsuGgpLviKh297Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCW39zufHfsuGgpLviKh297Q"
+   },
+   "image": "https://yt3.googleusercontent.com/rgphL4c6DGPlwzkxIzE5tH0DPe1yuynH0nTdOAecCVIX5gUjJGsCwXtp9wnxjcsfqboL6C5aFg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "free-documentary",
+   "name": "Free Documentary",
+   "url": "https://www.youtube.com/@FreeDocumentary",
+   "description": "Full nature and history documentaries.",
+   "category": "documentary",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCijcd0GR0fkxCAZwkiuWqtQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCijcd0GR0fkxCAZwkiuWqtQ"
+   },
+   "image": "https://yt3.googleusercontent.com/xKTkbX06Be5s6Kt6Ff28SIvDp4zyhJcZEJzmqjM12eKAfUEsSz-wvMhR0rx0Q7bc2dxFdiT4PA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "frontline-pbs",
+   "name": "FRONTLINE PBS",
+   "url": "https://www.youtube.com/@frontline",
+   "description": "Award-winning investigative documentaries.",
+   "category": "documentary",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC3ScyryU9Oy9Wse3a8OAmYQ"
+   },
+   "image": "https://yt3.googleusercontent.com/jFMDozYJNM8EbQmokJA_ki7TQmnUCwB7fEEaw6d8YRLchiLorMqyNbJwoKE0wJ11q2T0f7Fj6g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "journeyman-pictures",
+   "name": "Journeyman Pictures",
+   "url": "https://www.youtube.com/@journeymanpictures",
+   "description": "Independent documentaries.",
+   "category": "documentary",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "national-film-board-of-canada",
+   "name": "National Film Board of Canada",
+   "url": "https://www.nfb.ca",
+   "description": "Free Canadian documentaries and animation.",
+   "category": "documentary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.nfb.ca/feeds/new_additions/"
+   }
+  },
+  {
+   "id": "national-geographic-youtube",
+   "name": "National Geographic (YouTube)",
+   "url": "https://www.youtube.com/@NatGeo",
+   "description": "Nature, science and exploration.",
+   "category": "documentary",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCpVm7bg6pXKo1Pr6k5kxG9A"
+   },
+   "image": "https://yt3.googleusercontent.com/4o29ZduZnGmxuRtqNf50bJtzmUtWaeh4W4cYuEXvQBz887R75UMRboX4zbNe71EO4hGgwwnr=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "nova-pbs-official",
+   "name": "NOVA PBS Official",
+   "url": "https://www.youtube.com/@NOVAPBS",
+   "description": "Science documentaries.",
+   "category": "documentary",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjHz5SVHeMT0AViCYZvsGDA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCjHz5SVHeMT0AViCYZvsGDA"
+   },
+   "image": "https://yt3.googleusercontent.com/yx6flJI75s--RAq27RgNOD-BQ_u_H4UNoQZlma1j1Txb0iSPZO5RoUW4sROUvP0g2-aClkjruO8=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "pbs-pov",
+   "name": "PBS POV",
+   "url": "https://www.pbs.org/pov/",
+   "description": "Independent documentaries.",
+   "category": "documentary",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "real-stories",
+   "name": "Real Stories",
+   "url": "https://www.youtube.com/@RealStories",
+   "description": "Full-length documentaries.",
+   "category": "documentary",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu4XcDBdnZkV6-5z2f16M0g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCu4XcDBdnZkV6-5z2f16M0g"
+   },
+   "image": "https://yt3.googleusercontent.com/XVsObJGPeyedzNW9FNh5p1nbbxSVy9sjD5nrRnClicpVAAzIqWl0YaQY3QkIi32hOm3zccFXTQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "smithsonian-channel",
+   "name": "Smithsonian Channel",
+   "url": "https://www.youtube.com/@SmithsonianChannel",
+   "description": "History, science and nature.",
+   "category": "documentary",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWqPRUsJlZaDp-PVbqEch9g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCWqPRUsJlZaDp-PVbqEch9g"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mej33cYIqIZDw0-JNgFVB39H9mLmdKjxfsddaodXaHoDBR=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "timeline",
+   "name": "Timeline",
+   "url": "https://www.youtube.com/@TimelineChannel",
+   "description": "History documentaries.",
+   "category": "documentary",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC88lvyJe7aHZmcvzvubDFRg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC88lvyJe7aHZmcvzvubDFRg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_ngqGmRD-_rfV3e6Qx71XqIo2RxPSfO7Z3cRMem4kkMCLg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "top-documentary-films",
+   "name": "Top Documentary Films",
+   "url": "https://topdocumentaryfilms.com",
+   "description": "Directory of documentaries to watch online.",
+   "category": "documentary",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "vice",
+   "name": "VICE",
+   "url": "https://www.youtube.com/@VICE",
+   "description": "Documentaries on subcultures and world issues.",
+   "category": "documentary",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCn8zNIfYAQNdrFRrr8oibKw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCn8zNIfYAQNdrFRrr8oibKw"
+   },
+   "image": "https://yt3.googleusercontent.com/9AgWUnohXk3gFYvmvAZemlr1q6yd7NxHozeEqrPpJhYf9Crjrvqml0ulZ4PL4v38I4XDoLEhaw=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}

@@ -1,0 +1,2592 @@
+{
+ "category": {
+  "id": "podcast",
+  "group": "listen",
+  "name": "Podcasts: Talk & Ideas",
+  "icon": "mic.fill",
+  "web_icon": "mic",
+  "description": "Popular English podcasts on news, science, culture, business and life."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 85,
+ "resources": [
+  {
+   "id": "7am",
+   "name": "7am",
+   "url": "https://podcasts.apple.com/us/podcast/7am/id1461999702",
+   "description": "Australian daily news podcast.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.omnycontent.com/d/playlist/2fb3740d-3436-44af-8cc0-a91900716aa5/62723a1f-3e96-4fc4-882c-b25e0181da4d/70f29d90-2a63-48aa-bf8f-b25e0181da70/podcast.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1461999702"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/9e/ba/d99eba39-d86d-514a-04d7-74352a3a1c0b/mza_8141820651466166028.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "99-invisible",
+   "name": "99% Invisible",
+   "url": "https://podcasts.apple.com/us/podcast/99-invisible/id394775318",
+   "description": "Stories about design and architecture.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/BqbsxVfO"
+   },
+   "ids": {
+    "apple_podcast_id": "394775318"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/d0/35/79d035ea-9043-b43e-7380-33cd47bd968b/mza_2606971010425550919.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "a-way-with-words",
+   "name": "A Way with Words",
+   "url": "https://podcasts.apple.com/us/podcast/away-with-words-the-podcast/id1127178066",
+   "description": "Call-in show about language, slang and word origins.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "language"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/c23fe7c/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1127178066"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/70/b2/ae/70b2ae2b-bda8-a36e-3125-063af2ae96d7/mza_14524490461198095437.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "accidental-tech-podcast",
+   "name": "Accidental Tech Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/accidental-tech-podcast/id617416468",
+   "description": "Three developers talk Apple and tech.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://cdn.atp.fm/rss/public?wtvryzdm"
+   },
+   "ids": {
+    "apple_podcast_id": "617416468"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/91/22/42/9122426f-df98-4302-6ba3-da67b0648e70/mza_5041274938111919910.png/600x600bb.jpg"
+  },
+  {
+   "id": "acquired",
+   "name": "Acquired",
+   "url": "https://podcasts.apple.com/us/podcast/acquired/id1050462261",
+   "description": "Deep histories of great companies.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.transistor.fm/acquired"
+   },
+   "ids": {
+    "apple_podcast_id": "1050462261"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "armchair-expert-with-dax-shepard",
+   "name": "Armchair Expert with Dax Shepard",
+   "url": "https://podcasts.apple.com/us/podcast/armchair-expert-with-dax-shepard/id1345682353",
+   "description": "Long celebrity interviews.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.art19.com/armchair-expert"
+   },
+   "ids": {
+    "apple_podcast_id": "1345682353"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f0/13/8f/f0138f4b-8bc3-0a64-2c11-ef566840f60f/mza_3062409012210474882.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "choiceology",
+   "name": "Choiceology",
+   "url": "https://podcasts.apple.com/",
+   "description": "Behavioural economics stories.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "code-switch",
+   "name": "Code Switch",
+   "url": "https://podcasts.apple.com/us/podcast/code-switch/id1112190608",
+   "description": "Race and identity.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.npr.org/510312/podcast.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1112190608"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cf/68/b3/cf68b3c4-c0c2-6c22-cfca-b6ffbc758553/mza_16135830544540380698.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "conan-o-brien-needs-a-friend",
+   "name": "Conan O'Brien Needs a Friend",
+   "url": "https://podcasts.apple.com/us/podcast/conan-obrien-needs-a-friend/id1438054347",
+   "description": "Comedy conversations.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/dHoohVNH"
+   },
+   "ids": {
+    "apple_podcast_id": "1438054347"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/02/8a/c6028ab7-bffd-db83-53e4-34a4ea9bef21/mza_16944101310108746053.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "dear-hank-and-john",
+   "name": "Dear Hank & John",
+   "url": "https://podcasts.apple.com/us/podcast/dear-hank-john/id1002937870",
+   "description": "Comedic advice and news from the Green brothers.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.art19.com/dear-hank-john"
+   },
+   "ids": {
+    "apple_podcast_id": "1002937870"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2f/73/a2/2f73a255-e4a8-49e4-53a7-f1ae1211169b/mza_8948836678873619830.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "decoder-with-nilay-patel",
+   "name": "Decoder with Nilay Patel",
+   "url": "https://podcasts.apple.com/us/podcast/decoder-with-nilay-patel/id1011668648",
+   "description": "Interviews about big ideas in tech.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/recodedecode"
+   },
+   "ids": {
+    "apple_podcast_id": "1011668648"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/b2/ea/45b2ea67-03e4-2eb9-b333-fdcd9ead3f80/mza_1465024791640209731.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "desert-island-discs",
+   "name": "Desert Island Discs",
+   "url": "https://podcasts.apple.com/us/podcast/desert-island-discs/id342735925",
+   "description": "Famous people choose their favourite music.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcasts.files.bbci.co.uk/b006qnmr.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "342735925"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/9d/1e/ea9d1ea0-3fb7-eccb-a679-3e3bcbc4c7b3/mza_7452413238920854236.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "fortunately-with-fi-and-jane",
+   "name": "Fortunately... with Fi and Jane",
+   "url": "https://podcasts.apple.com/us/podcast/fortunately-with-fi-and-jane/id1220808096",
+   "description": "Chatty BBC presenters.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcasts.files.bbci.co.uk/p04x5pd7.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1220808096"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/ea/40/b3/ea40b3d2-39e1-04cc-7bd8-0e017b008a53/mza_9888877639397691169.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "freakonomics-radio",
+   "name": "Freakonomics Radio",
+   "url": "https://podcasts.apple.com/us/podcast/freakonomics-radio/id354668519",
+   "description": "The hidden side of everything.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/Y8lFbOT4"
+   },
+   "ids": {
+    "apple_podcast_id": "354668519"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "fresh-air",
+   "name": "Fresh Air",
+   "url": "https://podcasts.apple.com/us/podcast/fresh-air/id214089682",
+   "description": "Terry Gross's in-depth interviews.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.npr.org/381444908/podcast.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "214089682"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "front-burner",
+   "name": "Front Burner",
+   "url": "https://podcasts.apple.com/us/podcast/front-burner/id1439621628",
+   "description": "CBC's daily news podcast.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.cbc.ca/podcasting/includes/frontburner.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1439621628"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b5/46/ed/b546edf2-9cd4-8464-850d-92af5b75e371/mza_1251446280715167527.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "ft-news-briefing",
+   "name": "FT News Briefing",
+   "url": "https://podcasts.apple.com/us/podcast/ft-news-briefing/id1438449989",
+   "description": "Short daily business news from the FT.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.acast.com/public/shows/73fe3ede-5c5c-4850-96a8-30db8dbae8bf"
+   },
+   "ids": {
+    "apple_podcast_id": "1438449989"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/fd/0c/60fd0c79-808e-cc79-e121-27527becbdc6/mza_1413179331890984538.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "gastropod",
+   "name": "Gastropod",
+   "url": "https://podcasts.apple.com/us/podcast/gastropod/id918896288",
+   "description": "Food through science and history.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/VMP6255701211"
+   },
+   "ids": {
+    "apple_podcast_id": "918896288"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/34/5f/15345fec-624e-1f5d-5f78-6025505ca1c4/mza_2621346713844505260.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "global-news-podcast",
+   "name": "Global News Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/global-news-podcast/id135067274",
+   "description": "The BBC World Service's twice-daily news.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcasts.files.bbci.co.uk/p02nq0gn.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "135067274"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f1/4f/d1/f14fd1cf-7b5c-0bb7-683d-325c83bb089e/mza_17540730169954302156.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "hard-fork",
+   "name": "Hard Fork",
+   "url": "https://podcasts.apple.com/us/podcast/hard-fork/id1528594034",
+   "description": "Tech news from the New York Times.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/6HKOhNgS"
+   },
+   "ids": {
+    "apple_podcast_id": "1528594034"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/de/c5/20/dec52092-6be0-9007-875c-6aa8e690a905/mza_12490014444602578825.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "hidden-brain",
+   "name": "Hidden Brain",
+   "url": "https://podcasts.apple.com/us/podcast/hidden-brain/id1028908750",
+   "description": "Psychology and human behaviour.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/kwWc0lhf"
+   },
+   "ids": {
+    "apple_podcast_id": "1028908750"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "how-i-built-this",
+   "name": "How I Built This",
+   "url": "https://podcasts.apple.com/us/podcast/how-i-built-this/id1491387021",
+   "description": "Founders tell the stories behind their companies.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/116c57a8/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1491387021"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/13/78/c5/1378c503-4825-eb6d-30d3-0623392a0404/mza_16344886389678439299.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "huberman-lab",
+   "name": "Huberman Lab",
+   "url": "https://podcasts.apple.com/us/podcast/huberman-lab/id1545953110",
+   "description": "Neuroscience and health.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/hubermanlab"
+   },
+   "ids": {
+    "apple_podcast_id": "1545953110"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "ideas",
+   "name": "Ideas",
+   "url": "https://podcasts.apple.com/us/podcast/ideas/id151485663",
+   "description": "CBC Radio's documentary series on ideas.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.cbc.ca/podcasting/includes/ideas.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "151485663"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/94/fe/a5/94fea51f-9e41-b60f-b5f2-3549407ef6fc/mza_4140352385670983274.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "in-our-time",
+   "name": "In Our Time",
+   "url": "https://podcasts.apple.com/us/podcast/in-our-time/id73330895",
+   "description": "Experts discuss history, science and philosophy.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcasts.files.bbci.co.uk/b006qykl.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "73330895"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f3/12/e7/f312e703-b626-0091-5bdf-73d79cce25c5/mza_16900938594910783199.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "it-s-been-a-minute",
+   "name": "It's Been a Minute",
+   "url": "https://podcasts.apple.com/us/podcast/its-been-a-minute/id1250180134",
+   "description": "NPR on culture and news.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.npr.org/510317/podcast.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1250180134"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/22/a9/30/22a930c4-2f02-4e28-a12d-e435bb808208/mza_2718497740737569037.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "kermode-and-mayo-s-take",
+   "name": "Kermode & Mayo's Take",
+   "url": "https://podcasts.apple.com/us/podcast/kermode-mayos-take/id1616559297",
+   "description": "Film reviews and banter.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.pdrl.fm/a16f7d/feeds.megaphone.fm/kermodeandmayo"
+   },
+   "ids": {
+    "apple_podcast_id": "1616559297"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/fb/69/30fb6958-be28-498f-cee0-efd3cfcc48cc/mza_4325218629693176210.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "lex-fridman-podcast",
+   "name": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584",
+   "description": "Long conversations on science and tech.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://lexfridman.com/feed/podcast/"
+   },
+   "ids": {
+    "apple_podcast_id": "1434243584"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/42/d7/ea42d7b1-8d4e-dd97-da5d-c508756550ca/mza_16782152345430036863.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "lexicon-valley",
+   "name": "Lexicon Valley",
+   "url": "https://podcasts.apple.com/us/podcast/lexicon-valley/id1576564760",
+   "description": "John McWhorter on language.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "language"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/SLT4637136223"
+   },
+   "ids": {
+    "apple_podcast_id": "1576564760"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/22/7d/a7/227da71a-7662-d609-69ae-880511357f42/mza_4749907498345011781.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "mamamia-out-loud",
+   "name": "Mamamia Out Loud",
+   "url": "https://podcasts.apple.com/us/podcast/mamamia-out-loud/id928350893",
+   "description": "Australian women talk culture and news.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/fb1f46f6-b3d6-4068-8ab5-a44f016e5066/7f09e143-5892-47cc-a7e2-a4e4015c8eee/podcast.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "928350893"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f5/0f/b9/f50fb90b-69db-d127-2714-f236461130ae/mza_4169683199864382337.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "marketplace",
+   "name": "Marketplace",
+   "url": "https://podcasts.apple.com/us/podcast/marketplace/id201853034",
+   "description": "Business and economics news.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.publicradio.org/public_feeds/marketplace"
+   },
+   "ids": {
+    "apple_podcast_id": "201853034"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/90/34/b4/9034b43b-0a18-3ed4-1f69-c18dc001c891/mza_2187886854309824642.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "more-or-less",
+   "name": "More or Less",
+   "url": "https://podcasts.apple.com/us/podcast/more-or-less/id267300884",
+   "description": "Numbers in the news checked.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcasts.files.bbci.co.uk/b006qshd.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "267300884"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f0/4c/42/f04c4216-9ade-c6e2-4533-1298b53105ce/mza_17883283720943903636.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "no-such-thing-as-a-fish",
+   "name": "No Such Thing As A Fish",
+   "url": "https://podcasts.apple.com/us/podcast/no-such-thing-as-a-fish/id840986946",
+   "description": "QI researchers share their favourite facts.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://audioboom.com/channels/2399216.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "840986946"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/9b/4c/6f9b4c39-3c1a-d7c7-9264-b0ed14579e08/mza_7947053701740283670.png/600x600bb.jpg"
+  },
+  {
+   "id": "npr-news-now",
+   "name": "NPR News Now",
+   "url": "https://podcasts.apple.com/us/podcast/npr-news-now/id121493675",
+   "description": "Five-minute hourly news.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.npr.org/500005/podcast.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "121493675"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/27/a0/ab/27a0abb7-817f-d80c-4fed-6fd04d424333/mza_16804553558295235422.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "odd-lots",
+   "name": "Odd Lots",
+   "url": "https://podcasts.apple.com/us/podcast/odd-lots/id1056200096",
+   "description": "Bloomberg's markets and economics conversations.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1056200096"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f3/99/6a/f3996a52-e4a4-bf0d-b7d6-e376c4058568/mza_15550359494736224565.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "off-menu-with-ed-gamble-and-james-acaster",
+   "name": "Off Menu with Ed Gamble and James Acaster",
+   "url": "https://podcasts.apple.com/us/podcast/off-menu-with-ed-gamble-and-james-acaster/id1442950743",
+   "description": "Comedians choose their dream meal.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4"
+   },
+   "ids": {
+    "apple_podcast_id": "1442950743"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "ologies-with-alie-ward",
+   "name": "Ologies with Alie Ward",
+   "url": "https://podcasts.apple.com/us/podcast/ologies-with-alie-ward/id1278815517",
+   "description": "Interviews with experts in every -ology.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/FO6kxYGj"
+   },
+   "ids": {
+    "apple_podcast_id": "1278815517"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/44/4e/42/444e42f6-1ce8-1e7b-2d50-4ed506c27004/mza_18370866018545460916.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "philosophize-this",
+   "name": "Philosophize This!",
+   "url": "https://podcasts.apple.com/us/podcast/philosophize-this/id659155419",
+   "description": "Philosophy explained from the beginning.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/QCD6036500916"
+   },
+   "ids": {
+    "apple_podcast_id": "659155419"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "pivot",
+   "name": "Pivot",
+   "url": "https://podcasts.apple.com/us/podcast/pivot/id1073226719",
+   "description": "Kara Swisher and Scott Galloway on tech and business.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/pivot"
+   },
+   "ids": {
+    "apple_podcast_id": "1073226719"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/22/39/1322397a-976e-3c8f-7764-91cc38d0dd70/mza_12130189257448841692.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "planet-money",
+   "name": "Planet Money",
+   "url": "https://podcasts.apple.com/us/podcast/planet-money/id290783428",
+   "description": "Economics explained with stories.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.npr.org/510289/podcast.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "290783428"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/df/53/85df5334-0fae-28a9-2bc4-b97b81061d0e/mza_10839245066228881011.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "pop-culture-happy-hour",
+   "name": "Pop Culture Happy Hour",
+   "url": "https://podcasts.apple.com/us/podcast/pop-culture-happy-hour/id278974813",
+   "description": "NPR on films, TV and books.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.npr.org/510282/podcast.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "278974813"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/ca/0b/29ca0bf1-aa5b-3da8-9be0-f357793116a7/mza_16337213754400532987.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "post-reports",
+   "name": "Post Reports",
+   "url": "https://podcasts.apple.com/us/podcast/post-reports/id1444873564",
+   "description": "The Washington Post's daily podcast.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcast.posttv.com/itunes/post-reports.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1444873564"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f7/fb/46/f7fb462d-c5e2-1b1c-a485-abf6e1515b41/mza_3200760060001266681.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "radiolab",
+   "name": "Radiolab",
+   "url": "https://podcasts.apple.com/us/podcast/radiolab/id152249110",
+   "description": "Curious science stories with rich sound design.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/EmVW7VGp"
+   },
+   "ids": {
+    "apple_podcast_id": "152249110"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2b/b2/4d/2bb24d28-f3bb-916f-6bf3-9e125ba5219b/mza_4476298389845914795.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "science-friday",
+   "name": "Science Friday",
+   "url": "https://podcasts.apple.com/us/podcast/science-friday/id73329284",
+   "description": "Science news and interviews.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/h18ZIZD_"
+   },
+   "ids": {
+    "apple_podcast_id": "73329284"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/a3/e2/0aa3e2a9-dda9-a7ea-8711-490d7f6c5c55/mza_1538698271404318803.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "science-vs",
+   "name": "Science Vs",
+   "url": "https://podcasts.apple.com/us/podcast/science-vs/id1051557000",
+   "description": "Facts versus fads.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/sciencevs"
+   },
+   "ids": {
+    "apple_podcast_id": "1051557000"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/62/15/18/621518e5-8eb3-392b-25a7-e7444aab86b6/mza_815589518502039493.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "search-engine",
+   "name": "Search Engine",
+   "url": "https://podcasts.apple.com/us/podcast/search-engine/id1614253637",
+   "description": "PJ Vogt answers curious questions.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.amperwave.net/v2/feed/audacynetwork/search-engine"
+   },
+   "ids": {
+    "apple_podcast_id": "1614253637"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/90/5b/62/905b6220-b426-6e2d-b97c-9f0a16ed31c4/mza_1372109499010593679.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "short-wave",
+   "name": "Short Wave",
+   "url": "https://podcasts.apple.com/us/podcast/short-wave/id1482575855",
+   "description": "NPR's daily science in 10 minutes.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.npr.org/510351/podcast.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1482575855"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/27/45/17274534-c924-edae-c6ca-c412724c96ae/mza_4098925705315309992.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "smartless",
+   "name": "SmartLess",
+   "url": "https://podcasts.apple.com/us/podcast/smartless/id1521578868",
+   "description": "Three actors interview a mystery guest.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/hNaFxXpO"
+   },
+   "ids": {
+    "apple_podcast_id": "1521578868"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "startalk-radio",
+   "name": "StarTalk Radio",
+   "url": "https://podcasts.apple.com/us/podcast/star-talk-podcast/id1691883576",
+   "description": "Neil deGrasse Tyson on space and science.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.omnycontent.com/d/playlist/7bc69dcc-9c03-42ec-a556-a62500d420ca/6bc1c172-0e72-4cf0-93f7-ac4d007c9f59/21f9ecb0-b172-4e1f-8b51-ac4d007d5262/podcast.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1691883576"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/5c/c7/22/5cc72264-3ba1-b13e-241c-be8450106566/mza_10480696331231685044.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "stuff-you-should-know",
+   "name": "Stuff You Should Know",
+   "url": "https://podcasts.apple.com/us/podcast/stuff-you-should-know/id278981407",
+   "description": "Two friends explain how everything works.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "278981407"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/82/91/aa82912f-23ee-6f6a-583c-a4e993164d0e/mza_12111158076643383507.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "ted-radio-hour",
+   "name": "TED Radio Hour",
+   "url": "https://podcasts.apple.com/us/podcast/ted-radio-hour/id523121474",
+   "description": "Ideas from TED talks woven into stories.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.npr.org/510298/podcast.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "523121474"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/ea/88/94ea8879-e7f2-378c-231c-c041c7b295b5/mza_9110350352446077100.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "ted-talks-daily",
+   "name": "TED Talks Daily",
+   "url": "https://podcasts.apple.com/us/podcast/ted-talks-daily/id160904630",
+   "description": "A new TED talk every weekday.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96"
+   },
+   "ids": {
+    "apple_podcast_id": "160904630"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg"
+  },
+  {
+   "id": "ten-percent-happier",
+   "name": "Ten Percent Happier",
+   "url": "https://podcasts.apple.com/",
+   "description": "Meditation and wellbeing.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "the-allusionist",
+   "name": "The Allusionist",
+   "url": "https://podcasts.apple.com/us/podcast/the-allusionist/id957430475",
+   "description": "Helen Zaltzman on words and language.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "language"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.art19.com/the-allusionist"
+   },
+   "ids": {
+    "apple_podcast_id": "957430475"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d2/ee/57/d2ee5738-0ae8-cb97-2a15-8cefab5598c0/mza_18103885882368855276.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "the-big-picture",
+   "name": "The Big Picture",
+   "url": "https://podcasts.apple.com/us/podcast/the-big-picture/id1439252196",
+   "description": "The Ringer on films.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/the-big-picture"
+   },
+   "ids": {
+    "apple_podcast_id": "1439252196"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1d/81/33/1d813395-fa0e-b76a-4bb9-e04730707f3f/mza_12669351877858891723.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "the-bill-simmons-podcast",
+   "name": "The Bill Simmons Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613",
+   "description": "Sports and pop culture.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/the-bill-simmons-podcast"
+   },
+   "ids": {
+    "apple_podcast_id": "1043699613"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/80/7a/cc807ada-eefc-d962-fb19-514a729249ce/mza_4622982796810028676.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-blindboy-podcast",
+   "name": "The Blindboy Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/the-blindboy-podcast/id1300577518",
+   "description": "Irish stories, culture and mental health.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "ie",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.acast.com/public/shows/9d5c107b-68d6-4c1b-8c80-45ee6a84c947"
+   },
+   "ids": {
+    "apple_podcast_id": "1300577518"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/d7/f9/1f/d7f91fdc-dfd6-2df2-7585-e3e72782761e/mza_7221553814421325007.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-daily",
+   "name": "The Daily",
+   "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736",
+   "description": "The New York Times's 20-minute daily news story.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/Sl5CSM3S"
+   },
+   "ids": {
+    "apple_podcast_id": "1200361736"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/64/66/ab6466a9-9a7d-e20e-7a3d-bc5be37d29ce/mza_15084852813176276273.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-diary-of-a-ceo-with-steven-bartlett",
+   "name": "The Diary Of A CEO with Steven Bartlett",
+   "url": "https://podcasts.apple.com/us/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644",
+   "description": "Long interviews about success and health.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn"
+   },
+   "ids": {
+    "apple_podcast_id": "1291423644"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/600x600bb.jpg"
+  },
+  {
+   "id": "the-ezra-klein-show",
+   "name": "The Ezra Klein Show",
+   "url": "https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447",
+   "description": "Conversations about ideas and politics.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/kEKXbjuJ"
+   },
+   "ids": {
+    "apple_podcast_id": "1548604447"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-food-programme",
+   "name": "The Food Programme",
+   "url": "https://podcasts.apple.com/us/podcast/the-food-programme/id342927791",
+   "description": "BBC on food culture.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcasts.files.bbci.co.uk/b006qnx3.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "342927791"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/2c/07/b12c07b4-c375-7f09-d2ea-08b086b254b0/mza_10892788453291042370.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-football-ramble",
+   "name": "The Football Ramble",
+   "url": "https://podcasts.apple.com/us/podcast/football-ramble/id254078311",
+   "description": "Funny football talk.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.acast.com/public/shows/8af0c347-5e6e-48e2-8fae-3f4e765c84ab"
+   },
+   "ids": {
+    "apple_podcast_id": "254078311"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c7/6c/eb/c76cebed-2adf-257e-b635-b3de782ef31f/mza_17605460054758293685.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "the-happiness-lab",
+   "name": "The Happiness Lab",
+   "url": "https://podcasts.apple.com/us/podcast/%E7%9F%BD%E8%B0%B7%E5%BF%AB%E6%A8%82%E5%AF%A6%E9%A9%97%E5%AE%A4-bay-area-happiness-lab/id1611870630",
+   "description": "Yale's science of happiness.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.soundon.fm/podcasts/6ad40b33-a77a-4672-a99e-907370194a11.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1611870630"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/37/a2/75/37a275b3-1412-afd5-f083-9287cc1bf23b/mza_8580774072645733721.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "the-indicator-from-planet-money",
+   "name": "The Indicator from Planet Money",
+   "url": "https://podcasts.apple.com/us/podcast/the-indicator-from-planet-money/id1320118593",
+   "description": "Ten-minute economics stories.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.npr.org/510325/podcast.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1320118593"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/43/7a/52437a60-2f82-5abd-e65a-77e1a4fc41c2/mza_16254826952631581399.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-infinite-monkey-cage",
+   "name": "The Infinite Monkey Cage",
+   "url": "https://podcasts.apple.com/us/podcast/the-infinite-monkey-cage/id343580439",
+   "description": "Scientists and comedians in conversation.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "343580439"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/22/73/fd227375-1ce7-3b19-4975-42382ef93d68/mza_7256811953727816633.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-intelligence-from-the-economist",
+   "name": "The Intelligence from The Economist",
+   "url": "https://podcasts.apple.com/us/podcast/the-intelligence-from-the-economist/id1449631195",
+   "description": "The Economist's daily news podcast.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://access.acast.com/rss/d556eb54-6160-4c85-95f4-47d9f5216c49"
+   },
+   "ids": {
+    "apple_podcast_id": "1449631195"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/dd/cf/63ddcf01-0ea9-b6da-72f0-67fe5bba6ff7/mza_9059330379365777168.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "the-journal",
+   "name": "The Journal.",
+   "url": "https://podcasts.apple.com/",
+   "description": "WSJ and Gimlet on money, business and power.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "the-mel-robbins-podcast",
+   "name": "The Mel Robbins Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/the-mel-robbins-podcast/id1646101002",
+   "description": "Motivation and life advice.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/UCwaTX1J"
+   },
+   "ids": {
+    "apple_podcast_id": "1646101002"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-news-agents",
+   "name": "The News Agents",
+   "url": "https://podcasts.apple.com/us/podcast/the-news-agents/id1640878689",
+   "description": "British news analysis.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.captivate.fm/the-news-agents/"
+   },
+   "ids": {
+    "apple_podcast_id": "1640878689"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/c9/9a/15c99a23-093f-ec33-11c7-1d0868ba0d2f/mza_11260062413365049894.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-news-quiz",
+   "name": "The News Quiz",
+   "url": "https://podcasts.apple.com/us/podcast/daily-news-quiz/id6825838426",
+   "description": "BBC Radio 4's satirical news quiz.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://media.dailynewsquiz.win/uk/feed.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "6825838426"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/02/06/d6/0206d6ea-9aa3-c7bc-3137-9ca46f0767e1/mza_16181863962349295141.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-rest-is-football",
+   "name": "The Rest Is Football",
+   "url": "https://podcasts.apple.com/us/podcast/the-rest-is-football/id1701022490",
+   "description": "Gary Lineker and friends on football.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/GLT8847082992"
+   },
+   "ids": {
+    "apple_podcast_id": "1701022490"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a6/35/aa/a635aa3c-4660-a910-81e5-48e07145cf76/mza_5775495299079354227.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-rest-is-politics",
+   "name": "The Rest Is Politics",
+   "url": "https://podcasts.apple.com/us/podcast/the-rest-is-politics/id1611374685",
+   "description": "Alastair Campbell and Rory Stewart disagree agreeably.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/GLT9190936013"
+   },
+   "ids": {
+    "apple_podcast_id": "1611374685"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/a7/d6/d0a7d6a3-e1d3-52ba-60fd-d788ceb7d559/mza_17193364103373697567.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-seen-and-the-unseen",
+   "name": "The Seen and the Unseen",
+   "url": "https://podcasts.apple.com/us/podcast/seen-and-the-unseen/id1896772583",
+   "description": "Long conversations about India.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "in",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.spreaker.com/show/7044373/episodes/feed"
+   },
+   "ids": {
+    "apple_podcast_id": "1896772583"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8b/58/be/8b58bebe-9cfc-7e80-d99c-6823deb51600/mza_5613461589375946287.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-sporkful",
+   "name": "The Sporkful",
+   "url": "https://podcasts.apple.com/us/podcast/the-sporkful/id350709629",
+   "description": "Food podcast for eaters.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/n91GPFY5"
+   },
+   "ids": {
+    "apple_podcast_id": "350709629"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/85/cd/2f/85cd2fd7-d0ac-6ef8-2f81-23a41bc565d3/mza_13636039206114447303.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "the-squiz-today",
+   "name": "The Squiz Today",
+   "url": "https://podcasts.apple.com/us/podcast/squiz-today/id1385995581",
+   "description": "Australian daily news in 10 minutes.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/STHZE1330487576"
+   },
+   "ids": {
+    "apple_podcast_id": "1385995581"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/69/74/ea69746d-5801-ed20-3ff1-61e28def1cab/mza_10903092254514142291.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "the-tim-ferriss-show",
+   "name": "The Tim Ferriss Show",
+   "url": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795",
+   "description": "Interviews with top performers.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.art19.com/tim-ferriss-show"
+   },
+   "ids": {
+    "apple_podcast_id": "863897795"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/18/39/b4/1839b420-7aff-c501-5d0d-af2842fba013/mza_6255154260686997849.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "the-vergecast",
+   "name": "The Vergecast",
+   "url": "https://podcasts.apple.com/us/podcast/the-vergecast/id430333725",
+   "description": "The Verge's tech podcast.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/vergecast"
+   },
+   "ids": {
+    "apple_podcast_id": "430333725"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1d/64/cd/1d64cd45-4497-ee37-0e35-df108046d9e6/mza_781548057726205094.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "today-in-focus",
+   "name": "Today in Focus",
+   "url": "https://podcasts.apple.com/us/podcast/today-in-focus/id1440133626",
+   "description": "The Guardian's daily deep dive.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.theguardian.com/news/series/todayinfocus/podcast.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1440133626"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f1/13/71/f113715f-56e4-f542-a08c-b5890c0841bc/mza_18228009703397905678.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "today-explained",
+   "name": "Today, Explained",
+   "url": "https://podcasts.apple.com/us/podcast/today-explained/id1346207297",
+   "description": "Vox's daily explanation of one news story.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/VMP5705694065"
+   },
+   "ids": {
+    "apple_podcast_id": "1346207297"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/bc/e4/57bce477-b6e7-ba7d-5bca-6289f3f32e26/mza_17986217629149107841.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "unexplainable",
+   "name": "Unexplainable",
+   "url": "https://podcasts.apple.com/us/podcast/unexplainable/id1554578197",
+   "description": "Vox on science's unanswered questions.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/VMP9331026707"
+   },
+   "ids": {
+    "apple_podcast_id": "1554578197"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/87/4d/eb874d60-4424-62df-a136-d5b5f32c451b/mza_11680166435885601347.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "up-first",
+   "name": "Up First",
+   "url": "https://podcasts.apple.com/",
+   "description": "NPR's three top stories in 15 minutes.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true
+  },
+  {
+   "id": "wait-wait-don-t-tell-me",
+   "name": "Wait Wait... Don't Tell Me!",
+   "url": "https://podcasts.apple.com/us/podcast/wait-wait-dont-tell-me/id121493804",
+   "description": "NPR's news quiz.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.npr.org/344098539/podcast.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "121493804"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/94/fe/e994fed6-50a1-6519-9b84-b0beaa205242/mza_2290751556169099993.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "waveform-the-mkbhd-podcast",
+   "name": "Waveform: The MKBHD Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/waveform-the-mkbhd-podcast/id1474429475",
+   "description": "Tech talk with Marques Brownlee.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.megaphone.fm/STU4418364045"
+   },
+   "ids": {
+    "apple_podcast_id": "1474429475"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/92/dd/8e/92dd8eed-43ec-dc47-50ae-c1ec7c0a3353/mza_3861776104886813687.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "woman-s-hour",
+   "name": "Woman's Hour",
+   "url": "https://podcasts.apple.com/us/podcast/womans-hour/id130950322",
+   "description": "BBC on women's lives.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcasts.files.bbci.co.uk/b007qlvb.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "130950322"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/37/68/0037681e-0d5e-6a41-937a-f4df0b0aa7ec/mza_18109530203291181764.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "worklife-with-adam-grant",
+   "name": "WorkLife with Adam Grant",
+   "url": "https://podcasts.apple.com/",
+   "description": "Making work better.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  }
+ ]
+}

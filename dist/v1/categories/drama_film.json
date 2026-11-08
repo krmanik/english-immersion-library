@@ -1,0 +1,832 @@
+{
+ "category": {
+  "id": "drama_film",
+  "group": "watch",
+  "name": "TV & Film",
+  "icon": "film.fill",
+  "web_icon": "clapperboard",
+  "description": "Official channels with scenes, full episodes, trailers and film criticism."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 30,
+ "resources": [
+  {
+   "id": "a24",
+   "name": "A24",
+   "url": "https://www.youtube.com/@A24",
+   "description": "Trailers and features from A24.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuPivVjnfNo4mb3Oog_frZg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCuPivVjnfNo4mb3Oog_frZg"
+   },
+   "image": "https://yt3.googleusercontent.com/37jAKnh2Yt05eT_ebynqYHNAQXUedv98drEAnFstVbHoi2c9wL2dFdeDgQDnX7R6bdBXsEXaRw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "bbc",
+   "name": "BBC",
+   "url": "https://www.youtube.com/@BBC",
+   "description": "Clips from BBC dramas, comedy and documentaries.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCj956IF62FbT7Gouszaj9w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCCj956IF62FbT7Gouszaj9w"
+   },
+   "image": "https://yt3.googleusercontent.com/ZJXeYEqiW-S6m2aq4Od06PhnzX-mub-BhhFADsAirgfljCE3rrPm46_FRZCc0IaGgEu78z9KUlU=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "bfi",
+   "name": "BFI",
+   "url": "https://www.youtube.com/@BFI",
+   "description": "British Film Institute talks and trailers.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "chris-stuckmann",
+   "name": "Chris Stuckmann",
+   "url": "https://www.youtube.com/@ChrisStuckmann",
+   "description": "Film reviews.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCCqEeDAUf4Mg0GgEN658tkA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nUsWH_xUL8Vx_BmlIIvIX5ng5qfeMV8D_Z7lQj8f23Aw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "cinemasins",
+   "name": "CinemaSins",
+   "url": "https://www.youtube.com/@CinemaSins",
+   "description": "Comedic lists of film mistakes.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYUQQgogVeQY8cMQamhHJcg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCYUQQgogVeQY8cMQamhHJcg"
+   },
+   "image": "https://yt3.googleusercontent.com/3yoJ4YqIBsmBbgit4TqQvh_kW6snD-jDXVHDBM4j9The4pKgmGpxbzlLmQaWN813qoDF4FiTPQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "corridor-crew",
+   "name": "Corridor Crew",
+   "url": "https://www.youtube.com/@CorridorCrew",
+   "description": "VFX artists react to film effects.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSpFnDQr88xCZ80N-X7t0nQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCSpFnDQr88xCZ80N-X7t0nQ"
+   },
+   "image": "https://yt3.googleusercontent.com/z0myIPI-E3Dd-4pQmTD-rsJ7GfiyQsu3z4G6BQsKjdBqn8lk_Wq887bW1NVuJDGFGJsQcCJE8-I=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "every-frame-a-painting",
+   "name": "Every Frame a Painting",
+   "url": "https://www.youtube.com/@everyframeapainting",
+   "description": "Classic video essays on film form.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjFqcJQXGZ6T6sxyFB-5i6A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCjFqcJQXGZ6T6sxyFB-5i6A"
+   },
+   "image": "https://yt3.googleusercontent.com/CkezKz6blGwjqHcs6xy_GtG_LfMEsgOjSSzBu3el_kL_8FYgNALuQSt3-LRwJ__dV8nXEhCn=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "folding-ideas",
+   "name": "Folding Ideas",
+   "url": "https://www.youtube.com/@FoldingIdeas",
+   "description": "Film criticism and documentaries.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyNtlmLB73-7gtlBz00XOQQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCyNtlmLB73-7gtlBz00XOQQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nPkfGokIxWmwvboXDKzsAFUZ4Abr9bsqBVVcZ4JI2QUto=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "imdb",
+   "name": "IMDb",
+   "url": "https://www.imdb.com",
+   "description": "Film and TV database.",
+   "category": "drama_film",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "imsdb",
+   "name": "IMSDb",
+   "url": "https://imsdb.com",
+   "description": "The Internet Movie Script Database.",
+   "category": "drama_film",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "transcripts"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "jenny-nicholson",
+   "name": "Jenny Nicholson",
+   "url": "https://www.youtube.com/@JennyNicholson",
+   "description": "Long, funny film and theme-park reviews.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7-E5xhZBZdW-8d7V80mzfg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC7-E5xhZBZdW-8d7V80mzfg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kD06bCGtLZS_inAxRkowr-YzLavt_yLHMW10ZWOhQwxrE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "jeremy-jahns",
+   "name": "Jeremy Jahns",
+   "url": "https://www.youtube.com/@JeremyJahns",
+   "description": "Energetic film reviews.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UC7v3-2K1N84V67IF-WTRG-Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kyPT4GF3MmoXldDs8Hm-sCG8hcQpbSJpJyrp1LD0Am36o=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "justwatch",
+   "name": "JustWatch",
+   "url": "https://www.justwatch.com",
+   "description": "Find where to stream any film or show.",
+   "category": "drama_film",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "lessons-from-the-screenplay",
+   "name": "Lessons from the Screenplay",
+   "url": "https://www.youtube.com/@LessonsfromtheScreenplay",
+   "description": "How great screenplays work.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCErSSa3CaP_GJxmFpdjG9Jw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCErSSa3CaP_GJxmFpdjG9Jw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mwb7HuKymvI3quECjxz7D5WI46dD6dIfQypFbqhGUzGhQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "letterboxd",
+   "name": "Letterboxd",
+   "url": "https://letterboxd.com",
+   "description": "Social film reviews and lists.",
+   "category": "drama_film",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "movieclips",
+   "name": "Movieclips",
+   "url": "https://www.youtube.com/@MOVIECLIPS",
+   "description": "Short scenes from thousands of films.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3gNmTGu-TTbFPpfSs5kNkg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC3gNmTGu-TTbFPpfSs5kNkg"
+   },
+   "image": "https://yt3.googleusercontent.com/1uIk9g0sODh4NzeUK86fyEa67EUfZLNDa3FRLfSV0JzvmWrFSZeQVlGQmOnDEcjMZoGFb8MqVQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "nerdwriter1",
+   "name": "Nerdwriter1",
+   "url": "https://www.youtube.com/@Nerdwriter1",
+   "description": "Video essays on film, art and culture.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCJkMlOu7faDgqh4PfzbpLdg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lrqB-g_-yHIwNQwBMXcAIEo7fOtKd1Fv3ZPnFv0D3pm6g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "netflix-youtube",
+   "name": "Netflix (YouTube)",
+   "url": "https://www.youtube.com/@Netflix",
+   "description": "Trailers, clips and behind-the-scenes.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWOA1ZGywLbqmigxE4Qlvuw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw"
+   },
+   "image": "https://yt3.googleusercontent.com/3b73AYEMMfa3SX5KJMeygio9smTPvrPrpicuQZbfQ_2DN7dV_ApiRM4CdYjSprEy1YYvt_9b=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "patrick-h-willems",
+   "name": "Patrick (H) Willems",
+   "url": "https://www.youtube.com/@patrickwillems",
+   "description": "Video essays on films and franchises.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "rogerebert-com",
+   "name": "RogerEbert.com",
+   "url": "https://www.rogerebert.com",
+   "description": "Film reviews in clear, thoughtful English.",
+   "category": "drama_film",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "rotten-tomatoes",
+   "name": "Rotten Tomatoes",
+   "url": "https://www.rottentomatoes.com",
+   "description": "Film review aggregator.",
+   "category": "drama_film",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "screen-junkies",
+   "name": "Screen Junkies",
+   "url": "https://www.youtube.com/@screenjunkies",
+   "description": "Honest Trailers and film comedy.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOpcACMWblDls9Z6GERVi1A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCOpcACMWblDls9Z6GERVi1A"
+   },
+   "image": "https://yt3.googleusercontent.com/ipqt0YXs_vHVOy6f8B_2fnwuWj8ZdOPse_IEbPrjrpkAk-NYUkX9re9D4ybfdUo5_6G3xKAd=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "screen-rant",
+   "name": "Screen Rant",
+   "url": "https://www.youtube.com/@ScreenRant",
+   "description": "Pitch Meetings and film news.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2iUwfYi_1FCGGqhOUNx-iA"
+   },
+   "ids": {
+    "youtube_channel_id": "UC2iUwfYi_1FCGGqhOUNx-iA"
+   },
+   "image": "https://yt3.googleusercontent.com/hk_lnySOynnvAamxGEwV59jPTU96OFfApjzvF16ZEVh96S0N6NtJPyWdDTnckUkLwcgaknnYzw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "short-of-the-week",
+   "name": "Short of the Week",
+   "url": "https://www.shortoftheweek.com",
+   "description": "Curated short films.",
+   "category": "drama_film",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "springfield-springfield",
+   "name": "Springfield! Springfield!",
+   "url": "https://www.springfieldspringfield.co.uk",
+   "description": "TV episode and film transcripts.",
+   "category": "drama_film",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "transcripts"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "studiobinder",
+   "name": "StudioBinder",
+   "url": "https://www.youtube.com/@StudioBinder",
+   "description": "Filmmaking techniques explained.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUFoQUaVRt3MVFxqwPUMLCQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCUFoQUaVRt3MVFxqwPUMLCQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_l-Xw29jFGgFUudxkKn2F7S51-JCDRiC8TWzLHJf5RXt34=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "subslikescript",
+   "name": "Subslikescript",
+   "url": "https://subslikescript.com",
+   "description": "Transcripts of films and TV episodes.",
+   "category": "drama_film",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "transcripts"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "the-criterion-collection",
+   "name": "The Criterion Collection",
+   "url": "https://www.youtube.com/@criterioncollection",
+   "description": "Classic cinema features.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAP57cF-FSjJKzzXg7ntPlQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCAP57cF-FSjJKzzXg7ntPlQ"
+   },
+   "image": "https://yt3.googleusercontent.com/5OSJulafc0_j55oiga5EjbVBj1KCobx-EYCZokvoV_aMRF06yKXySu-7GQvp9T7VlYEhfnwh8A=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "the-take",
+   "name": "The Take",
+   "url": "https://www.youtube.com/@TheTake",
+   "description": "Film and TV analysis.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVjsbqKtxkLt7bal4NWRjJQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCVjsbqKtxkLt7bal4NWRjJQ"
+   },
+   "image": "https://yt3.googleusercontent.com/oe8qVbmSqHKV8TvUlshCVfvIam_bHQk4e2ey62Tm9xdy5L0QAaebmfdcO-uLCSz7_2cLxVB5dw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "vanity-fair-youtube",
+   "name": "Vanity Fair (YouTube)",
+   "url": "https://www.youtube.com/@VanityFair",
+   "description": "Actors break down their careers and scenes.",
+   "category": "drama_film",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIsbLox_y9dCIMLd8tdC6qg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCIsbLox_y9dCIMLd8tdC6qg"
+   },
+   "image": "https://yt3.googleusercontent.com/wqiWf6fTuyJuI--L6oSzGEgRn3cib7bMsVYMtX7Kkr6ks_urbcsmEPaOfmKlgKlb_Iz5znGAdw=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}

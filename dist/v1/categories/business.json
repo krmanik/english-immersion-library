@@ -1,0 +1,919 @@
+{
+ "category": {
+  "id": "business",
+  "group": "read",
+  "name": "Business & Finance",
+  "icon": "chart.line.uptrend.xyaxis",
+  "web_icon": "trending-up",
+  "description": "Economics explainers, markets, personal finance and business media."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 35,
+ "resources": [
+  {
+   "id": "andrei-jikh",
+   "name": "Andrei Jikh",
+   "url": "https://www.youtube.com/@AndreiJikh",
+   "description": "Personal finance and investing.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGy7SkBjcIAgTiwkXEtPnYg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCGy7SkBjcIAgTiwkXEtPnYg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_ldXUfcuEwHnjU5vc9I6i-aTCPS0AuLBajd_RoNKhhHGnY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "ben-felix",
+   "name": "Ben Felix",
+   "url": "https://www.youtube.com/@BenFelixCSI",
+   "description": "Evidence-based investing.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDXTQ8nWmx_EhZ2v-kp7QxA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCDXTQ8nWmx_EhZ2v-kp7QxA"
+   },
+   "image": "https://yt3.googleusercontent.com/Q9La9g5drY7i94tdJrwo3gqaeFGDU7FI1o4-yTgAon1tYJ9Xgka-lREKzQic3UrW-afzm81w=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "bloomberg",
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com",
+   "description": "Markets and business news.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "bloomberg-originals",
+   "name": "Bloomberg Originals",
+   "url": "https://www.youtube.com/@business",
+   "description": "Business documentaries and series.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUMZ7gohGI9HcU9VNsr2FJQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ"
+   },
+   "image": "https://yt3.googleusercontent.com/8sL0eqOeU4a1wZBVxn5NOFsug17I2XM0dmCdT7eouq12qE-I-JLCzrzub9Z4SdF0IEt5AzEY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "business-insider",
+   "name": "Business Insider",
+   "url": "https://www.businessinsider.com",
+   "description": "Business and tech news.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://feeds.businessinsider.com/custom/all"
+   }
+  },
+  {
+   "id": "cnbc",
+   "name": "CNBC",
+   "url": "https://www.cnbc.com",
+   "description": "Business and markets news.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "cnbc-youtube",
+   "name": "CNBC (YouTube)",
+   "url": "https://www.youtube.com/@CNBC",
+   "description": "Business documentaries and explainers.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvJJ_dzjViJCoLf5uKUTwoA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCvJJ_dzjViJCoLf5uKUTwoA"
+   },
+   "image": "https://yt3.googleusercontent.com/sS9OtcPLL1vQNfGnRudALfNzfpHVy7qwRRKTYF4HEfyICGTfXfHsfP2hhIPgKK0iBxW7p1lH1g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "cnbc-make-it",
+   "name": "CNBC Make It",
+   "url": "https://www.youtube.com/@CNBCMakeIt",
+   "description": "Careers, money and success stories.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH5_L3ytGbBziX0CLuYdQ1Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q"
+   },
+   "image": "https://yt3.googleusercontent.com/uM3t_zJJ-GqLhz5aZq9Gs7u-xFEPGfZKjBfUunGAgKecmP0fr4r3kJP7Z3cLRAG9JCOzLYJVTA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "company-man",
+   "name": "Company Man",
+   "url": "https://www.youtube.com/@companyman",
+   "description": "Short histories of brands and companies.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCb4xHi3i7upzKMaLrauVFtg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCb4xHi3i7upzKMaLrauVFtg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_ltQODgU93QI_XHKDE3Do24JQIPHQgRdB4m6MCoRkM=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "economics-explained",
+   "name": "Economics Explained",
+   "url": "https://www.youtube.com/@EconomicsExplained",
+   "description": "Economies of countries explained.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZ4AMrDcNrfy3X6nsU8-rPg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCZ4AMrDcNrfy3X6nsU8-rPg"
+   },
+   "image": "https://yt3.googleusercontent.com/og23LzdOU3Smc7MJWsnH0b0JJ8kouBIiIvwLJTIkxWPV9uAFdPpcp0PYDwgM4QYMb0i7_ut5=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "fast-company",
+   "name": "Fast Company",
+   "url": "https://www.fastcompany.com",
+   "description": "Business, design and innovation.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "financial-times",
+   "name": "Financial Times",
+   "url": "https://www.ft.com",
+   "description": "Global business and economics news.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "paid",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "required",
+   "recommended": false
+  },
+  {
+   "id": "financial-times-youtube",
+   "name": "Financial Times (YouTube)",
+   "url": "https://www.youtube.com/@FinancialTimes",
+   "description": "FT explainers and documentaries.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoUxsWakJucWg46KW5RsvPw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCoUxsWakJucWg46KW5RsvPw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_ndI2xm7Vhj_ZGTdd1hmWfv40vS_Pj1K9S31-NSBatSCLZb=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "forbes",
+   "name": "Forbes",
+   "url": "https://www.forbes.com",
+   "description": "Business, money and entrepreneurs.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "fortune",
+   "name": "Fortune",
+   "url": "https://fortune.com",
+   "description": "Business news and rankings.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "graham-stephan",
+   "name": "Graham Stephan",
+   "url": "https://www.youtube.com/@GrahamStephan",
+   "description": "Personal finance and real estate.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV6KDgJskWaEckne5aPA0aQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCV6KDgJskWaEckne5aPA0aQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_m4km0pJvdvRxT_gFN6WS16Ggl9D_eX_K8uxCdgTA_hFBo=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "harvard-business-review",
+   "name": "Harvard Business Review",
+   "url": "https://hbr.org",
+   "description": "Management and leadership ideas.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "how-money-works",
+   "name": "How Money Works",
+   "url": "https://www.youtube.com/@HowMoneyWorks",
+   "description": "Explainers on economics and finance.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkCGANrihzExmu9QiqZpPlQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCkCGANrihzExmu9QiqZpPlQ"
+   },
+   "image": "https://yt3.googleusercontent.com/X6trv3DaiGU2CKXmkW-0ihkb0NWX5RZhheiW7PR5BD4MiemI-EqatiM0qBfAcGFW2tgkzmsGjv8=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "investopedia",
+   "name": "Investopedia",
+   "url": "https://www.investopedia.com",
+   "description": "Plain-English explanations of finance terms.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "kiplinger",
+   "name": "Kiplinger",
+   "url": "https://www.kiplinger.com",
+   "description": "Personal finance advice.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.kiplinger.com/feeds.xml"
+   }
+  },
+  {
+   "id": "marginal-revolution",
+   "name": "Marginal Revolution",
+   "url": "https://marginalrevolution.com",
+   "description": "Economics blog by Tyler Cowen and Alex Tabarrok.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "marketwatch",
+   "name": "MarketWatch",
+   "url": "https://www.marketwatch.com",
+   "description": "Markets and personal finance.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "morning-brew",
+   "name": "Morning Brew",
+   "url": "https://www.morningbrew.com",
+   "description": "Witty daily business newsletter.",
+   "category": "business",
+   "type": "newsletter",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "nerdwallet",
+   "name": "NerdWallet",
+   "url": "https://www.nerdwallet.com",
+   "description": "Personal finance guides.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "noahpinion",
+   "name": "Noahpinion",
+   "url": "https://www.noahpinion.blog",
+   "description": "Economist Noah Smith's newsletter.",
+   "category": "business",
+   "type": "newsletter",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.noahpinion.blog/feed"
+   }
+  },
+  {
+   "id": "patrick-boyle",
+   "name": "Patrick Boyle",
+   "url": "https://www.youtube.com/@PBoyle",
+   "description": "Dry, witty finance commentary.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCASM0cgfkJxQ1ICmRilfHLw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCASM0cgfkJxQ1ICmRilfHLw"
+   },
+   "image": "https://yt3.googleusercontent.com/cq4tU8wKdp_Y7yZIBxwAsSzecE-3VYDLkRXGo08-FuFwP_fwl7aMDTWY-_OEWGSw5iWDu-S29w=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "quartz",
+   "name": "Quartz",
+   "url": "https://qz.com",
+   "description": "Global business news.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "the-economist",
+   "name": "The Economist",
+   "url": "https://www.economist.com",
+   "description": "Weekly analysis of world affairs and economics.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "paid",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "partial",
+   "recommended": false
+  },
+  {
+   "id": "the-economist-youtube",
+   "name": "The Economist (YouTube)",
+   "url": "https://www.youtube.com/@TheEconomist",
+   "description": "Explainers and films on world affairs.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0p5jTq6Xx_DosDFxVXnWaQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC0p5jTq6Xx_DosDFxVXnWaQ"
+   },
+   "image": "https://yt3.googleusercontent.com/pBw3GOKlTYBarIE0qE5-cNoIHMNbPGsER61kuJC5MSI6HzqV16fcaQZQlUSxlJMUFi0_-S9VAw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "the-modern-mba",
+   "name": "The Modern MBA",
+   "url": "https://www.youtube.com/@TheModernMBA",
+   "description": "Business case studies of big companies.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsUbU386FhdDkGod0c-_AQw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCsUbU386FhdDkGod0c-_AQw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kq6YXb49jimZm2YludLYcB7k8cNgTm_4PC3ukkjBS36lsG88gBf4yVReewSB8_5Sc-1A=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "the-motley-fool",
+   "name": "The Motley Fool",
+   "url": "https://www.fool.com",
+   "description": "Investing advice and stock news.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "the-plain-bagel",
+   "name": "The Plain Bagel",
+   "url": "https://www.youtube.com/@ThePlainBagel",
+   "description": "Clear investing and finance explainers.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFCEuCsyWP0YkP3CZ3Mr01Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lP44aDeBvzShX0gPVRsL9UYY7_VlGf0CG0I9PDaHib0Vw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "the-wall-street-journal-youtube",
+   "name": "The Wall Street Journal (YouTube)",
+   "url": "https://www.youtube.com/@wsj",
+   "description": "WSJ explainers and news video.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCK7tptUDHh-RYDsdxO1-5QQ"
+   },
+   "image": "https://yt3.googleusercontent.com/zbPzRWTIiIg_sNPoAgBf4COWvAoac3vgbiTEu1dfpqH3YPDNvnxMjDtAGftuw5EPx8wfSjMzr2I=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "two-cents",
+   "name": "Two Cents",
+   "url": "https://www.youtube.com/@TwoCentsPBS",
+   "description": "PBS show on personal finance.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL8w_A8p8P1HWI3k6PR5Z6w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCL8w_A8p8P1HWI3k6PR5Z6w"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lqUP7im9fkdkH11wDUssbdakQO4ymjE8LVDbey-1v-Tg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "y-combinator",
+   "name": "Y Combinator",
+   "url": "https://www.youtube.com/@ycombinator",
+   "description": "Startup advice and founder talks.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCcefcZRL2oaA_uBNeo5UOWg"
+   },
+   "image": "https://yt3.googleusercontent.com/dGyATx87Fp_s1nZvnupUFSnMqbAPZ6nqRby9Esk1m6YE41iBq-9Z8iGoIgHTCT9SiDBUpP2V=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}

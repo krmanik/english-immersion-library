@@ -1,0 +1,1648 @@
+{
+ "category": {
+  "id": "learn_video",
+  "group": "learn",
+  "name": "Learn English: Video",
+  "icon": "play.rectangle.fill",
+  "web_icon": "circle-play",
+  "description": "YouTube channels made for learners: lessons, vocabulary, grammar and everyday English."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 53,
+ "resources": [
+  {
+   "id": "anglo-link",
+   "name": "Anglo-Link",
+   "url": "https://www.youtube.com/@AngloLink",
+   "description": "Clear, detailed explanations of English grammar from a British teacher.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "grammar"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSxMrcc7oSLV9dh8TsAdUsA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCSxMrcc7oSLV9dh8TsAdUsA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_l7xobku76TkYI1xqL8JH-Da8zL431qTrZxnx1CUc1e0g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "arnel-s-everyday-english",
+   "name": "Arnel's Everyday English",
+   "url": "https://www.youtube.com/@ArnelsEverydayEnglish",
+   "description": "Short lessons on everyday vocabulary, idioms and confusing words.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "vocabulary"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_XZoWueXyWuwVG4B_AEmmg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_XZoWueXyWuwVG4B_AEmmg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kqXUSMjKQY-rG5VNKQDeyp_FC3Ocalmsiol2Zr615v6w=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "bbc-learning-english",
+   "name": "BBC Learning English",
+   "url": "https://www.youtube.com/@bbclearningenglish",
+   "description": "Short lessons on grammar, vocabulary, pronunciation and news English from the BBC.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "grammar",
+    "vocabulary"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHaHD477h-FeBbVh9Sh7syA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCHaHD477h-FeBbVh9Sh7syA"
+   },
+   "image": "https://yt3.googleusercontent.com/ANAs2cAwxesjyoe3vsyhZGzlTafbicnuGMzPNSAuJdpTwg8CesHkViMTCrYqAJEGaKXG6_KEUg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "business-english-with-christina",
+   "name": "Business English with Christina",
+   "url": "https://www.youtube.com/@BusinessEnglishwithChristina",
+   "description": "English for meetings, emails and careers.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "business-english"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "crown-academy-of-english",
+   "name": "Crown Academy of English",
+   "url": "https://www.youtube.com/@CrownAcademyEnglish",
+   "description": "British English lessons on grammar, vocabulary and common mistakes.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "grammar"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSHhm94gQifhWmO5LhQk2XQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCSHhm94gQifhWmO5LhQk2XQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_k2o9HXNhclg3zSqi_v1a4cyqwO7bCVvxyiaITPKvkhnQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "daily-dose-of-english",
+   "name": "Daily Dose Of English",
+   "url": "https://www.youtube.com/@DailyDoseOfEnglish",
+   "description": "Daily lessons on everyday expressions and grammar.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "vocabulary"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjTZTMhth_tufKanqdhKsWQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCjTZTMhth_tufKanqdhKsWQ"
+   },
+   "image": "https://yt3.googleusercontent.com/acz9kHePBrJiIr4jiBdxg_6RTccL5hKjerhaQKBuaxrUF_40K9M8AUC1kmxyd2F2XzTWqHOb=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "easy-english",
+   "name": "Easy English",
+   "url": "https://www.youtube.com/@EasyEnglish",
+   "description": "Street interviews with native speakers, with English subtitles.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "interviews",
+    "street-interviews"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "eat-sleep-dream-english",
+   "name": "Eat Sleep Dream English",
+   "url": "https://www.youtube.com/@EatSleepDreamEnglish",
+   "description": "British teacher Tom's lessons on vocabulary, pronunciation and slang.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "vocabulary"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu4AP8qmYnXNUipUeyPQKig"
+   },
+   "ids": {
+    "youtube_channel_id": "UCu4AP8qmYnXNUipUeyPQKig"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mA9BnR-1qtkUP3r_0t6LZZGxB5QuttkPXKrfWKpQY-Wzo=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "english-addict-with-mr-steve",
+   "name": "English Addict with Mr Steve",
+   "url": "https://www.youtube.com/@EnglishAddict",
+   "description": "Long, relaxed live streams about words and English life from Mr Steve and Mr Duncan.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "live"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8pPDhxSn1nee70LRKJ0p3g"
+   },
+   "ids": {
+    "youtube_channel_id": "UC8pPDhxSn1nee70LRKJ0p3g"
+   },
+   "image": "https://yt3.googleusercontent.com/bOyF3XTXGWm_rrntUBo3Fi6S_oaH8ZqzaFJccQhsd-7CzjIfcFJl2zoxskE8ACHQnVc9b9YBOw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "english-coach-chad",
+   "name": "English Coach Chad",
+   "url": "https://www.youtube.com/@EnglishCoachChad",
+   "description": "Natural American English and speaking practice.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "speaking"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvg7O8z9MkFTqyeGf-8ELYw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCvg7O8z9MkFTqyeGf-8ELYw"
+   },
+   "image": "https://yt3.googleusercontent.com/n8FnHsqojh66vIb-IUVqm9OX2szgp9_tU0iM8GImG_h7itENDHI2TukAGlI_7vmuB3cP_jax5g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "english-jade",
+   "name": "English Jade",
+   "url": "https://www.youtube.com/@EnglishJade",
+   "description": "British English vocabulary, pronunciation and culture.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "pronunciation"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "english-like-a-native",
+   "name": "English Like A Native",
+   "url": "https://www.youtube.com/@EnglishLikeANative",
+   "description": "British English lessons for speaking clearly and naturally.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "speaking"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0Hg2Ks00kCekyjZG_LxOmg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC0Hg2Ks00kCekyjZG_LxOmg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mBrXL5hiIqrQ4ZjOFvXFeHPjWekKzK5G8vvmz0JP-34FM=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "english-speaking-success",
+   "name": "English Speaking Success",
+   "url": "https://www.youtube.com/@EnglishSpeakingSuccess",
+   "description": "Lessons on speaking fluently and understanding natives.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "speaking"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiVm8XcbwS8-pcDEa5lFXIA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCiVm8XcbwS8-pcDEa5lFXIA"
+   },
+   "image": "https://yt3.googleusercontent.com/1DwJByOfDzMa4k8tDjisyyThZj8nwvtj2rW4xetFpcxmPGqMiO9XZdVwj6LaXfT1GHZxgSe4U4Y=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "english-speeches",
+   "name": "English Speeches",
+   "url": "https://www.youtube.com/@EnglishSpeeches",
+   "description": "Famous speeches with English subtitles for listening practice.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "listening",
+    "speeches"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLyr-hfWVCKHcZjV5fg3jbw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCLyr-hfWVCKHcZjV5fg3jbw"
+   },
+   "image": "https://yt3.googleusercontent.com/eRB6oijQ30Os9V2O2ZfPMsPtZElNxANfcP0j8jP0V2x7IBhPX_xCsIf_tdFS4WSlkmcSqBrE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "english-with-a-twist",
+   "name": "English with a Twist",
+   "url": "https://www.youtube.com/@EnglishwithaTwist",
+   "description": "Elegant British English: vocabulary, pronunciation and etiquette.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "vocabulary"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz3Z3aar_eNJiro4Lc9e4ZA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCz3Z3aar_eNJiro4Lc9e4ZA"
+   },
+   "image": "https://yt3.googleusercontent.com/pdLTDruMPY5WW2H0dM03ItxnbE8Rf5-B5wsOnT6hC5_aLvRp2tj02iKWTn9NrvuIY3NedxBkjg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "english-with-lucy",
+   "name": "English with Lucy",
+   "url": "https://www.youtube.com/@EnglishwithLucy",
+   "description": "Hugely popular British English lessons on vocabulary, grammar and pronunciation.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "grammar",
+    "vocabulary"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz4tgANd4yy8Oe0iXCdSWfA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCz4tgANd4yy8Oe0iXCdSWfA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nZnUEKXrbewVcDQSSWIa1xPXjUZCwNF-b8Hz2CsybaZU4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "english-with-max",
+   "name": "English with Max",
+   "url": "https://www.youtube.com/@EnglishwithMax",
+   "description": "Clear British English lessons on grammar and vocabulary.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "grammar"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbugiwfdDcYcKFjnk55lDmw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCbugiwfdDcYcKFjnk55lDmw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nkRVa6FBTrlkHhddDwXkaScR9Zepmjcp6kr0ZRJEh-kek=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "englishanyone",
+   "name": "EnglishAnyone",
+   "url": "https://www.youtube.com/@EnglishAnyone",
+   "description": "Fluency coaching focused on understanding and speaking naturally.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "fluency"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrJHj7MDQhmQ9iFuACdoWCg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCrJHj7MDQhmQ9iFuACdoWCg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lD7QECAfr_os-0xVokID7iXFOhhCKfuQDSBtmD6zaRDb4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "englishclass101",
+   "name": "EnglishClass101",
+   "url": "https://www.youtube.com/@EnglishClass101",
+   "description": "Bite-sized lessons for absolute beginners upward.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "freemium",
+   "tags": [
+    "beginner"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeTVoczn9NOZA9blls3YgUg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCeTVoczn9NOZA9blls3YgUg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_n32LxxC0eRV4vBernV3V3NsCegihpcKHWsrEk3gzYtf0c=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "engvid",
+   "name": "engVid",
+   "url": "https://www.youtube.com/@engvid",
+   "description": "Thousands of free whiteboard lessons from engVid's team of teachers.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "grammar"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKRBA9XfgzAtJodE4t8cUeg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCKRBA9XfgzAtJodE4t8cUeg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mAE_1d8qUUvx7nQxalNscAqBEY85NtttdOpf-NRc_wpbI=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "espresso-english",
+   "name": "Espresso English",
+   "url": "https://www.youtube.com/@EspressoEnglish",
+   "description": "Short, clear lessons on everyday English from Shayna.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "grammar"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvnHfQagGNLrf_DZpJIPl_g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCvnHfQagGNLrf_DZpJIPl_g"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lMMqHgk64oIOTcp5gMwcAerR9vr3MFjC_Xe8NuAKMhVg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "go-natural-english",
+   "name": "Go Natural English",
+   "url": "https://www.youtube.com/@GoNaturalEnglish",
+   "description": "Gabby's lessons on natural American English, listening and confidence.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "interactive-english",
+   "name": "Interactive English",
+   "url": "https://www.youtube.com/@InteractiveEnglish",
+   "description": "Lessons and listening practice for upper beginners.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "listening"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr-UrE9QZqvDHE0ic_-EGZw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCr-UrE9QZqvDHE0ic_-EGZw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nv407jWfZXGfMzBPO5fLjuoXUDwD52PjOzPnq29lUarA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "jamesesl-english-lessons",
+   "name": "JamesESL English Lessons",
+   "url": "https://www.youtube.com/@JamesESL",
+   "description": "engVid teacher James explains idioms, vocabulary and fluency tips.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [
+    "idioms"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "jenniferesl",
+   "name": "JenniferESL",
+   "url": "https://www.youtube.com/@JenniferESL",
+   "description": "Patient, well-structured grammar and pronunciation lessons.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "grammar"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "kendra-s-language-school",
+   "name": "Kendra's Language School",
+   "url": "https://www.youtube.com/@KendrasLanguageSchool",
+   "description": "Lessons and listening practice using real conversations.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "listening"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "langfocus",
+   "name": "Langfocus",
+   "url": "https://www.youtube.com/@Langfocus",
+   "description": "Explainers on languages and linguistics, including English varieties.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "language"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNhX3WQEkraW3VHPyup8jkQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCNhX3WQEkraW3VHPyup8jkQ"
+   },
+   "image": "https://yt3.googleusercontent.com/auRbttjsY9TUrnhooNX3dobjiUFp8uK41XQ9aHv52juN4RQui9REJ1U_p1OKzwY8fp5yE2oe=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "learn-english-lab",
+   "name": "Learn English Lab",
+   "url": "https://www.youtube.com/@LearnEnglishLab",
+   "description": "Vocabulary and grammar lessons with clear on-screen examples.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "vocabulary"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCImiNBzWUNuHBm95F8SyMYA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCImiNBzWUNuHBm95F8SyMYA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_ny6r2RWezSrxrrAxK_U5g-mQYP0IChMOG9lTCjRjtYFFY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "learn-english-with-adam",
+   "name": "Learn English with Adam",
+   "url": "https://www.youtube.com/@EnglishLessonswithAdam",
+   "description": "engVid's Adam on grammar, writing and advanced vocabulary.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [
+    "grammar",
+    "writing"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "learn-english-with-alex",
+   "name": "Learn English with Alex",
+   "url": "https://www.youtube.com/@EnglishWithAlex",
+   "description": "engVid's Alex on grammar, idioms and pronunciation.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [
+    "grammar"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnXM6_jOOErKO2BZM0ys06A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCnXM6_jOOErKO2BZM0ys06A"
+   },
+   "image": "https://yt3.googleusercontent.com/T35xM41V6COhb0BcCh9ClK0Bn9xsTt9rF3C7XbKJyIB2iP3qLe6GqhyKtNTK_Yvt8DY6meUT-WY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "learn-english-with-bob-the-canadian",
+   "name": "Learn English with Bob the Canadian",
+   "url": "https://www.youtube.com/@LearnEnglishwithBobtheCanadian",
+   "description": "Calm, slow lessons filmed on a Canadian farm, with lots of real-life vocabulary.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [
+    "slow-english",
+    "vocabulary"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZJJTxA36ZPNTJ1WFIByaeA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCZJJTxA36ZPNTJ1WFIByaeA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lMRW8LVTYxA-tVtwpTuFpmosup5x3-hJ5yWmL835zK8g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "learn-english-with-emma",
+   "name": "Learn English with Emma",
+   "url": "https://www.youtube.com/@learnenglishwithemma",
+   "description": "engVid's Emma on vocabulary, writing and exams.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [
+    "vocabulary"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "learn-english-with-gill",
+   "name": "Learn English with Gill",
+   "url": "https://www.youtube.com/@LearnEnglishwithGill",
+   "description": "Gentle engVid lessons on British English, idioms and culture.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "idioms"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "learn-english-with-harry",
+   "name": "Learn English with Harry",
+   "url": "https://www.youtube.com/@LearnEnglishWithHarry",
+   "description": "Business and everyday English from a British teacher.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "business-english"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3X5lXWdDrYRDCW7k01Ka4Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UC3X5lXWdDrYRDCW7k01Ka4Q"
+   },
+   "image": "https://yt3.googleusercontent.com/i2W-niqljIPiY-zyhcZ8AphCa-8b15669FSdw6Xd3nLZ9KAUFJWmRu4x3PdgQgzu7fa_9iSCJg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "learn-english-with-papa-teach-me",
+   "name": "Learn English with Papa Teach Me",
+   "url": "https://www.youtube.com/@PapaTeachMe",
+   "description": "British slang, accents and culture explained with humour.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "culture",
+    "slang"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwk6ifONlkvqnoMF2uyA05g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCwk6ifONlkvqnoMF2uyA05g"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mHFztEg0amoYsOtS9P_WxrdmipHLse-PE8dMtXrIFpJzw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "learn-english-with-rebecca",
+   "name": "Learn English with Rebecca",
+   "url": "https://www.youtube.com/@EnglishTeacherRebecca",
+   "description": "engVid's Rebecca on business English, exams and pronunciation.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "business-english"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "learn-english-with-ronnie",
+   "name": "Learn English with Ronnie",
+   "url": "https://www.youtube.com/@EnglishLessons4U",
+   "description": "Funny, energetic engVid lessons on slang, phrasal verbs and grammar.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [
+    "grammar"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "learn-english-with-tv-series",
+   "name": "Learn English With TV Series",
+   "url": "https://www.youtube.com/@LearnEnglishWithTVSeries",
+   "description": "Learn real spoken English from scenes in popular TV shows and films.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "listening",
+    "tv"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKgpamMlm872zkGDcBJHYDg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCKgpamMlm872zkGDcBJHYDg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_n6-w6FLV8bqbCARAQdcch-xOgjpwIZkAWxh2ZbuWnULQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "lingoda-learn-english",
+   "name": "Lingoda Learn English",
+   "url": "https://www.youtube.com/@LingodaLearnEnglish",
+   "description": "Lessons from Lingoda's teachers on grammar and everyday English.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "grammar"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "linguamarina",
+   "name": "Linguamarina",
+   "url": "https://www.youtube.com/@linguamarina",
+   "description": "English lessons and study-abroad advice.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "vocabulary"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAQg09FkoobmLquNNoO4ulg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCAQg09FkoobmLquNNoO4ulg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_khZgrqVTSi_R9eAk5-MokIr5gBW9PjcqW0rCWne8eiRQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mmmenglish",
+   "name": "mmmEnglish",
+   "url": "https://www.youtube.com/@mmmEnglish_Emma",
+   "description": "Clear lessons on speaking, pronunciation and confidence from an Australian teacher.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [
+    "speaking"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrRiVfHqBIIvSgKmgnSY66g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCrRiVfHqBIIvSgKmgnSY66g"
+   },
+   "image": "https://yt3.googleusercontent.com/RFXL_Eqyw1aVTicQvA6RFL5LwKQ5yUof989SYz0blxzzyW_sTtAlp6rjr_cyxcO1ejF-Ek5_hg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "oxford-online-english",
+   "name": "Oxford Online English",
+   "url": "https://www.youtube.com/@OxfordOnlineEnglish",
+   "description": "Thorough British English lessons on speaking, grammar, vocabulary and IELTS.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "grammar",
+    "speaking"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "real-english",
+   "name": "Real English",
+   "url": "https://www.youtube.com/@realenglish1",
+   "description": "Street interviews where native speakers answer simple questions, with subtitles.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "interviews"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUqbE6Sd6DW6M6ZBkZFDfmA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCUqbE6Sd6DW6M6ZBkZFDfmA"
+   },
+   "image": "https://yt3.googleusercontent.com/sgMHrtp11l2gJBYIJ_2mJidTW24dGWdFboim34MRSJbs8-ofGA9fR_5g3IHtJn08Ad8d16YvVw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "reallife-english",
+   "name": "RealLife English",
+   "url": "https://www.youtube.com/@RealLifeEnglish",
+   "description": "Learn English through movies, music and real conversation.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [
+    "movies"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsyhK1mhPPUtPW4sLY9fXg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCJsyhK1mhPPUtPW4sLY9fXg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lYU8US_uWKoJBBLAYR5ndura17g08-ukmL9kZCfQbQuw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "rob-words",
+   "name": "Rob Words",
+   "url": "https://www.youtube.com/@RobWords",
+   "description": "Fascinating stories about English words, accents and the history of the language.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "etymology",
+    "language"
+   ],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a9LfdavRlVMaSSWFdIciA"
+   },
+   "ids": {
+    "youtube_channel_id": "UC4a9LfdavRlVMaSSWFdIciA"
+   },
+   "image": "https://yt3.googleusercontent.com/s8GHzM7V178VI-DsWe6GgqfUxxpr2eeAsbE5ZmvJkJ9or11eGDcMRRp425NSuGj_ICEk-SwtAg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "shaw-english-online",
+   "name": "Shaw English Online",
+   "url": "https://www.youtube.com/@ShawEnglishOnline",
+   "description": "Simple beginner conversations and lessons.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "beginner"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_OskgZBoS4dAnVUgJVexcw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_OskgZBoS4dAnVUgJVexcw"
+   },
+   "image": "https://yt3.googleusercontent.com/F8FbKpgV3Zhgrg-xs21xAESnJ60Sr_iSYogyNsKOFsWLxGBWg2qIQJMg7EjjYSD058fI78rQYw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "simple-english-videos",
+   "name": "Simple English Videos",
+   "url": "https://www.youtube.com/@SimpleEnglishVideos",
+   "description": "Short American and British English lessons acted out in real situations.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCskz5P7AEEVieGX2-Vtc4Dg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCskz5P7AEEVieGX2-Vtc4Dg"
+   },
+   "image": "https://yt3.googleusercontent.com/c_ASIF7R-Th305oLfq5LbK6wruRY0RtLQzaXTLvYaNnNJMhbpNfiy-sIH48qKobBKJcgYKSfOWA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "speak-english-with-mr-duncan",
+   "name": "Speak English with Mr Duncan",
+   "url": "https://www.youtube.com/@duncaninengland",
+   "description": "Long-running channel with lessons and live chats from the English countryside.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "live"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "speak-english-with-tiffani",
+   "name": "Speak English with Tiffani",
+   "url": "https://www.youtube.com/@SpeakEnglishWithTiffani",
+   "description": "Upbeat lessons on speaking English fluently and confidently.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "speaking"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGLGVRO_9qDc8VDGGMTcUiQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCGLGVRO_9qDc8VDGGMTcUiQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_n-r2OM65QfiFzoArP3_KysCkGo0RWoCcpGwKkO0Z0Flig=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "speak-english-with-vanessa",
+   "name": "Speak English With Vanessa",
+   "url": "https://www.youtube.com/@SpeakEnglishWithVanessa",
+   "description": "Natural, everyday American English: phrasal verbs, slang and conversation practice.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxJGMJbjokfnr2-s4_RXPxQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCxJGMJbjokfnr2-s4_RXPxQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kVsraP2aOOCCwX6FKamHjeC3aGT7AoYwAEf6MHHnW9mEE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "to-fluency",
+   "name": "To Fluency",
+   "url": "https://www.youtube.com/@ToFluency",
+   "description": "Practical lessons on vocabulary, phrasal verbs and fluency from British teacher Jack.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [
+    "fluency",
+    "phrasal-verbs"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC32mYgIHS-e3C3Eyd2tRw6g"
+   },
+   "ids": {
+    "youtube_channel_id": "UC32mYgIHS-e3C3Eyd2tRw6g"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_muqgX_tHe-UM90ioN8fjDLCFxKeQ8rx4p37LepTdn2mtw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "voa-learning-english-youtube",
+   "name": "VOA Learning English",
+   "url": "https://www.youtube.com/@VOALearningEnglish",
+   "description": "News, lessons and stories read slowly in American English, with on-screen text.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "news",
+    "slow-english"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKyTokYo0nK2OA-az-sDijA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCKyTokYo0nK2OA-az-sDijA"
+   },
+   "image": "https://yt3.googleusercontent.com/bYjN-CYamiBAcRhvsN5ONAd21QHXCZNN9IPDtx5SK76mkKLv642FOm2wr1B9edvuQ_zcctLMwA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "woodward-english",
+   "name": "Woodward English",
+   "url": "https://www.youtube.com/@WoodwardEnglish",
+   "description": "Grammar and vocabulary lessons with illustrations and charts.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [
+    "grammar"
+   ],
+   "for_learners": true,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0kejkXg2LG-pFqAeWD_zLQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC0kejkXg2LG-pFqAeWD_zLQ"
+   },
+   "image": "https://yt3.googleusercontent.com/lsx-2wy-21XYH3G8lLBZqfZ8JklyY0hdM5DWAwskwZacNORBfpoaqPbNPS1dK6mr3uhapbHcCKk=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}

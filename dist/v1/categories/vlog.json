@@ -1,0 +1,750 @@
+{
+ "category": {
+  "id": "vlog",
+  "group": "watch",
+  "name": "Vlogs & Lifestyle",
+  "icon": "camera.fill",
+  "web_icon": "camera",
+  "description": "Daily-life vlogs, productivity, home, fashion and personal channels."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 24,
+ "resources": [
+  {
+   "id": "adam-savage-s-tested",
+   "name": "Adam Savage's Tested",
+   "url": "https://www.youtube.com/@tested",
+   "description": "Making things with Adam Savage.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCiDJtJKMICpb9B1qf7qjEOA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lJNRS5W3nnMhU5L_V3Nl2zqoJTh1POU3hrHSYYIzLCycE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "ali-abdaal",
+   "name": "Ali Abdaal",
+   "url": "https://www.youtube.com/@aliabdaal",
+   "description": "Productivity and life advice.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoOae5nYA7VqaXzerajD0lg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCoOae5nYA7VqaXzerajD0lg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_m2xx6mCZwsyjARnkwBKJxEv0FqGxGS2NwWNkjWH__Smw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "architectural-digest",
+   "name": "Architectural Digest",
+   "url": "https://www.youtube.com/@Archdigest",
+   "description": "Celebrity home tours.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0k238zFx-Z8xFH0sxCrPJg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC0k238zFx-Z8xFH0sxCrPJg"
+   },
+   "image": "https://yt3.googleusercontent.com/eT4jNc3KJebg3bFbKPMlG-4XhOKIs5_3lv13S8kShhkD6S2SPTbITVOsqJAEekL_ep4w8JFtyg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "atomic-shrimp",
+   "name": "Atomic Shrimp",
+   "url": "https://www.youtube.com/@AtomicShrimp",
+   "description": "Foraging, cooking and curiosity.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSl5Uxu2LyaoAoMMGp6oTJA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCSl5Uxu2LyaoAoMMGp6oTJA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_k6r-552CWkIlfi6TQt_9I6ajOAMdYovNgXT9IKuNlj95g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "casey-neistat",
+   "name": "Casey Neistat",
+   "url": "https://www.youtube.com/@casey",
+   "description": "Iconic New York vlogs.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCtinbF-Q-fVthA0qrFQTgXQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_n4AHNRd0upuWqg3NZq4iXWP5JSbnKHh_nbzhOmgGzUc3k=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "emma-chamberlain",
+   "name": "Emma Chamberlain",
+   "url": "https://www.youtube.com/@emmachamberlain",
+   "description": "Casual Gen-Z vlogs.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC78cxCAcp7JfQPgKxYdyGrg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC78cxCAcp7JfQPgKxYdyGrg"
+   },
+   "image": "https://yt3.googleusercontent.com/zDSI5VOhKgSHZMOihPFJGh4NmgHu1fI7bVYp8lhTuhnwhDBECt-Hgs1nm69dCn23aXZZAtCQ7g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "garden-answer",
+   "name": "Garden Answer",
+   "url": "https://www.youtube.com/@GardenAnswer",
+   "description": "Gardening.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kg1A_YPAa66hZWq7VPg7Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_kg1A_YPAa66hZWq7VPg7Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mGseV--srbGni-gMiiyYqcWE53LDvYDLHKK6Xw68cdb8w=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "kara-and-nate",
+   "name": "Kara and Nate",
+   "url": "https://www.youtube.com/@KaraandNate",
+   "description": "Couple travel vlogs.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ijq8Cg-8zQKx8OH12dUSw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC4ijq8Cg-8zQKx8OH12dUSw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mpCv-nGurUMcHMNljVnKPO6g7bF79U6Bn1N9klH5Uq6ZY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "kirsten-dirksen",
+   "name": "Kirsten Dirksen",
+   "url": "https://www.youtube.com/@kirstendirksen",
+   "description": "Tours of unusual homes.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDsElQQt_gCZ9LgnW-7v-cQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCDsElQQt_gCZ9LgnW-7v-cQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nI6ooCUAOYnA9KlRvvesi71b0ULJJUImv4XIuemnQ_RSY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "lavendaire",
+   "name": "Lavendaire",
+   "url": "https://www.youtube.com/@Lavendaire",
+   "description": "Self-development and lifestyle.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ga3onzHSJFAGsIebtVeBg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC-ga3onzHSJFAGsIebtVeBg"
+   },
+   "image": "https://yt3.googleusercontent.com/BV93psvV7-sWxPKcFRb7FlDEg2UEv9kDwDIOBppCE7Ri74uzAcn6O5lv3vidRTvfWOoklTR_h8M=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "living-big-in-a-tiny-house",
+   "name": "Living Big In A Tiny House",
+   "url": "https://www.youtube.com/@LivingBigInATinyHouse",
+   "description": "Tiny house tours from New Zealand.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "nz",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "matt-d-avella",
+   "name": "Matt D'Avella",
+   "url": "https://www.youtube.com/@mattdavella",
+   "description": "Minimalism and habits.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCJ24N4O0bP7LGLBDvye7oCA"
+   },
+   "image": "https://yt3.googleusercontent.com/Ldpkcur-En5Qn8rcowaWiU6xbNt_yMrs1mAVcSRBIOdq0tSyTmGGIALRcgfm1a8aGKgYiYDEIQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mike-boyd",
+   "name": "Mike Boyd",
+   "url": "https://www.youtube.com/@MikeBoyd",
+   "description": "Learning a new skill in each video.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIRiWCPZoUyZDbydIqitHtQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCIRiWCPZoUyZDbydIqitHtQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kL6xsazHzxPgNDVbcrv8gItSVt9iZxExWvgb8q1evMkJQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mrbeast",
+   "name": "MrBeast",
+   "url": "https://www.youtube.com/@MrBeast",
+   "description": "Big-budget challenges in simple English.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX6OQ3DkcsbYNE6H8uQQuVA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA"
+   },
+   "image": "https://yt3.googleusercontent.com/nxYrc_1_2f77DoBadyxMTmv7ZpRZapHR5jbuYe7PlPd5cIRJxtNNEYyOC0ZsxaDyJJzXrnJiuDE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "nathaniel-drew",
+   "name": "Nathaniel Drew",
+   "url": "https://www.youtube.com/@NathanielDrew",
+   "description": "Reflective vlogs on learning and creativity.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrdWRLq10OHuy7HmSckV3Vg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCrdWRLq10OHuy7HmSckV3Vg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_k3dZrYTuTMFvutkuaR77Xz_TqhLy4aUZCDlniAles92gc=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "never-too-small",
+   "name": "Never Too Small",
+   "url": "https://www.youtube.com/@NeverTooSmall",
+   "description": "Small-space architecture tours.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_zQ777U6YTyatP3P1wi3xw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_zQ777U6YTyatP3P1wi3xw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_k8T6oOkfcAv_B5B9GkU0KelVuJKbeSWNn82euFgmRYicc=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "peter-mckinnon",
+   "name": "Peter McKinnon",
+   "url": "https://www.youtube.com/@PeterMcKinnon",
+   "description": "Photography and filmmaking.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3DkFux8Iv-aYnTRWzwaiBA"
+   },
+   "ids": {
+    "youtube_channel_id": "UC3DkFux8Iv-aYnTRWzwaiBA"
+   },
+   "image": "https://yt3.googleusercontent.com/MGXZihlZFGjJEP3ew_ptOdSfvx1jXFXlMGrEuNMD864fp17F4rEqIEboNxljlw0kJpr3Ss6qRw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "simone-giertz",
+   "name": "Simone Giertz",
+   "url": "https://www.youtube.com/@simonegiertz",
+   "description": "Inventions and maker projects.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3KEoMzNz8eYnwBC34RaKCQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC3KEoMzNz8eYnwBC34RaKCQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_llfi-8d2Zve1U9FXZPXZsKNB9_65U5gHwKRwAoHLOUDg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "struthless",
+   "name": "Struthless",
+   "url": "https://www.youtube.com/@struthless",
+   "description": "Creativity and art.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvcEBQ0K3UsQ8bzWKHKQmbw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCvcEBQ0K3UsQ8bzWKHKQmbw"
+   },
+   "image": "https://yt3.googleusercontent.com/gNuy67BzYdGCpQOj33UuDoIVj6vDrcNdxkexSOX-pExjGKWmLJHRbqM29VTyH8tFUGxE03H3Jaw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "the-minimalists",
+   "name": "The Minimalists",
+   "url": "https://www.youtube.com/@TheMinimalists",
+   "description": "Minimalism.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkbFiBwMYMXAqifXF4xo5Uw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCkbFiBwMYMXAqifXF4xo5Uw"
+   },
+   "image": "https://yt3.googleusercontent.com/8jCf_nb-qy4zWYMdYxH27DAyKNC9iS4swRQf7QVyVQT5OeGBlDlne-Us0HJZ2W0eyJ0vpWe9yYY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "thomas-frank",
+   "name": "Thomas Frank",
+   "url": "https://www.youtube.com/@Thomasfrank",
+   "description": "Study tips and productivity.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCG-KntY7aVnIGXYEBQvmBAQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCG-KntY7aVnIGXYEBQvmBAQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nIr5PB90HA3Uoa6w6PNkbMDZVVINovFpKb5hbHd7JwG0nP=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "vlogbrothers",
+   "name": "vlogbrothers",
+   "url": "https://www.youtube.com/@vlogbrothers",
+   "description": "John and Hank Green talk to each other in four-minute videos.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGaVdbSav8xWuFWTadK6loA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCGaVdbSav8xWuFWTadK6loA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kRgkKL2CrQ4Ix8eIcTVlL7kQtdiePYEmYeCHq126dk4TE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "vogue",
+   "name": "Vogue",
+   "url": "https://www.youtube.com/@Vogue",
+   "description": "73 Questions and fashion.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRXiA3h1no_PFkb1JCP0yMA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCRXiA3h1no_PFkb1JCP0yMA"
+   },
+   "image": "https://yt3.googleusercontent.com/leW0idAp0Fft21ItktwcaIcgiZGzpQKcNbj6wwfCGPhaT7ikJAxtm0vd-wEjY5_S-g8OCDpmVg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "yes-theory",
+   "name": "Yes Theory",
+   "url": "https://www.youtube.com/@YesTheory",
+   "description": "Seeking discomfort and adventure.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ca",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvK4bOhULCpmLabd2pDMtnA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCvK4bOhULCpmLabd2pDMtnA"
+   },
+   "image": "https://yt3.googleusercontent.com/bdI_oMvgn9Ib9rwv89h89Xd5TcOh2K2DEgzsJdi1dfzXPXLXj2ARFTGzs9oOu_xQLHsCjj2E=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}

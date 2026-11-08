@@ -1,0 +1,711 @@
+{
+ "category": {
+  "id": "gaming",
+  "group": "watch",
+  "name": "Gaming",
+  "icon": "gamecontroller.fill",
+  "web_icon": "gamepad-2",
+  "description": "Game news, reviews, essays and let's plays."
+ },
+ "data_version": "31d8413d2e0a",
+ "count": 25,
+ "resources": [
+  {
+   "id": "digital-foundry",
+   "name": "Digital Foundry",
+   "url": "https://www.youtube.com/@DigitalFoundry",
+   "description": "Technical game analysis.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA"
+   },
+   "ids": {
+    "youtube_channel_id": "UC9PBzalIcEQCsiIkq36PyUA"
+   },
+   "image": "https://yt3.googleusercontent.com/PBh4giP5yBGdq6OxwdAW32ZvLI-uy_kzMAlV7sQ-jTaWK3q4f3euUJL8lFX3onIkHlc6OBCTpQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "eurogamer",
+   "name": "Eurogamer",
+   "url": "https://www.eurogamer.net",
+   "description": "European game news.",
+   "category": "gaming",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.eurogamer.net/feed"
+   }
+  },
+  {
+   "id": "extra-credits",
+   "name": "Extra Credits",
+   "url": "https://www.youtube.com/@ExtraCredits",
+   "description": "Game design explained.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVzt0Ltq6VNKRqRMrry3OIA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCVzt0Ltq6VNKRqRMrry3OIA"
+   },
+   "image": "https://yt3.googleusercontent.com/WUFdolvGD_8Deimk4YBdqETajhYqA2qJEs-K7jzDqqlK4aRJ_XnyJU9PJOBFyzbQrspUsNm-=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "game-maker-s-toolkit",
+   "name": "Game Maker's Toolkit",
+   "url": "https://www.youtube.com/@GMTK",
+   "description": "How game design works.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCqJ-Xo29CKyLTjn6z2XwYAw"
+   },
+   "image": "https://yt3.googleusercontent.com/fZzS7tuwCW14i6tAAtGG6q8E1Y3-_k2G36mbn7VNKHOwtaJ4vKF8Es8Ky6745TiNGOAVSAyR6A=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "gamespot",
+   "name": "GameSpot",
+   "url": "https://www.gamespot.com",
+   "description": "Game news and reviews.",
+   "category": "gaming",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "girlfriend-reviews",
+   "name": "Girlfriend Reviews",
+   "url": "https://www.youtube.com/@GirlfriendReviews",
+   "description": "Couple reviews games with humour.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "au",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eEGT06FrWFU6VBnPOR9lg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC2eEGT06FrWFU6VBnPOR9lg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_l2edxgizhdHeFZ-fEHxqc5GqxVDpiHbEl9hkPKYJMPq1I=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "gothamchess",
+   "name": "GothamChess",
+   "url": "https://www.youtube.com/@GothamChess",
+   "description": "Chess lessons and entertainment.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQHX6ViZmPsWiYSFAyS0a3Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCQHX6ViZmPsWiYSFAyS0a3Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lJ4RQwl-WnWQ_3AgLxvPrLkVdfLHPCRKMxUtLJnjUkhkg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "ign",
+   "name": "IGN",
+   "url": "https://www.ign.com",
+   "description": "Game news and reviews.",
+   "category": "gaming",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "ign-youtube",
+   "name": "IGN (YouTube)",
+   "url": "https://www.youtube.com/@IGN",
+   "description": "Trailers and game reviews.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCKy1dAqELo0zrOtPkf0eTMw"
+   },
+   "image": "https://yt3.googleusercontent.com/4jRpju9vRtgoIA6SxuIomVcCmjub6ydA1TzGRHts853ZzxRITi41gxP50jTuGBdUlvAgehZJK8Y=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "jacksepticeye",
+   "name": "jacksepticeye",
+   "url": "https://www.youtube.com/@jacksepticeye",
+   "description": "Energetic Irish let's plays.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "ie",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzPXprvl5Y-Sf0g4vX-m6g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_m7K306sLhJfQqGAMnuHdEBTwdqBA4gVTGa_FtEmarXd34=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "jacob-geller",
+   "name": "Jacob Geller",
+   "url": "https://www.youtube.com/@JacobGeller",
+   "description": "Essays on games and art.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeTfBygNb1TahcNpZyELO8g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCeTfBygNb1TahcNpZyELO8g"
+   },
+   "image": "https://yt3.googleusercontent.com/oEvJp21jyoK8viSJQZsoIB4TpDmXsRBjOfMybj8azcfgCQ6dkQ8uP6Fg4nyYUCosnYhYzTlc=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "kotaku",
+   "name": "Kotaku",
+   "url": "https://kotaku.com",
+   "description": "Gaming news and culture.",
+   "category": "gaming",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://kotaku.com/feed"
+   }
+  },
+  {
+   "id": "markiplier",
+   "name": "Markiplier",
+   "url": "https://www.youtube.com/@markiplier",
+   "description": "Let's plays and comedy.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7_YxT-KID8kRbqZo7MyscQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC7_YxT-KID8kRbqZo7MyscQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nfDvwu14-iN5YZcaLIomwno1_3oFcYTmG5_kn7SMj_nec=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "nintendo-life",
+   "name": "Nintendo Life",
+   "url": "https://www.nintendolife.com",
+   "description": "Nintendo news.",
+   "category": "gaming",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "noclip",
+   "name": "Noclip",
+   "url": "https://www.youtube.com/@NoclipDocs",
+   "description": "Game development documentaries.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "global",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0fDG3byEcMtbOqPMymDNbw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC0fDG3byEcMtbOqPMymDNbw"
+   },
+   "image": "https://yt3.googleusercontent.com/093arh9Jg1MqfdvcqcrDcUQm9QMdXnzWEJ-dpT_YUn5QU_8AQYbBIL37TvUHQDUaG1XErynq3w=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "pc-gamer",
+   "name": "PC Gamer",
+   "url": "https://www.pcgamer.com",
+   "description": "PC gaming.",
+   "category": "gaming",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.pcgamer.com/feeds.xml"
+   }
+  },
+  {
+   "id": "polygon",
+   "name": "Polygon",
+   "url": "https://www.polygon.com",
+   "description": "Games and entertainment.",
+   "category": "gaming",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "push-square",
+   "name": "Push Square",
+   "url": "https://www.pushsquare.com",
+   "description": "PlayStation news.",
+   "category": "gaming",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "razbuten",
+   "name": "Razbuten",
+   "url": "https://www.youtube.com/@Razbuten",
+   "description": "Games seen by non-gamers.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfHmyqCntYHQ81ZukNu66rg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCfHmyqCntYHQ81ZukNu66rg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kj7fc-mISaX42SXiInwIDFHbn4jQw6CJuzhFjw8010cQk=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "rock-paper-shotgun",
+   "name": "Rock Paper Shotgun",
+   "url": "https://www.rockpapershotgun.com",
+   "description": "PC gaming.",
+   "category": "gaming",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "rss",
+    "url": "https://www.rockpapershotgun.com/feed"
+   }
+  },
+  {
+   "id": "scott-the-woz",
+   "name": "Scott The Woz",
+   "url": "https://www.youtube.com/@ScottTheWoz",
+   "description": "Comedy about game history.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4rqhyiTs7XyuODcECvuiiQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC4rqhyiTs7XyuODcECvuiiQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mIkb4KUR9VjGmN_yrh0YcXZGiCAz-u8ghugXJIqA5CyYY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "summoning-salt",
+   "name": "Summoning Salt",
+   "url": "https://www.youtube.com/@SummoningSalt",
+   "description": "Histories of speedrun world records.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtUbO6rBht0daVIOGML3c8w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCtUbO6rBht0daVIOGML3c8w"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_n8NSEiNfCuno3JKW2ggFYNvxVUKPg2jzf2O_7W-pmkAv4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "the-game-theorists",
+   "name": "The Game Theorists",
+   "url": "https://www.youtube.com/@GameTheory",
+   "description": "Theories about game lore.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo_IB5145EVNcf8hw1Kku7w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCo_IB5145EVNcf8hw1Kku7w"
+   },
+   "image": "https://yt3.googleusercontent.com/gAJD51t1xvjXeUfbG2UfDFvrAYGrku5Wsh0S5IwVfCaDUBVV8F9FOGJ8XMLo_nXKVez08QPPxw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "videogamedunkey",
+   "name": "videogamedunkey",
+   "url": "https://www.youtube.com/@videogamedunkey",
+   "description": "Comedic game reviews.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "us",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsvn_Po0SmunchJYOWpOxMg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCsvn_Po0SmunchJYOWpOxMg"
+   },
+   "image": "https://yt3.googleusercontent.com/41hm8RIIr1HbZIg7A_M9CvtHvJdRXtEEwz4JdaxWYjuwDntO0Tyag4Qe104nIxaSnnybsUdnOQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "yogscast",
+   "name": "Yogscast",
+   "url": "https://www.youtube.com/@yogscast",
+   "description": "British gaming group.",
+   "category": "gaming",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "region": "gb",
+   "pricing": "free",
+   "tags": [],
+   "for_learners": false,
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH-_hzb2ILSCo9ftVSnrCIQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCH-_hzb2ILSCo9ftVSnrCIQ"
+   },
+   "image": "https://yt3.googleusercontent.com/tMbBBpEq85pRgLFvqNm4Gxo1dfY2Ys5WDpcWAWHmgLyJBa9Jf84ParXagqaSxjMUtM-vKvnpSro=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}
