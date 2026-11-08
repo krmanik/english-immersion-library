@@ -1,0 +1,644 @@
+[
+  {
+    "id": "the-tonight-show-starring-jimmy-fallon",
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "url": "https://www.youtube.com/@FallonTonight",
+    "description": "Celebrity interviews, games and sketches.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC8-Th83bH_thdKZDJCrn88g"
+    },
+    "image": "https://yt3.googleusercontent.com/XAwGM8LsWiRxwrWEemBCsY1ALJnTNZo5kY09wSijFwaiD_sFAA0u7Jr-X1vtQ6EQWiApC--i5Q=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8-Th83bH_thdKZDJCrn88g"
+    }
+  },
+  {
+    "id": "the-late-show-with-stephen-colbert",
+    "name": "The Late Show with Stephen Colbert",
+    "url": "https://www.youtube.com/@ColbertLateShow",
+    "description": "Monologues and interviews.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCMtFAi84ehTSYSE9XoHefig"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_m65RzRXyEAIlIg5E84TdMr1Q-8uVzCoAjGOR4GjR9AnCQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMtFAi84ehTSYSE9XoHefig"
+    }
+  },
+  {
+    "id": "jimmy-kimmel-live",
+    "name": "Jimmy Kimmel Live",
+    "url": "https://www.youtube.com/@JimmyKimmelLive",
+    "description": "Late-night comedy and interviews.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCa6vGFO9ty8v5KZJXQxdhaw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lhbMFP_RRAtTgX-58mKKhuVG_P-qESOBnMDiPE0vhJgEMm=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa6vGFO9ty8v5KZJXQxdhaw"
+    }
+  },
+  {
+    "id": "late-night-with-seth-meyers",
+    "name": "Late Night with Seth Meyers",
+    "url": "https://www.youtube.com/@LateNightSeth",
+    "description": "A Closer Look and interviews.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCVTyTA7-g9nopHeHbeuvpRA"
+    },
+    "image": "https://yt3.googleusercontent.com/msr9fwKbV09vPaIqk97jEKyAThhQbrbkCTnj3eVWYDmitq8puQcQpaE4QCqA81Nosl8KOEj41Q=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVTyTA7-g9nopHeHbeuvpRA"
+    }
+  },
+  {
+    "id": "the-daily-show",
+    "name": "The Daily Show",
+    "url": "https://www.youtube.com/@TheDailyShow",
+    "description": "Satirical news.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCwWhs_6x42TyRM4Wstoq8HA"
+    },
+    "image": "https://yt3.googleusercontent.com/clBZ7D-wYk_ysfU_X0U2GAN3lAxkP5drwADfpuqvSrbPzkcemCXx9XQV8XEXqjSK3uMYiReJPQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwWhs_6x42TyRM4Wstoq8HA"
+    }
+  },
+  {
+    "id": "last-week-tonight-with-john-oliver",
+    "name": "Last Week Tonight with John Oliver",
+    "url": "https://www.youtube.com/@LastWeekTonight",
+    "description": "Long comedic deep dives on one topic each week.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UC3XTzVzaHQEd30rQbuvCtTQ"
+    },
+    "image": "https://yt3.googleusercontent.com/QaQBhlazp19dgOWR8qsqBUmfR1HgDoonchOyWoZAlW68nT6ezDQ75nPdwKT1fjR74uYSvlgX=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3XTzVzaHQEd30rQbuvCtTQ"
+    }
+  },
+  {
+    "id": "the-graham-norton-show",
+    "name": "The Graham Norton Show",
+    "url": "https://www.youtube.com/@TheGrahamNortonShow",
+    "description": "British chat show with star guests.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "first-we-feast-hot-ones",
+    "name": "First We Feast (Hot Ones)",
+    "url": "https://www.youtube.com/@FirstWeFeast",
+    "description": "Celebrity interviews over spicy wings.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCPD_bxCRGpmmeQcbe2kpPaA"
+    },
+    "image": "https://yt3.googleusercontent.com/HFfZisaVh7x0A_ZxfEObPrpAyDPqsuIJD0P4zE23jNL65Pdn58ixh7GsDaJcGw5797VChzybXQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPD_bxCRGpmmeQcbe2kpPaA"
+    }
+  },
+  {
+    "id": "team-coco",
+    "name": "Team Coco",
+    "url": "https://www.youtube.com/@TeamCoco",
+    "description": "Conan O'Brien's interviews and travel shows.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCi7GJNg51C3jgmYTUwqoUXA"
+    },
+    "image": "https://yt3.googleusercontent.com/B3EaVhMFIewHYNbLd6NCkunUfxEYIvlbz6MUjQkFacFzpFevaRTB8cAGCFooCuBv4oyCE3ur=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7GJNg51C3jgmYTUwqoUXA"
+    }
+  },
+  {
+    "id": "jubilee",
+    "name": "Jubilee",
+    "url": "https://www.youtube.com/@jubilee",
+    "description": "People with opposing views talk.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCJjSDX-jUChzOEyok9XYRJQ"
+    },
+    "image": "https://yt3.googleusercontent.com/KPfeFoMZ18KYP7q-i3xfEO6Vwd96aQh1V_Bto5m96rwcAR5FmrJQfK-Bo8rWfrn9RqcM0Kxq0Q=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJjSDX-jUChzOEyok9XYRJQ"
+    }
+  },
+  {
+    "id": "wired",
+    "name": "WIRED",
+    "url": "https://www.youtube.com/@WIRED",
+    "description": "Autocomplete interviews and expert explainers.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCftwRNsjfRo08xYE31tkiyw"
+    },
+    "image": "https://yt3.googleusercontent.com/3xLaRljIs8OZjbxyGnMlpHXtzrxY-keMiy9foklNwa9G5wzB2stC4ND56rZfZAuyLKmRLMm2cik=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCftwRNsjfRo08xYE31tkiyw"
+    }
+  },
+  {
+    "id": "the-diary-of-a-ceo",
+    "name": "The Diary of a CEO",
+    "url": "https://www.youtube.com/@TheDiaryOfACEO",
+    "description": "Long interviews with business leaders and experts.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCGq-a57w-aPwyi3pW7XLiHw"
+    },
+    "image": "https://yt3.googleusercontent.com/JHCZDz37bsTmwoE1o4LEodF5vhsHfk29kCEauDTFr27-7hHXsHHvvWGzcG77v32ERrkpfInkGQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGq-a57w-aPwyi3pW7XLiHw"
+    }
+  },
+  {
+    "id": "lex-fridman",
+    "name": "Lex Fridman",
+    "url": "https://www.youtube.com/@lexfridman",
+    "description": "Long conversations on science, tech and life.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCSHZKyawb77ixDdsGog4iWA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_ljfMy9kUR1PH9VRf-XsTsPqFMgORC_zodOQVEAm4hx36lC=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA"
+    }
+  },
+  {
+    "id": "chicken-shop-date",
+    "name": "Chicken Shop Date",
+    "url": "https://www.youtube.com/@ChickenShopDate",
+    "description": "Amelia Dimoldenberg's awkward celebrity dates.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "the-kelly-clarkson-show",
+    "name": "The Kelly Clarkson Show",
+    "url": "https://www.youtube.com/@KellyClarksonShow",
+    "description": "Daytime talk and music.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCmSQ47G2NHhcjRAm9Px6R3g"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nIRf_8Nm4eWshRZZwk18Ndb_6727IUSRwKeqGRFC5Hvvs=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmSQ47G2NHhcjRAm9Px6R3g"
+    }
+  },
+  {
+    "id": "the-drew-barrymore-show",
+    "name": "The Drew Barrymore Show",
+    "url": "https://www.youtube.com/@TheDrewBarrymoreShow",
+    "description": "Daytime talk.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCWIj8e2_-uK1m886ADSYO6g"
+    },
+    "image": "https://yt3.googleusercontent.com/ild5lEayxb62pwoUaSh1ssukn9cY5rFDd88Iz43N3zW9QGhbBOQxYLiZ-m9Qg8BI1r4_90omaQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWIj8e2_-uK1m886ADSYO6g"
+    }
+  },
+  {
+    "id": "the-view",
+    "name": "The View",
+    "url": "https://www.youtube.com/@TheView",
+    "description": "Daytime talk about news.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCeH6qE4V7n5tVwP7NkdrtJg"
+    },
+    "image": "https://yt3.googleusercontent.com/hYHQrLvXgje-K7pvKZpYz3olV8xdGz-atiyUjS3Dk4BRFRSDEGY6fSsewA-f_C9GhxLW-7rs=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeH6qE4V7n5tVwP7NkdrtJg"
+    }
+  },
+  {
+    "id": "real-time-with-bill-maher",
+    "name": "Real Time with Bill Maher",
+    "url": "https://www.youtube.com/@RealTime",
+    "description": "Political talk.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCy6kyFxaMqGtpE3pQTflK8A"
+    },
+    "image": "https://yt3.googleusercontent.com/iRVUOhLrMwYlzc6gqD-aCH6a54Z7l4rHZK3RMep3ZoBB3aWV1xLDbDat4YLRDtjZUFbtJpvO=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy6kyFxaMqGtpE3pQTflK8A"
+    }
+  },
+  {
+    "id": "piers-morgan-uncensored",
+    "name": "Piers Morgan Uncensored",
+    "url": "https://www.youtube.com/@PiersMorganUncensored",
+    "description": "Debate-heavy interviews.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCatt7TBjfBkiJWx8khav_Gg"
+    },
+    "image": "https://yt3.googleusercontent.com/bEvmu5a2PUTokDPxgxSwS65A9NjESfpDi36suWWhB0aw6rOmeiUMDBdsxfLSs4Wg4pxnCfCzKw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCatt7TBjfBkiJWx8khav_Gg"
+    }
+  },
+  {
+    "id": "the-ellen-show",
+    "name": "The Ellen Show",
+    "url": "https://www.youtube.com/@TheEllenShow",
+    "description": "Daytime talk clips.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCp0hYYBW6IMayGgR-WeoCvQ"
+    },
+    "image": "https://yt3.googleusercontent.com/n6BksIXpbZfRmlxqgdhTGVLvQVDtajIo1a8mxFDADhwE4wMUOhjnZ9qsRVPoTa9dfHnW1Yn9=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp0hYYBW6IMayGgR-WeoCvQ"
+    }
+  },
+  {
+    "id": "ted",
+    "name": "TED",
+    "url": "https://www.youtube.com/@TED",
+    "description": "TED talks with human-made subtitles.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "subtitles": "free",
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCAuUUnT6oDeKwE6v1NGQxug"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug"
+    }
+  },
+  {
+    "id": "tedx-talks",
+    "name": "TEDx Talks",
+    "url": "https://www.youtube.com/@TEDx",
+    "description": "Talks from TEDx events worldwide.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCsT0YIqwnpJCM-mx7-gSA4Q"
+    },
+    "image": "https://yt3.googleusercontent.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsT0YIqwnpJCM-mx7-gSA4Q"
+    }
+  },
+  {
+    "id": "big-think-youtube",
+    "name": "Big Think",
+    "url": "https://www.youtube.com/@bigthink",
+    "description": "Short talks with experts.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCvQECJukTDE2i6aCoMnS-Vg"
+    },
+    "image": "https://yt3.googleusercontent.com/QWMOoT-7-bivHzD5AvaxHtC2aDl6tUjzAlsKsMo98EmOYfUUFpZGkKaDbA555fNqjqklJHeSjGc=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvQECJukTDE2i6aCoMnS-Vg"
+    }
+  },
+  {
+    "id": "talks-at-google",
+    "name": "Talks at Google",
+    "url": "https://www.youtube.com/@TalksatGoogle",
+    "description": "Authors and experts speak at Google.",
+    "category": "talk_shows",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCbmNph6atAoGfqLoCL_duAg"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbmNph6atAoGfqLoCL_duAg"
+    }
+  },
+  {
+    "id": "ted-website",
+    "name": "TED (website)",
+    "url": "https://www.ted.com/talks",
+    "description": "TED talks with interactive transcripts in many languages.",
+    "category": "talk_shows",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "subtitles": "free",
+    "recommended": true
+  }
+]

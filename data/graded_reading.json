@@ -1,0 +1,436 @@
+[
+  {
+    "id": "news-in-levels",
+    "name": "News in Levels",
+    "url": "https://www.newsinlevels.com",
+    "description": "Each news story written at three levels, with audio and video.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "news"
+    ],
+    "for_learners": true,
+    "subtitles": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://www.newsinlevels.com/homepage/feed/"
+    }
+  },
+  {
+    "id": "breaking-news-english",
+    "name": "Breaking News English",
+    "url": "https://breakingnewsenglish.com",
+    "description": "Current news lessons at seven levels, with audio, quizzes and activities.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "news"
+    ],
+    "for_learners": true,
+    "subtitles": "free",
+    "recommended": true
+  },
+  {
+    "id": "voa-learning-english",
+    "name": "VOA Learning English",
+    "url": "https://learningenglish.voanews.com",
+    "description": "News and features written in simple English with audio and transcripts.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "news",
+      "slow-english"
+    ],
+    "for_learners": true,
+    "subtitles": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://learningenglish.voanews.com/api/"
+    }
+  },
+  {
+    "id": "simple-english-wikipedia",
+    "name": "Simple English Wikipedia",
+    "url": "https://simple.wikipedia.org",
+    "description": "Wikipedia written with basic words and short sentences.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "encyclopedia"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "newsela",
+    "name": "Newsela",
+    "url": "https://newsela.com",
+    "description": "News and nonfiction rewritten at several reading levels (made for schools).",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "tags": [
+      "news"
+    ],
+    "for_learners": true,
+    "login": "required"
+  },
+  {
+    "id": "esl-fast",
+    "name": "ESL Fast",
+    "url": "https://www.eslfast.com",
+    "description": "Hundreds of short graded stories and dialogues with audio.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "stories"
+    ],
+    "for_learners": true
+  },
+  {
+    "id": "rong-chang-esl",
+    "name": "Rong-Chang ESL",
+    "url": "https://www.rong-chang.com",
+    "description": "Easy readings and listening lessons for beginners.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "stories"
+    ],
+    "for_learners": true
+  },
+  {
+    "id": "englishclub-easy-reading",
+    "name": "EnglishClub Easy Reading",
+    "url": "https://www.englishclub.com/reading/",
+    "description": "Short graded texts, stories and reading tips.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "for_learners": true
+  },
+  {
+    "id": "readtheory",
+    "name": "ReadTheory",
+    "url": "https://readtheory.org",
+    "description": "Adaptive reading comprehension practice that adjusts to your level.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "for_learners": true,
+    "login": "required"
+  },
+  {
+    "id": "commonlit",
+    "name": "CommonLit",
+    "url": "https://www.commonlit.org",
+    "description": "Free library of reading passages with questions, for school students.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "login": "required"
+  },
+  {
+    "id": "er-central",
+    "name": "ER Central",
+    "url": "https://er-central.com",
+    "description": "Free graded readers and listening for extensive reading.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "for_learners": true
+  },
+  {
+    "id": "extensive-reading-foundation",
+    "name": "Extensive Reading Foundation",
+    "url": "https://erfoundation.org",
+    "description": "Guides to graded readers and the extensive-reading method.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "for_learners": true
+  },
+  {
+    "id": "penguin-readers",
+    "name": "Penguin Readers",
+    "url": "https://www.penguinreaders.co.uk",
+    "description": "Graded readers from Penguin, with free teacher and learner resources.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "gb",
+    "pricing": "paid",
+    "for_learners": true
+  },
+  {
+    "id": "oxford-bookworms",
+    "name": "Oxford Bookworms",
+    "url": "https://www.oup.com/elt/bookworms",
+    "description": "Oxford's graded readers series, from starter to advanced.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "paid",
+    "for_learners": true
+  },
+  {
+    "id": "xreading",
+    "name": "Xreading",
+    "url": "https://xreading.com",
+    "description": "Online library of graded readers with audio.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "global",
+    "pricing": "paid",
+    "for_learners": true,
+    "login": "required"
+  },
+  {
+    "id": "the-week-junior",
+    "name": "The Week Junior",
+    "url": "https://theweekjunior.co.uk",
+    "description": "News magazine for children, clear and balanced.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "gb",
+    "pricing": "paid",
+    "tags": [
+      "news",
+      "kids"
+    ],
+    "login": "partial"
+  },
+  {
+    "id": "time-for-kids",
+    "name": "Time for Kids",
+    "url": "https://www.timeforkids.com",
+    "description": "TIME's news for children, by grade level.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "tags": [
+      "news",
+      "kids"
+    ],
+    "login": "partial"
+  },
+  {
+    "id": "science-news-explores",
+    "name": "Science News Explores",
+    "url": "https://www.snexplores.org",
+    "description": "Science news for young readers from Science News.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "science"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "bbc-newsround",
+    "name": "BBC Newsround",
+    "url": "https://www.bbc.co.uk/newsround",
+    "description": "The BBC's news for children, with short videos.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "tags": [
+      "news",
+      "kids"
+    ],
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://feeds.bbci.co.uk/newsround/rss.xml"
+    }
+  },
+  {
+    "id": "dogonews",
+    "name": "DOGOnews",
+    "url": "https://www.dogonews.com",
+    "description": "Kid-friendly current events with vocabulary support.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "tags": [
+      "news",
+      "kids"
+    ],
+    "login": "partial"
+  },
+  {
+    "id": "news-for-kids",
+    "name": "News for Kids",
+    "url": "https://newsforkids.net",
+    "description": "Short news stories for children with vocabulary help.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "news",
+      "kids"
+    ],
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://newsforkids.net/feed/"
+    }
+  },
+  {
+    "id": "the-learning-network-nyt",
+    "name": "The Learning Network (NYT)",
+    "url": "https://www.nytimes.com/section/learning",
+    "description": "NYT articles with questions, word of the day and writing prompts.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "news"
+    ],
+    "login": "partial"
+  },
+  {
+    "id": "lingua-com-english-reading",
+    "name": "Lingua.com English Reading",
+    "url": "https://lingua.com/english/reading/",
+    "description": "Short reading texts with questions, from A1 to C1.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "for_learners": true
+  },
+  {
+    "id": "wikijunior",
+    "name": "Wikijunior",
+    "url": "https://en.wikibooks.org/wiki/Wikijunior",
+    "description": "Simple nonfiction books for children on Wikibooks.",
+    "category": "graded_reading",
+    "type": "website",
+    "level": [
+      "beginner"
+    ],
+    "region": "global",
+    "pricing": "free"
+  }
+]

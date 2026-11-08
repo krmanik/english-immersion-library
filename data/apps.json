@@ -1,0 +1,536 @@
+[
+  {
+    "id": "engly-reader",
+    "name": "Engly Reader",
+    "url": "https://krmanik.github.io/engly-reader-app/",
+    "description": "Reader for web pages, e-books, PDFs and videos with tap-to-define, IPA, CEFR word lists and text-to-speech.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "reader"
+    ],
+    "for_learners": true,
+    "platforms": [
+      "ios"
+    ]
+  },
+  {
+    "id": "duolingo",
+    "name": "Duolingo",
+    "url": "https://www.duolingo.com",
+    "description": "Gamified bite-sized English course.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "babbel",
+    "name": "Babbel",
+    "url": "https://www.babbel.com",
+    "description": "Structured courses built around real conversations.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "paid",
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "busuu",
+    "name": "Busuu",
+    "url": "https://www.busuu.com",
+    "description": "Courses by CEFR level with feedback from native speakers.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "memrise",
+    "name": "Memrise",
+    "url": "https://www.memrise.com",
+    "description": "Vocabulary and phrases with videos of native speakers.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "anki",
+    "name": "Anki",
+    "url": "https://apps.ankiweb.net",
+    "description": "Powerful spaced-repetition flashcards (free on desktop and Android).",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "tags": [
+      "flashcards"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "quizlet",
+    "name": "Quizlet",
+    "url": "https://quizlet.com",
+    "description": "Flashcards and study games with shared decks.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "tags": [
+      "flashcards"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "cake",
+    "name": "Cake",
+    "url": "https://mycake.me",
+    "description": "Free short daily English lessons built from video clips.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "for_learners": true,
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "lingq",
+    "name": "LingQ",
+    "url": "https://www.lingq.com",
+    "description": "Read and listen to content you choose, saving unknown words.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "tags": [
+      "reader"
+    ],
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "readlang",
+    "name": "Readlang",
+    "url": "https://readlang.com",
+    "description": "Browser extension and web reader with click-to-translate.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "tags": [
+      "reader"
+    ],
+    "for_learners": true,
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "language-reactor",
+    "name": "Language Reactor",
+    "url": "https://www.languagereactor.com",
+    "description": "Dual subtitles and word lookups on Netflix and YouTube.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "tags": [
+      "subtitles"
+    ],
+    "for_learners": true,
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "lingvist",
+    "name": "Lingvist",
+    "url": "https://lingvist.com",
+    "description": "Vocabulary course based on the most frequent words.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "mondly",
+    "name": "Mondly",
+    "url": "https://www.mondly.com",
+    "description": "Short daily lessons with speech recognition.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "rosetta-stone",
+    "name": "Rosetta Stone",
+    "url": "https://www.rosettastone.com",
+    "description": "Immersion-style course without translation.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "paid",
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "pimsleur",
+    "name": "Pimsleur",
+    "url": "https://www.pimsleur.com",
+    "description": "Audio-first speaking courses.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "paid",
+    "for_learners": true,
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "speak",
+    "name": "Speak",
+    "url": "https://www.speak.com",
+    "description": "Speaking practice with an AI tutor.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "paid",
+    "for_learners": true,
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "praktika",
+    "name": "Praktika",
+    "url": "https://praktika.ai",
+    "description": "Conversation practice with AI avatar tutors.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "for_learners": true,
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "beelinguapp",
+    "name": "Beelinguapp",
+    "url": "https://beelinguapp.com",
+    "description": "Side-by-side bilingual stories with audiobook narration.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "tags": [
+      "stories"
+    ],
+    "for_learners": true,
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "fluentu",
+    "name": "FluentU",
+    "url": "https://www.fluentu.com",
+    "description": "Real-world videos with interactive subtitles.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "paid",
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "clozemaster",
+    "name": "Clozemaster",
+    "url": "https://www.clozemaster.com",
+    "description": "Fill-in-the-blank sentences to learn words in context.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "drops",
+    "name": "Drops",
+    "url": "https://languagedrops.com",
+    "description": "Five-minute visual vocabulary games.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "for_learners": true,
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "promova",
+    "name": "Promova",
+    "url": "https://promova.com",
+    "description": "Bite-sized English lessons and tutors.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "mango-languages",
+    "name": "Mango Languages",
+    "url": "https://mangolanguages.com",
+    "description": "Conversation-based courses, free through many libraries.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "paid",
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "voscreen",
+    "name": "Voscreen",
+    "url": "https://www.voscreen.com",
+    "description": "Watch short film clips and pick the right translation.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "read-along-by-google",
+    "name": "Read Along by Google",
+    "url": "https://readalong.google.com",
+    "description": "Children read stories aloud with a voice helper that listens.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "kids"
+    ],
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "android"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "khan-academy-kids",
+    "name": "Khan Academy Kids",
+    "url": "https://learn.khanacademy.org/khan-academy-kids/",
+    "description": "Free early-learning app with reading, phonics and stories.",
+    "category": "apps",
+    "type": "app",
+    "level": [
+      "beginner"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "kids"
+    ],
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "recommended": true
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "id": "saturday-night-live",
+    "name": "Saturday Night Live",
+    "url": "https://www.youtube.com/@SaturdayNightLive",
+    "description": "Sketches from SNL.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCqFzWxSCi39LnW1JKFR3efg"
+    },
+    "image": "https://yt3.googleusercontent.com/0UstnnBY3C69WcOIv8W_8blHZKMpoxluehKazofyMTt93kO2wGbJ1-ZIiHaFSNYBVGAgu3AEUEo=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqFzWxSCi39LnW1JKFR3efg"
+    }
+  },
+  {
+    "id": "comedy-central",
+    "name": "Comedy Central",
+    "url": "https://www.youtube.com/@ComedyCentral",
+    "description": "Sketches including Key & Peele.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCUsN5ZwHx2kILm84-jPDeXw"
+    },
+    "image": "https://yt3.googleusercontent.com/kENjxM3Q5B0rgBE2kTPlzRYpbT8xc7gMYuhQRz7NVz6B-O9pTndDZt8UhOneZAOBjFInk-XbAw4=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUsN5ZwHx2kILm84-jPDeXw"
+    }
+  },
+  {
+    "id": "comedy-central-stand-up",
+    "name": "Comedy Central Stand-Up",
+    "url": "https://www.youtube.com/@ComedyCentralStandUp",
+    "description": "Stand-up sets.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "netflix-is-a-joke",
+    "name": "Netflix Is A Joke",
+    "url": "https://www.youtube.com/@netflixisajoke",
+    "description": "Stand-up and comedy clips.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCObk_g1hQBy0RKKriVX_zOQ"
+    },
+    "image": "https://yt3.googleusercontent.com/3CYVzLztKZ_nGzrs6UTXwKr5W-RUe5uIUuJoHno6HgUVj-KpbJ8_u-6MveD3k-AZXEOdWpUPSw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCObk_g1hQBy0RKKriVX_zOQ"
+    }
+  },
+  {
+    "id": "dry-bar-comedy",
+    "name": "Dry Bar Comedy",
+    "url": "https://www.youtube.com/@DryBarComedy",
+    "description": "Clean stand-up comedy.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCvlVuntLjdURVD3b3Hx7kxw"
+    },
+    "image": "https://yt3.googleusercontent.com/e_QQ17MwCDeYnoWhy8-8ffjPG8IuZHOaIJikIdi6eIw3RGxXPP4yQY9ZoeOz7j5OVfZmtdtHdnU=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvlVuntLjdURVD3b3Hx7kxw"
+    }
+  },
+  {
+    "id": "studio-c",
+    "name": "Studio C",
+    "url": "https://www.youtube.com/@StudioC",
+    "description": "Clean sketch comedy.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "smosh",
+    "name": "Smosh",
+    "url": "https://www.youtube.com/@smosh",
+    "description": "Sketches and improv.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCY30JRSgfhYXA6i6xX1erWg"
+    },
+    "image": "https://yt3.googleusercontent.com/7WiYNRhekvu81d3UeA1LUmuUmpkienqw-Kfsh7tvCEqWARB6ozpqs4XhZ5w-RdPGcaopLK7KYw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY30JRSgfhYXA6i6xX1erWg"
+    }
+  },
+  {
+    "id": "foil-arms-and-hog",
+    "name": "Foil Arms and Hog",
+    "url": "https://www.youtube.com/@FoilArmsandHog",
+    "description": "Irish sketch comedy trio.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ie",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCzb-6smlTg5UPirLdsdQ_cQ"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nTWUYs5kA3xn78ptVX4OR4M5KB35ZoakSmKRXl_uxo6kM=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzb-6smlTg5UPirLdsdQ_cQ"
+    }
+  },
+  {
+    "id": "ryan-george",
+    "name": "Ryan George",
+    "url": "https://www.youtube.com/@RyanGeorge",
+    "description": "Short comedy sketches.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCh9IfI45mmk59eDvSWtuuhQ"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mmoqlc1Pxy0umi6vZRMBJJlA2vwoDnNcYbF1El_GULvGc=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh9IfI45mmk59eDvSWtuuhQ"
+    }
+  },
+  {
+    "id": "taskmaster",
+    "name": "Taskmaster",
+    "url": "https://www.youtube.com/@Taskmaster",
+    "description": "British comedians compete in silly tasks.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCT5C7yaO3RVuOgwP8JVAujQ"
+    },
+    "image": "https://yt3.googleusercontent.com/B-m6RSbkd4OITuGkIiXfhkgbuWtAcsRh2Myh44CIaiKfiERyKhfux3Ji5Gb4Bc7KLfPUTlcojQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT5C7yaO3RVuOgwP8JVAujQ"
+    }
+  },
+  {
+    "id": "bbc-comedy",
+    "name": "BBC Comedy",
+    "url": "https://www.youtube.com/@bbccomedy",
+    "description": "British sitcom and panel show clips.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC_NT0EK1f9CoWnzPJV1pj1A"
+    },
+    "image": "https://yt3.googleusercontent.com/bAhYJmKi2eVL-B6NO3whoo3CCX2ZfQpQ96PcLIJfs3kQ7XJQt7kd5868A9IXEL1xod5A-RT7=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_NT0EK1f9CoWnzPJV1pj1A"
+    }
+  },
+  {
+    "id": "just-for-laughs",
+    "name": "Just For Laughs",
+    "url": "https://www.youtube.com/@JustForLaughsTV",
+    "description": "Stand-up from the Montreal festival.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "ozzy-man-reviews",
+    "name": "Ozzy Man Reviews",
+    "url": "https://www.youtube.com/@OzzyManReviews",
+    "description": "Australian commentary on viral videos.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "au",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCeE3lj6pLX_gCd0Yvns517Q"
+    },
+    "image": "https://yt3.googleusercontent.com/p4YwW3VkCGcLG4bS-XeKv8JlFFbIHkxBrkmpv5ekCRHxoHqjpLgtTB9rxgK8Aag_EjY8oHQRo0U=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeE3lj6pLX_gCd0Yvns517Q"
+    }
+  },
+  {
+    "id": "gus-johnson",
+    "name": "Gus Johnson",
+    "url": "https://www.youtube.com/@GusJohnson",
+    "description": "Sketch comedy.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "danny-gonzalez",
+    "name": "Danny Gonzalez",
+    "url": "https://www.youtube.com/@Danny-Gonzalez",
+    "description": "Comedy commentary.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCSUf5_EPEfl4zlBKZHkZdmw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kqdMbZ32UBjXkldPXNZTXuhQWMMWCPS_2YueoeiOlktQ0=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSUf5_EPEfl4zlBKZHkZdmw"
+    }
+  },
+  {
+    "id": "drew-gooden",
+    "name": "Drew Gooden",
+    "url": "https://www.youtube.com/@DrewGooden",
+    "description": "Comedy commentary.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCjtkaY_1JrDw6uUtwvcPsTg"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_meVweJTuxidVbea_mHLmv6DrVou5pfOKil3fg5BrJysg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjtkaY_1JrDw6uUtwvcPsTg"
+    }
+  },
+  {
+    "id": "kurtis-conner",
+    "name": "Kurtis Conner",
+    "url": "https://www.youtube.com/@kurtisconner",
+    "description": "Comedy commentary.",
+    "category": "comedy",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC7zsxKqd5MicTf4VhS9Y74g"
+    },
+    "image": "https://yt3.googleusercontent.com/gymXnzJs6g7N3U1ferseSCoMaiq05JOskMHcqrIaJ2clxbJY4bNaivEdxIAufhoa20XIVnnLig=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7zsxKqd5MicTf4VhS9Y74g"
+    }
+  },
+  {
+    "id": "dropout",
+    "name": "Dropout",
+    "url": "https://www.dropout.tv",
+    "description": "Improv and comedy shows (Dimension 20, Game Changer).",
+    "category": "comedy",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "paid",
+    "login": "required"
+  },
+  {
+    "id": "the-onion",
+    "name": "The Onion",
+    "url": "https://theonion.com",
+    "description": "America's finest satirical news.",
+    "category": "comedy",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://theonion.com/feed/"
+    }
+  },
+  {
+    "id": "the-beaverton",
+    "name": "The Beaverton",
+    "url": "https://www.thebeaverton.com",
+    "description": "Canadian satire.",
+    "category": "comedy",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.thebeaverton.com/feed/"
+    }
+  },
+  {
+    "id": "the-betoota-advocate",
+    "name": "The Betoota Advocate",
+    "url": "https://www.betootaadvocate.com",
+    "description": "Australian satire.",
+    "category": "comedy",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "au",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.betootaadvocate.com/latest/rss/"
+    }
+  },
+  {
+    "id": "waterford-whispers-news",
+    "name": "Waterford Whispers News",
+    "url": "https://waterfordwhispersnews.com",
+    "description": "Irish satire.",
+    "category": "comedy",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "ie",
+    "pricing": "free"
+  },
+  {
+    "id": "the-daily-mash",
+    "name": "The Daily Mash",
+    "url": "https://www.thedailymash.co.uk",
+    "description": "British satire.",
+    "category": "comedy",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free"
+  },
+  {
+    "id": "newsthump",
+    "name": "NewsThump",
+    "url": "https://newsthump.com",
+    "description": "British satire.",
+    "category": "comedy",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free"
+  },
+  {
+    "id": "the-chaser",
+    "name": "The Chaser",
+    "url": "https://chaser.com.au",
+    "description": "Australian satire.",
+    "category": "comedy",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "au",
+    "pricing": "free"
+  }
+]

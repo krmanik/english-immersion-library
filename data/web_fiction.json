@@ -1,0 +1,290 @@
+[
+  {
+    "id": "royal-road",
+    "name": "Royal Road",
+    "url": "https://www.royalroad.com",
+    "description": "Free serial fantasy and LitRPG fiction.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "archive-of-our-own",
+    "name": "Archive of Our Own",
+    "url": "https://archiveofourown.org",
+    "description": "Huge nonprofit fan-fiction archive.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "wattpad",
+    "name": "Wattpad",
+    "url": "https://www.wattpad.com",
+    "description": "Stories by millions of writers, many for young readers.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "fanfiction-net",
+    "name": "FanFiction.Net",
+    "url": "https://www.fanfiction.net",
+    "description": "Long-running fan-fiction site.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "scribble-hub",
+    "name": "Scribble Hub",
+    "url": "https://www.scribblehub.com",
+    "description": "Original web novels, many inspired by Asian web fiction.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "webnovel",
+    "name": "Webnovel",
+    "url": "https://www.webnovel.com",
+    "description": "Translated and original web novels.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "inkitt",
+    "name": "Inkitt",
+    "url": "https://www.inkitt.com",
+    "description": "Reader-driven fiction platform.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "r-writingprompts",
+    "name": "r/WritingPrompts",
+    "url": "https://www.reddit.com/r/WritingPrompts/",
+    "description": "Short stories written in response to prompts.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "r-nosleep",
+    "name": "r/nosleep",
+    "url": "https://www.reddit.com/r/nosleep/",
+    "description": "Horror stories told as if they were true.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "worm",
+    "name": "Worm",
+    "url": "https://parahumans.wordpress.com",
+    "description": "A famous superhero web serial by Wildbow.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://parahumans.wordpress.com/feed/"
+    }
+  },
+  {
+    "id": "the-wandering-inn",
+    "name": "The Wandering Inn",
+    "url": "https://wanderinginn.com",
+    "description": "Long-running fantasy web serial.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://wanderinginn.com/feed/"
+    }
+  },
+  {
+    "id": "a-practical-guide-to-evil",
+    "name": "A Practical Guide to Evil",
+    "url": "https://practicalguidetoevil.wordpress.com",
+    "description": "Completed fantasy web serial.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://practicalguidetoevil.wordpress.com/feed/"
+    }
+  },
+  {
+    "id": "pale",
+    "name": "Pale",
+    "url": "https://palewebserial.wordpress.com",
+    "description": "Wildbow's supernatural mystery serial.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://palewebserial.wordpress.com/feed/"
+    }
+  },
+  {
+    "id": "twig",
+    "name": "Twig",
+    "url": "https://twigserial.wordpress.com",
+    "description": "Wildbow's biopunk serial.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://twigserial.wordpress.com/feed/"
+    }
+  },
+  {
+    "id": "top-web-fiction",
+    "name": "Top Web Fiction",
+    "url": "https://topwebfiction.com",
+    "description": "Rankings of web serials.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "scp-foundation",
+    "name": "SCP Foundation",
+    "url": "https://scp-wiki.wikidot.com",
+    "description": "Collaborative fiction about anomalous objects.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "novel-updates",
+    "name": "Novel Updates",
+    "url": "https://www.novelupdates.com",
+    "description": "Directory of translated Asian web novels.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "sufficient-velocity",
+    "name": "Sufficient Velocity",
+    "url": "https://forums.sufficientvelocity.com",
+    "description": "Forum for original and fan fiction quests.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "spacebattles",
+    "name": "SpaceBattles",
+    "url": "https://forums.spacebattles.com",
+    "description": "Forum with creative-writing sections.",
+    "category": "web_fiction",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  }
+]

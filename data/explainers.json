@@ -1,0 +1,1343 @@
+[
+  {
+    "id": "kurzgesagt-in-a-nutshell",
+    "name": "Kurzgesagt – In a Nutshell",
+    "url": "https://www.youtube.com/@kurzgesagt",
+    "description": "Beautifully animated science and philosophy explainers.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "subtitles": "free",
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCsXVk37bltHxD1rDPwtNM8Q"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q"
+    }
+  },
+  {
+    "id": "veritasium",
+    "name": "Veritasium",
+    "url": "https://www.youtube.com/@veritasium",
+    "description": "Science and engineering stories that challenge intuition.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA"
+    },
+    "image": "https://yt3.googleusercontent.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
+    }
+  },
+  {
+    "id": "vsauce",
+    "name": "Vsauce",
+    "url": "https://www.youtube.com/@Vsauce",
+    "description": "Curious questions about science and the mind.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mpYedipdXUXCKkwjQEeFrepFlDHZ0LiczqWeKyG0YmJvA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA"
+    }
+  },
+  {
+    "id": "crashcourse",
+    "name": "CrashCourse",
+    "url": "https://www.youtube.com/@crashcourse",
+    "description": "Fast-paced courses on every school subject, with human captions.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "subtitles": "free",
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCX6b17PVsYBQ0ip5gyeme-Q"
+    },
+    "image": "https://yt3.googleusercontent.com/E454zI2spNFZsN_wgJPTHjMsqs1fFqb_qp4PYanWuyaXQJp98wKEV1kIQYlR57epaweO5P8v=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX6b17PVsYBQ0ip5gyeme-Q"
+    }
+  },
+  {
+    "id": "ted-ed",
+    "name": "TED-Ed",
+    "url": "https://www.youtube.com/@TEDEd",
+    "description": "Short animated lessons on everything.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "subtitles": "free",
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCsooa4yRKGN_zEE8iknghZA"
+    },
+    "image": "https://yt3.googleusercontent.com/PKUi-Lc3VFjUfsIhjK3n-FJDNBf-XQLdg4G4bv4fPFF96D3MVnkbub9ePpLoWdmdFgl5I1Zd=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA"
+    }
+  },
+  {
+    "id": "vox-youtube",
+    "name": "Vox (YouTube)",
+    "url": "https://www.youtube.com/@Vox",
+    "description": "Explainers on news, design and culture.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCLXo7UDZvByw2ixzpQCufnA"
+    },
+    "image": "https://yt3.googleusercontent.com/iak9xjDjDoQHn9UNWSvkobPuxAzK1ApefjPH7HGObwo71AbaiEqdafMjmUJCgOoBFWNKPS2t2eI=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA"
+    }
+  },
+  {
+    "id": "cgp-grey",
+    "name": "CGP Grey",
+    "url": "https://www.youtube.com/@CGPGrey",
+    "description": "Clear explainers on politics, geography and history.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC2C_jShtL725hvbm1arSV9w"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nxrDGcxMGo8yKf2_Dw0eaGEWj39IAIdZQjAuz-_mBHjUI=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w"
+    }
+  },
+  {
+    "id": "tom-scott",
+    "name": "Tom Scott",
+    "url": "https://www.youtube.com/@TomScottGo",
+    "description": "Short videos about amazing places and ideas.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCBa659QWEk1AI4Tg--mrJ2A"
+    },
+    "image": "https://yt3.googleusercontent.com/WxHs0Jf1Jp_4ZU84wxnRL0owNHkzaLUEiD-GIfgCrVjZ0JhgriPTdPfGrkf-U7zwIs5zQl9ccg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A"
+    }
+  },
+  {
+    "id": "wendover-productions",
+    "name": "Wendover Productions",
+    "url": "https://www.youtube.com/@Wendoverproductions",
+    "description": "Logistics and transport explained.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC9RM-iSvTu1uPJb8X5yp3EQ"
+    },
+    "image": "https://yt3.googleusercontent.com/OnFIYArpFofrmngLXAsDGHsoVUpPA-yW3oD2ug7J2tq7H4BUcnnQvyfaQ8vw6s5JCiXJu1hb5A=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9RM-iSvTu1uPJb8X5yp3EQ"
+    }
+  },
+  {
+    "id": "half-as-interesting",
+    "name": "Half as Interesting",
+    "url": "https://www.youtube.com/@halfasinteresting",
+    "description": "Quick fun facts.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCuCkxoKLYO_EQ2GeFtbM_bw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lrhEmfrgwQlzJM4UwITdeCak68LTWLaJ6_2bbofLCFb3s=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuCkxoKLYO_EQ2GeFtbM_bw"
+    }
+  },
+  {
+    "id": "johnny-harris",
+    "name": "Johnny Harris",
+    "url": "https://www.youtube.com/@johnnyharris",
+    "description": "Geopolitics explained with maps.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCmGSJVG3mCRXVOP4yZrU1Dw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kswBDn49WW5IneVE-5RlKyud5GvdzyQQ5SJQyVvJ4S3pk=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmGSJVG3mCRXVOP4yZrU1Dw"
+    }
+  },
+  {
+    "id": "reallifelore",
+    "name": "RealLifeLore",
+    "url": "https://www.youtube.com/@RealLifeLore",
+    "description": "Geography and geopolitics.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCP5tjEmvPItGyLhmjdwP7Ww"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lK3FQppzWeqpXhyk8SpqvzzlrKr-pqjpRtY3PUfeF9poY=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5tjEmvPItGyLhmjdwP7Ww"
+    }
+  },
+  {
+    "id": "polymatter",
+    "name": "PolyMatter",
+    "url": "https://www.youtube.com/@PolyMatter",
+    "description": "Explainers on countries and companies.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCgNg3vwj3xt7QOrcIDaHdFg"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_k7mHPp3VaPARiKIoiAhfRXjAJ3NehjdPPC3pkaDWEOrcg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgNg3vwj3xt7QOrcIDaHdFg"
+    }
+  },
+  {
+    "id": "joe-scott",
+    "name": "Joe Scott",
+    "url": "https://www.youtube.com/@joescott",
+    "description": "Science and future-tech explainers.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC-2YHgc363EdcusLIBbgxzg"
+    },
+    "image": "https://yt3.googleusercontent.com/HaPz6yHsOo_JulyetjdvXUHUrws9NInLZXClFIifHJcLxWSLkpDmmGjbX94RXIrC6rs0EZ4D=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg"
+    }
+  },
+  {
+    "id": "jay-foreman",
+    "name": "Jay Foreman",
+    "url": "https://www.youtube.com/@JayForeman51",
+    "description": "Funny maps and London history.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "lemmino",
+    "name": "LEMMiNO",
+    "url": "https://www.youtube.com/@LEMMiNO",
+    "description": "Meticulous mysteries and history documentaries.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCRcgy6GzDeccI7dkbbBna3Q"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_n9UULHnAEc-yMg6URdgtNDvUqeu-SXR3WMV2ObydPnLg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRcgy6GzDeccI7dkbbBna3Q"
+    }
+  },
+  {
+    "id": "captain-disillusion",
+    "name": "Captain Disillusion",
+    "url": "https://www.youtube.com/@CaptainDisillusion",
+    "description": "Debunking viral video effects.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCEOXxzW2vU0P-0THehuIIeg"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_msIyBd-xDp_iUCqgGGmmoqGboT3nrsjj88i05c_g4Ad_k=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEOXxzW2vU0P-0THehuIIeg"
+    }
+  },
+  {
+    "id": "mustard",
+    "name": "Mustard",
+    "url": "https://www.youtube.com/@MustardChannel",
+    "description": "Engineering stories of aircraft and machines.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC1ZBQ-F-yktYD4m5AzM6pww"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lm3S28MkS05_3BqaBltkYbecsazBA48v0Dojc1Uh81f9U=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1ZBQ-F-yktYD4m5AzM6pww"
+    }
+  },
+  {
+    "id": "the-infographics-show",
+    "name": "The Infographics Show",
+    "url": "https://www.youtube.com/@TheInfographicsShow",
+    "description": "Animated stories and facts.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCfdNM3NAhaBOXCafH7krzrA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lXfGenrTAobxcy-fKXlzwvp7w2l7IlLOVk0jS7NUZZTGQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfdNM3NAhaBOXCafH7krzrA"
+    }
+  },
+  {
+    "id": "life-noggin",
+    "name": "Life Noggin",
+    "url": "https://www.youtube.com/@LifeNoggin",
+    "description": "Animated what-if science.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCpJmBQ8iNHXeQ7jQWDyGe3A"
+    },
+    "image": "https://yt3.googleusercontent.com/56TZ3zvoVxmSs8udEwXDQ4tQN5HjvYYwm103b5SZ03F3Is7jI2rvkNA_Iq_ZW0Q3v0b9CvoeKkY=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpJmBQ8iNHXeQ7jQWDyGe3A"
+    }
+  },
+  {
+    "id": "minutephysics",
+    "name": "MinutePhysics",
+    "url": "https://www.youtube.com/@minutephysics",
+    "description": "Physics in quick drawings.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCUHW94eEFW7hkUMVaZz4eDg"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mNlRy8Ablr-4VtAT6eDe7ED-3tfNFZ0FwhEYdtc6B_oQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg"
+    }
+  },
+  {
+    "id": "minuteearth",
+    "name": "MinuteEarth",
+    "url": "https://www.youtube.com/@MinuteEarth",
+    "description": "Short earth-science explainers.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCeiYXex_fwgYDonaTcSIk6w"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_katEIhwNI2gGmuRx4MGjzfCAn_VT96ty5YxNLQCY-MjQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeiYXex_fwgYDonaTcSIk6w"
+    }
+  },
+  {
+    "id": "philosophy-tube",
+    "name": "Philosophy Tube",
+    "url": "https://www.youtube.com/@PhilosophyTube",
+    "description": "Theatrical philosophy essays.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC2PA-AKmVpU6NKCGtZq_rKQ"
+    },
+    "image": "https://yt3.googleusercontent.com/s5g3Zjsm4yoWa39CucvIq7GtV_BNCOMyNR4xSPPvlv7vf1LVd40_XqdWhnEwPXSpgMEGizDAeJo=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2PA-AKmVpU6NKCGtZq_rKQ"
+    }
+  },
+  {
+    "id": "the-school-of-life",
+    "name": "The School of Life",
+    "url": "https://www.youtube.com/@theschooloflifetv",
+    "description": "Animated ideas on relationships and philosophy.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC7IcJI8PUf5Z3zKxnZvTBog"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_ldJz69qUu_3sEO5c-lO5Cevt7X2gUE2YQ11iWAC-6TZFU=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7IcJI8PUf5Z3zKxnZvTBog"
+    }
+  },
+  {
+    "id": "wisecrack",
+    "name": "Wisecrack",
+    "url": "https://www.youtube.com/@Wisecrack",
+    "description": "Philosophy of pop culture.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "nativlang",
+    "name": "NativLang",
+    "url": "https://www.youtube.com/@NativLang",
+    "description": "Animated stories about languages and writing systems.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCMk_WSPy3EE16aK5HLzCJzw"
+    },
+    "image": "https://yt3.googleusercontent.com/JmxnNPc7Ic0jnaPdLksokGXjgu4PE36iOdqiq3qSW9U2vGNQVF-ahQCQWbzTg85uNz8QIU-v8w=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMk_WSPy3EE16aK5HLzCJzw"
+    }
+  },
+  {
+    "id": "name-explain",
+    "name": "Name Explain",
+    "url": "https://www.youtube.com/@NameExplain",
+    "description": "Where names come from.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCy_QZ1EEY4S5YT6cmBTwMwg"
+    },
+    "image": "https://yt3.googleusercontent.com/2J2-hOZJts4Nb61L2yxCrrkQ0dIsBXw2AV5ISoY0-oECVZFChCvMgvPEZ9sHF4WPqdpGxtFe=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy_QZ1EEY4S5YT6cmBTwMwg"
+    }
+  },
+  {
+    "id": "geography-now",
+    "name": "Geography Now",
+    "url": "https://www.youtube.com/@GeographyNow",
+    "description": "Every country explained.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCmmPgObSUPw1HL2lq6H4ffA"
+    },
+    "image": "https://yt3.googleusercontent.com/F6rTK52cIGQiLsyPpCETZfLIVxrQNA2QAOnGNAPWjVU-n5B3LXGnJ2GDxEfl64f0FjGWTX5KSDY=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmmPgObSUPw1HL2lq6H4ffA"
+    }
+  },
+  {
+    "id": "map-men",
+    "name": "Map Men",
+    "url": "https://www.youtube.com/@MapMen",
+    "description": "Comedy duo explain strange maps.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC0e5BDJIdMUI4AQyr1WRSMQ"
+    },
+    "image": "https://yt3.googleusercontent.com/SMTpjSt1dkFQd2IfLIFNH4pmnlCWUoV6dynsWXXU7WS5DW3Hzx0e96jQltcmywnaSv37vKQmTSs=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0e5BDJIdMUI4AQyr1WRSMQ"
+    }
+  },
+  {
+    "id": "mr-beat",
+    "name": "Mr. Beat",
+    "url": "https://www.youtube.com/@IamMrBeat",
+    "description": "US history and politics for students.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCmYesELO6axBrCuSpf7S9DQ"
+    },
+    "image": "https://yt3.googleusercontent.com/ezRUnhCiQ_4thLqq3stwkh_4GaZQA0sBfqbYqKCAD1gTvXMYGhycNxDXMpkr6peTATabut0W_bA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmYesELO6axBrCuSpf7S9DQ"
+    }
+  },
+  {
+    "id": "khan-academy",
+    "name": "Khan Academy",
+    "url": "https://www.youtube.com/@khanacademy",
+    "description": "Free lessons on maths, science and more.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "subtitles": "free",
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UC4a-Gbdw7vOaccHmFo40b9g"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_l3GggKOWViCBpDs9APIsK6MHB2Mu-ECo5dUEU-Vay2gg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g"
+    }
+  },
+  {
+    "id": "the-royal-institution",
+    "name": "The Royal Institution",
+    "url": "https://www.youtube.com/@TheRoyalInstitution",
+    "description": "Science lectures and demos.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCYeF244yNGuFefuFKqxIAXw"
+    },
+    "image": "https://yt3.googleusercontent.com/MLoJXco9yJtL6yyTzJND1kQzj1xQkIivfnGgmerfxFgxP-43uAgJbMLfgVFdrHkMRSISr7-E=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYeF244yNGuFefuFKqxIAXw"
+    }
+  },
+  {
+    "id": "up-and-atom",
+    "name": "Up and Atom",
+    "url": "https://www.youtube.com/@UpandAtom",
+    "description": "Physics and computer science explained.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "au",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCSIvk78tK2TiviLQn4fSHaw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_m46fNfXQ1PJGEtHOH1GJsDh7g5I3GM5wTYDkBvU8JKdQs=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSIvk78tK2TiviLQn4fSHaw"
+    }
+  },
+  {
+    "id": "today-i-found-out",
+    "name": "Today I Found Out",
+    "url": "https://www.youtube.com/@TodayIFoundOut",
+    "description": "Interesting stories and facts.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC64UiPJwM_e9AqAd7RiD7JA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nizoFKF6b-9azR7SeVSbtlSQ4oBBhhaKfdohzdBY5zXh4=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA"
+    }
+  },
+  {
+    "id": "brainstuff",
+    "name": "BrainStuff",
+    "url": "https://www.youtube.com/@BrainStuff",
+    "description": "How stuff works.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC37x99c7-MFsxwhBhkTX9Xw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_moeku1wSJ_5JYElsivgwUBW9jYwk2tsk6dgkop4bCQX9KRj77yp1bZwNyZvBy82WKOMA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC37x99c7-MFsxwhBhkTX9Xw"
+    }
+  },
+  {
+    "id": "knowing-better",
+    "name": "Knowing Better",
+    "url": "https://www.youtube.com/@KnowingBetter",
+    "description": "History and myth-busting essays.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC8XjmAEDVZSCQjI150cb4QA"
+    },
+    "image": "https://yt3.googleusercontent.com/I3qHdceyYlX4Zc6ThQJQ_kHFczbkUsh4BeUldp_28d3h7wLG2PDJXhF_6uH1k5NUYOCa45Lh_Q=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8XjmAEDVZSCQjI150cb4QA"
+    }
+  },
+  {
+    "id": "primer",
+    "name": "Primer",
+    "url": "https://www.youtube.com/@PrimerBlobs",
+    "description": "Simulations explaining evolution and economics.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCKzJFdi57J53Vr_BkTfN3uQ"
+    },
+    "image": "https://yt3.googleusercontent.com/YicJ3lAVdXC5jI7SA7mnX7pPoULN2Gfgh_S4IgDPDPjLaeTx1vWiQeh-reCty2uWuoVK70K5Lg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ"
+    }
+  },
+  {
+    "id": "sam-o-nella-academy",
+    "name": "Sam O'Nella Academy",
+    "url": "https://www.youtube.com/@SamONellaAcademy",
+    "description": "Funny stick-figure history.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC1DTYW241WD64ah5BFWn4JA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_l6Uep21u0mI0cPOY5h2YMxXyRCajmvy62-TlrOaF0r-pQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1DTYW241WD64ah5BFWn4JA"
+    }
+  },
+  {
+    "id": "second-thought",
+    "name": "Second Thought",
+    "url": "https://www.youtube.com/@SecondThought",
+    "description": "Explainers on society and economics.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCJm2TgUqtK1_NLBrjNQ1P-w"
+    },
+    "image": "https://yt3.googleusercontent.com/jFtBqUEecOwuVnfYv2ptgUx5fVp8GuMpZCcrytKlpZg82SzUY7_CrD-tI4qLqEfyBbfAjc9MLQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJm2TgUqtK1_NLBrjNQ1P-w"
+    }
+  },
+  {
+    "id": "atlas-pro",
+    "name": "Atlas Pro",
+    "url": "https://www.youtube.com/@AtlasPro",
+    "description": "Geography explained.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC5xjDrmnS9CAOxSdRtSkVig"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mvlr9Hbe4AKd3O6OuCRupaDY40wE88qRhtJo2TdplYWg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5xjDrmnS9CAOxSdRtSkVig"
+    }
+  },
+  {
+    "id": "not-just-bikes",
+    "name": "Not Just Bikes",
+    "url": "https://www.youtube.com/@NotJustBikes",
+    "description": "Urban planning compared across countries.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC0intLFzLaudFG-xAvUEO-A"
+    },
+    "image": "https://yt3.googleusercontent.com/ZFNLKDUS39d0W0x_0Zfe-8DAg1WCvnic23kQn4mWd-130HcPF0PbYUSAI1BnDkZt73wHEpQ3TA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0intLFzLaudFG-xAvUEO-A"
+    }
+  },
+  {
+    "id": "city-beautiful",
+    "name": "City Beautiful",
+    "url": "https://www.youtube.com/@CityBeautiful",
+    "description": "Urban planning explained.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCGc8ZVCsrR3dAuhvUbkbToQ"
+    },
+    "image": "https://yt3.googleusercontent.com/V_p_uSGNkNk6nGGvy5npyNX8d9Z2Pyv66G2UXWuoBxHsBgy74-haa8WYw3VyBWtjY_iAuelZ3FE=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGc8ZVCsrR3dAuhvUbkbToQ"
+    }
+  },
+  {
+    "id": "adam-something",
+    "name": "Adam Something",
+    "url": "https://www.youtube.com/@AdamSomething",
+    "description": "Urbanism and politics with humour.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCcvfHa-GHSOHFAjU0-Ie57A"
+    },
+    "image": "https://yt3.googleusercontent.com/lQNsc7v8HOpFin1w0faekO--Yxh2J8F1s1WuGalBomc-Q8bECYVAUidHv8f6qj3oTpp0uaE-3E8=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcvfHa-GHSOHFAjU0-Ie57A"
+    }
+  },
+  {
+    "id": "tibees",
+    "name": "Tibees",
+    "url": "https://www.youtube.com/@tibees",
+    "description": "Science, maths and history of science.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "au",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC52kszkc08-acFOuogFl5jw"
+    },
+    "image": "https://yt3.googleusercontent.com/O6L-TLhDogT9E3ZqZ1JLL26KpD4nMnc5_uhBlAIAIQX3A1ZdDZk-p_5IoFJ5BbNDxI_l5_Wt=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC52kszkc08-acFOuogFl5jw"
+    }
+  },
+  {
+    "id": "real-science",
+    "name": "Real Science",
+    "url": "https://www.youtube.com/@RealScience",
+    "description": "Biology and nature explained.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC176GAQozKKjhz62H8u9vQQ"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_laXkwz2N1CloK3nQjouWj7uXLDgtXUbbmqlGpY7dDxFA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC176GAQozKKjhz62H8u9vQQ"
+    }
+  },
+  {
+    "id": "hank-green",
+    "name": "Hank Green",
+    "url": "https://www.youtube.com/@hankgreen",
+    "description": "Science news and curiosity from Hank Green.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC_dvqFmaVUj16kRKSLYBaSw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_m8iP07-HrFeeOJwfFSl6uTihlWuIkVGGkeL3F3R3sI4gA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_dvqFmaVUj16kRKSLYBaSw"
+    }
+  },
+  {
+    "id": "lindybeige",
+    "name": "Lindybeige",
+    "url": "https://www.youtube.com/@lindybeige",
+    "description": "Rambling, fascinating history talks.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC9pgQfOXRsp4UKrI8q0zjXQ"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_ktqdB4GaDpve8NF276KedcgYPa_uSOPHohXKY7C9lnK74=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9pgQfOXRsp4UKrI8q0zjXQ"
+    }
+  },
+  {
+    "id": "jared-owen",
+    "name": "Jared Owen",
+    "url": "https://www.youtube.com/@JaredOwen",
+    "description": "3D animations of how things work.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCbsfyGlrjrKQC0gbzK0-EiA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lnka0eFfoMdjhx8et8o7xqHGPma7jNXZXHBosNugHX5zHm=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbsfyGlrjrKQC0gbzK0-EiA"
+    }
+  },
+  {
+    "id": "animagraffs",
+    "name": "Animagraffs",
+    "url": "https://www.youtube.com/@Animagraffs",
+    "description": "Animated diagrams of machines.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCnZeeKO8qVdtkrA4-uKhtTw"
+    },
+    "image": "https://yt3.googleusercontent.com/uSnUfWRQFLrGvHoBzwIkxzRhUZfBpWqUz8zwS38nqZ68-o699cTBpOFd3K_Fxl0jsObuaJpY=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnZeeKO8qVdtkrA4-uKhtTw"
+    }
+  },
+  {
+    "id": "thoughty2",
+    "name": "Thoughty2",
+    "url": "https://www.youtube.com/@Thoughty2",
+    "description": "Fun facts with a British twist.",
+    "category": "explainers",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCRlICXvO4XR4HMeEB9JjDlA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_k7Wbmw4AERq68n0c3rwkb7WqF4KVdVsnVQ8FZA7rLSEI4=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA"
+    }
+  }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "id": "xkcd",
+    "name": "xkcd",
+    "url": "https://xkcd.com",
+    "description": "Stick-figure comics about science, maths and life.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "atom",
+      "url": "https://xkcd.com/atom.xml"
+    }
+  },
+  {
+    "id": "webtoon",
+    "name": "WEBTOON",
+    "url": "https://www.webtoons.com/en/",
+    "description": "Vertical webcomics in every genre.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "tapas",
+    "name": "Tapas",
+    "url": "https://tapas.io",
+    "description": "Webcomics and novels.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "gocomics",
+    "name": "GoComics",
+    "url": "https://www.gocomics.com",
+    "description": "Daily comic strips.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "calvin-and-hobbes",
+    "name": "Calvin and Hobbes",
+    "url": "https://www.gocomics.com/calvinandhobbes",
+    "description": "The classic strip about a boy and his tiger.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "peanuts",
+    "name": "Peanuts",
+    "url": "https://www.gocomics.com/peanuts",
+    "description": "Charlie Brown and Snoopy.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "garfield",
+    "name": "Garfield",
+    "url": "https://www.gocomics.com/garfield",
+    "description": "Simple daily gags about a lazy cat.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "saturday-morning-breakfast-cereal",
+    "name": "Saturday Morning Breakfast Cereal",
+    "url": "https://www.smbc-comics.com",
+    "description": "Nerdy one-panel and strip comics.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.smbc-comics.com/comic/rss"
+    }
+  },
+  {
+    "id": "the-oatmeal",
+    "name": "The Oatmeal",
+    "url": "https://theoatmeal.com",
+    "description": "Funny illustrated comics and stories.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://theoatmeal.com/feed/rss"
+    }
+  },
+  {
+    "id": "dinosaur-comics",
+    "name": "Dinosaur Comics",
+    "url": "https://www.qwantz.com",
+    "description": "The same six panels, new words every day.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://qwantz.com/rssfeed.php"
+    }
+  },
+  {
+    "id": "poorly-drawn-lines",
+    "name": "Poorly Drawn Lines",
+    "url": "https://poorlydrawnlines.com",
+    "description": "Absurd, simple comics.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://poorlydrawnlines.com/feed/"
+    }
+  },
+  {
+    "id": "cyanide-and-happiness",
+    "name": "Cyanide & Happiness",
+    "url": "https://explosm.net",
+    "description": "Dark-humour comics.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "hark-a-vagrant",
+    "name": "Hark! A Vagrant",
+    "url": "https://www.harkavagrant.com",
+    "description": "Comics about history and literature.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free"
+  },
+  {
+    "id": "questionable-content",
+    "name": "Questionable Content",
+    "url": "https://www.questionablecontent.net",
+    "description": "Long-running slice-of-life webcomic.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "penny-arcade",
+    "name": "Penny Arcade",
+    "url": "https://www.penny-arcade.com",
+    "description": "Gaming webcomic.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "lunarbaboon",
+    "name": "Lunarbaboon",
+    "url": "https://www.lunarbaboon.com",
+    "description": "Gentle comics about family life.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free"
+  },
+  {
+    "id": "loading-artist",
+    "name": "Loading Artist",
+    "url": "https://loadingartist.com",
+    "description": "Comics about everyday life.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "nz",
+    "pricing": "free"
+  },
+  {
+    "id": "mr-lovenstein",
+    "name": "Mr. Lovenstein",
+    "url": "https://www.mrlovenstein.com",
+    "description": "Short, quirky comics.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "buttersafe",
+    "name": "Buttersafe",
+    "url": "https://www.buttersafe.com",
+    "description": "Absurd comics.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.buttersafe.com/feed/"
+    }
+  },
+  {
+    "id": "pepperandcarrot",
+    "name": "Pepper&Carrot",
+    "url": "https://www.peppercarrot.com",
+    "description": "Free open-source fantasy comic about a young witch.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://www.davidrevoy.com/feed/en/rss"
+    }
+  },
+  {
+    "id": "girl-genius",
+    "name": "Girl Genius",
+    "url": "https://www.girlgeniusonline.com",
+    "description": "Gaslamp fantasy adventure.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "gunnerkrigg-court",
+    "name": "Gunnerkrigg Court",
+    "url": "https://www.gunnerkrigg.com",
+    "description": "Mysterious school fantasy.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.gunnerkrigg.com/rss.xml"
+    }
+  },
+  {
+    "id": "the-order-of-the-stick",
+    "name": "The Order of the Stick",
+    "url": "https://www.giantitp.com/comics/oots.html",
+    "description": "Fantasy role-playing comic.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "wondermark",
+    "name": "Wondermark",
+    "url": "https://wondermark.com",
+    "description": "Comics made from Victorian illustrations.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://wondermark.com/feed/"
+    }
+  },
+  {
+    "id": "existential-comics",
+    "name": "Existential Comics",
+    "url": "https://existentialcomics.com",
+    "description": "Comics about philosophers.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://existentialcomics.com/rss.xml"
+    }
+  },
+  {
+    "id": "war-and-peas",
+    "name": "War and Peas",
+    "url": "https://warandpeas.com",
+    "description": "Dark, surreal comics.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://warandpeas.com/feed/"
+    }
+  },
+  {
+    "id": "webcomic-name",
+    "name": "Webcomic Name",
+    "url": "https://webcomicname.com",
+    "description": "Oh no.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "beginner"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "lackadaisy",
+    "name": "Lackadaisy",
+    "url": "https://www.lackadaisy.com",
+    "description": "Prohibition-era cats.",
+    "category": "comics",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.lackadaisy.com/rss"
+    }
+  }
+]

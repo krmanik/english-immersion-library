@@ -1,0 +1,1589 @@
+[
+  {
+    "id": "bbc-news",
+    "name": "BBC News",
+    "url": "https://www.bbc.com/news",
+    "description": "World and UK news from the BBC.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "the-guardian",
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com",
+    "description": "Free British news, opinion and features, with no paywall.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://www.theguardian.com/international/rss"
+    }
+  },
+  {
+    "id": "reuters",
+    "name": "Reuters",
+    "url": "https://www.reuters.com",
+    "description": "International wire-service news written in plain, neutral English.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "login": "partial"
+  },
+  {
+    "id": "ap-news",
+    "name": "AP News",
+    "url": "https://apnews.com",
+    "description": "The Associated Press: clear, factual US and world news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "npr",
+    "name": "NPR",
+    "url": "https://www.npr.org",
+    "description": "National Public Radio news, with many stories in audio and text.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://feeds.npr.org/1002/rss.xml"
+    }
+  },
+  {
+    "id": "pbs-newshour",
+    "name": "PBS NewsHour",
+    "url": "https://www.pbs.org/newshour",
+    "description": "In-depth US news and interviews with full transcripts.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "subtitles": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://www.pbs.org/newshour/feeds/rss/headlines"
+    }
+  },
+  {
+    "id": "the-new-york-times",
+    "name": "The New York Times",
+    "url": "https://www.nytimes.com",
+    "description": "US and world news, analysis and features.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "the-washington-post",
+    "name": "The Washington Post",
+    "url": "https://www.washingtonpost.com",
+    "description": "US politics and national news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal",
+    "url": "https://www.wsj.com",
+    "description": "Business-focused US and world news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "paid",
+    "login": "required"
+  },
+  {
+    "id": "cnn",
+    "name": "CNN",
+    "url": "https://www.cnn.com",
+    "description": "US and international news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "nbc-news",
+    "name": "NBC News",
+    "url": "https://www.nbcnews.com",
+    "description": "US news from NBC.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "cbs-news",
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com",
+    "description": "US news from CBS.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "abc-news-us",
+    "name": "ABC News (US)",
+    "url": "https://abcnews.go.com",
+    "description": "US news from ABC.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "usa-today",
+    "name": "USA Today",
+    "url": "https://www.usatoday.com",
+    "description": "Short, accessible US national news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "los-angeles-times",
+    "name": "Los Angeles Times",
+    "url": "https://www.latimes.com",
+    "description": "California and national news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "login": "partial",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.latimes.com/index.rss"
+    }
+  },
+  {
+    "id": "politico",
+    "name": "Politico",
+    "url": "https://www.politico.com",
+    "description": "Politics and policy news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "axios",
+    "name": "Axios",
+    "url": "https://www.axios.com",
+    "description": "Short, bulleted news stories that are quick to read.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "the-hill",
+    "name": "The Hill",
+    "url": "https://thehill.com",
+    "description": "US politics news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "vox",
+    "name": "Vox",
+    "url": "https://www.vox.com",
+    "description": "Explanatory journalism on politics, policy and culture.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://www.vox.com/rss/index.xml"
+    }
+  },
+  {
+    "id": "propublica",
+    "name": "ProPublica",
+    "url": "https://www.propublica.org",
+    "description": "Nonprofit investigative journalism.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://www.propublica.org/feeds/propublica/main"
+    }
+  },
+  {
+    "id": "the-conversation",
+    "name": "The Conversation",
+    "url": "https://theconversation.com",
+    "description": "News analysis written by academics in plain language.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com",
+    "description": "International news with strong coverage of the Global South.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml"
+    }
+  },
+  {
+    "id": "dw-english",
+    "name": "DW English",
+    "url": "https://www.dw.com/en/",
+    "description": "Germany's international broadcaster in English.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "france-24-english",
+    "name": "France 24 English",
+    "url": "https://www.france24.com/en/",
+    "description": "French international news in English.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "euronews",
+    "name": "Euronews",
+    "url": "https://www.euronews.com",
+    "description": "European news in English.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "sky-news",
+    "name": "Sky News",
+    "url": "https://news.sky.com",
+    "description": "British 24-hour news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free"
+  },
+  {
+    "id": "the-independent",
+    "name": "The Independent",
+    "url": "https://www.independent.co.uk",
+    "description": "British news and opinion.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free"
+  },
+  {
+    "id": "the-telegraph",
+    "name": "The Telegraph",
+    "url": "https://www.telegraph.co.uk",
+    "description": "British news and opinion.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "the-times",
+    "name": "The Times",
+    "url": "https://www.thetimes.com",
+    "description": "British newspaper of record.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "paid",
+    "login": "required"
+  },
+  {
+    "id": "channel-4-news",
+    "name": "Channel 4 News",
+    "url": "https://www.channel4.com/news",
+    "description": "British news with long interviews.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.channel4.com/news/feed"
+    }
+  },
+  {
+    "id": "itv-news",
+    "name": "ITV News",
+    "url": "https://www.itv.com/news",
+    "description": "British news from ITV.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free"
+  },
+  {
+    "id": "the-i-paper",
+    "name": "The i Paper",
+    "url": "https://inews.co.uk",
+    "description": "Concise British news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free"
+  },
+  {
+    "id": "evening-standard",
+    "name": "Evening Standard",
+    "url": "https://www.standard.co.uk",
+    "description": "London news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.standard.co.uk/rss"
+    }
+  },
+  {
+    "id": "the-irish-times",
+    "name": "The Irish Times",
+    "url": "https://www.irishtimes.com",
+    "description": "Ireland's newspaper of record.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "ie",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "rt-news",
+    "name": "RTÉ News",
+    "url": "https://www.rte.ie/news/",
+    "description": "News from Ireland's national broadcaster.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ie",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://www.rte.ie/feeds/rss/?index=/news/"
+    }
+  },
+  {
+    "id": "thejournal-ie",
+    "name": "TheJournal.ie",
+    "url": "https://www.thejournal.ie",
+    "description": "Irish news site.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ie",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.thejournal.ie/feed/"
+    }
+  },
+  {
+    "id": "abc-news-australia",
+    "name": "ABC News (Australia)",
+    "url": "https://www.abc.net.au/news",
+    "description": "Australian and world news from the ABC.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "au",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "sbs-news",
+    "name": "SBS News",
+    "url": "https://www.sbs.com.au/news",
+    "description": "Australian multicultural broadcaster's news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "au",
+    "pricing": "free"
+  },
+  {
+    "id": "the-sydney-morning-herald",
+    "name": "The Sydney Morning Herald",
+    "url": "https://www.smh.com.au",
+    "description": "Sydney's newspaper.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "au",
+    "pricing": "freemium",
+    "login": "partial",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.smh.com.au/rss/feed.xml"
+    }
+  },
+  {
+    "id": "guardian-australia",
+    "name": "Guardian Australia",
+    "url": "https://www.theguardian.com/au",
+    "description": "The Guardian's Australian edition.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "au",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://www.theguardian.com/au/rss"
+    }
+  },
+  {
+    "id": "cbc-news",
+    "name": "CBC News",
+    "url": "https://www.cbc.ca/news",
+    "description": "Canadian news from the CBC.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "ctv-news",
+    "name": "CTV News",
+    "url": "https://www.ctvnews.ca",
+    "description": "Canadian news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free"
+  },
+  {
+    "id": "global-news",
+    "name": "Global News",
+    "url": "https://globalnews.ca",
+    "description": "Canadian news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://globalnews.ca/feed/"
+    }
+  },
+  {
+    "id": "the-globe-and-mail",
+    "name": "The Globe and Mail",
+    "url": "https://www.theglobeandmail.com",
+    "description": "Canada's national newspaper.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "paid",
+    "login": "partial"
+  },
+  {
+    "id": "rnz-news",
+    "name": "RNZ News",
+    "url": "https://www.rnz.co.nz/news",
+    "description": "New Zealand's public broadcaster.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "nz",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "nz-herald",
+    "name": "NZ Herald",
+    "url": "https://www.nzherald.co.nz",
+    "description": "New Zealand's largest newspaper.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "nz",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "the-spinoff",
+    "name": "The Spinoff",
+    "url": "https://thespinoff.co.nz",
+    "description": "New Zealand news, culture and explainers.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "nz",
+    "pricing": "free"
+  },
+  {
+    "id": "the-hindu",
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com",
+    "description": "Indian newspaper known for careful English.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "in",
+    "pricing": "freemium",
+    "login": "partial",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.thehindu.com/feeder/default.rss"
+    }
+  },
+  {
+    "id": "the-times-of-india",
+    "name": "The Times of India",
+    "url": "https://timesofindia.indiatimes.com",
+    "description": "India's largest English-language newspaper.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "in",
+    "pricing": "free"
+  },
+  {
+    "id": "hindustan-times",
+    "name": "Hindustan Times",
+    "url": "https://www.hindustantimes.com",
+    "description": "Indian news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "in",
+    "pricing": "free"
+  },
+  {
+    "id": "the-indian-express",
+    "name": "The Indian Express",
+    "url": "https://indianexpress.com",
+    "description": "Indian news and explainers.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "in",
+    "pricing": "free"
+  },
+  {
+    "id": "ndtv",
+    "name": "NDTV",
+    "url": "https://www.ndtv.com",
+    "description": "Indian news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "in",
+    "pricing": "free"
+  },
+  {
+    "id": "scroll-in",
+    "name": "Scroll.in",
+    "url": "https://scroll.in",
+    "description": "Indian news and long reads.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "in",
+    "pricing": "free"
+  },
+  {
+    "id": "news24",
+    "name": "News24",
+    "url": "https://www.news24.com",
+    "description": "South African news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "za",
+    "pricing": "free"
+  },
+  {
+    "id": "daily-maverick",
+    "name": "Daily Maverick",
+    "url": "https://www.dailymaverick.co.za",
+    "description": "South African news and investigations.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "za",
+    "pricing": "free"
+  },
+  {
+    "id": "mail-and-guardian",
+    "name": "Mail & Guardian",
+    "url": "https://mg.co.za",
+    "description": "South African news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "za",
+    "pricing": "free",
+    "feed": {
+      "format": "atom",
+      "url": "https://mg.co.za/atom/"
+    }
+  },
+  {
+    "id": "the-straits-times",
+    "name": "The Straits Times",
+    "url": "https://www.straitstimes.com",
+    "description": "Singapore's main newspaper.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "sg",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "cna",
+    "name": "CNA",
+    "url": "https://www.channelnewsasia.com",
+    "description": "Singapore-based Asian news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "sg",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "south-china-morning-post",
+    "name": "South China Morning Post",
+    "url": "https://www.scmp.com",
+    "description": "Hong Kong-based news on China and Asia.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "the-japan-times",
+    "name": "The Japan Times",
+    "url": "https://www.japantimes.co.jp",
+    "description": "Japan's English-language newspaper.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "the-kyiv-independent",
+    "name": "The Kyiv Independent",
+    "url": "https://kyivindependent.com",
+    "description": "Ukrainian news in English.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "time",
+    "name": "TIME",
+    "url": "https://time.com",
+    "description": "News magazine.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "newsweek",
+    "name": "Newsweek",
+    "url": "https://www.newsweek.com",
+    "description": "News magazine.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "the-week",
+    "name": "The Week",
+    "url": "https://theweek.com",
+    "description": "Summaries of the week's news from many sources.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "semafor",
+    "name": "Semafor",
+    "url": "https://www.semafor.com",
+    "description": "News that separates facts from analysis.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "the-christian-science-monitor",
+    "name": "The Christian Science Monitor",
+    "url": "https://www.csmonitor.com",
+    "description": "Calm, constructive news.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "slate",
+    "name": "Slate",
+    "url": "https://slate.com",
+    "description": "News, politics and culture commentary.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "huffpost",
+    "name": "HuffPost",
+    "url": "https://www.huffpost.com",
+    "description": "News and opinion.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "ground-news",
+    "name": "Ground News",
+    "url": "https://ground.news",
+    "description": "Compare how outlets across the spectrum cover each story.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium"
+  },
+  {
+    "id": "allsides",
+    "name": "AllSides",
+    "url": "https://www.allsides.com",
+    "description": "News from left, centre and right side by side.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "google-news",
+    "name": "Google News",
+    "url": "https://news.google.com",
+    "description": "News aggregator.",
+    "category": "news",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "1440-daily-digest",
+    "name": "1440 Daily Digest",
+    "url": "https://join1440.com",
+    "description": "Unbiased five-minute daily news email.",
+    "category": "news",
+    "type": "newsletter",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "the-skimm",
+    "name": "The Skimm",
+    "url": "https://www.theskimm.com",
+    "description": "Quick, casual daily news.",
+    "category": "news",
+    "type": "newsletter",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.theskimm.com/rss/feed.xml"
+    }
+  },
+  {
+    "id": "bbc-news-youtube",
+    "name": "BBC News (YouTube)",
+    "url": "https://www.youtube.com/@BBCNews",
+    "description": "BBC news reports and explainers.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UC16niRr50-MSBwiO3YDb3RA"
+    },
+    "image": "https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC16niRr50-MSBwiO3YDb3RA"
+    }
+  },
+  {
+    "id": "pbs-newshour-youtube",
+    "name": "PBS NewsHour (YouTube)",
+    "url": "https://www.youtube.com/@PBSNewsHour",
+    "description": "Full episodes and segments of PBS NewsHour.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UC6ZFN9Tx6xh-skXCuRHCDpQ"
+    },
+    "image": "https://yt3.googleusercontent.com/3qIMp79Z-ynhtXTYyNcdybHwvtILVk_jNMKTLbasP8F1UYCdtU-FFjTJPNGQCp5KZuNUQ62n9Gk=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ZFN9Tx6xh-skXCuRHCDpQ"
+    }
+  },
+  {
+    "id": "sky-news-youtube",
+    "name": "Sky News (YouTube)",
+    "url": "https://www.youtube.com/@SkyNews",
+    "description": "British news reports and live coverage.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCoMdktPbSTixAyNGwb-UYkQ"
+    },
+    "image": "https://yt3.googleusercontent.com/dGnkztdrLtXRlzkdqReeL-NES2761xxmNVcJhGKqFpR0vQBoP9XaxnXF95FDpwrjyFr2iJvV8Es=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoMdktPbSTixAyNGwb-UYkQ"
+    }
+  },
+  {
+    "id": "guardian-news",
+    "name": "Guardian News",
+    "url": "https://www.youtube.com/@guardiannews",
+    "description": "News clips and video journalism from the Guardian.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCIRYBXDze5krPDzAEOxFGVA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nDo1i4jEe90wqB2OCDy57NjTMVUHo1o7vFBjLzVzLeBQI=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIRYBXDze5krPDzAEOxFGVA"
+    }
+  },
+  {
+    "id": "cbc-news-youtube",
+    "name": "CBC News (YouTube)",
+    "url": "https://www.youtube.com/@CBCNews",
+    "description": "Canadian news clips and The National.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCuFFtHWoLl5fauMMD5Ww2jA"
+    },
+    "image": "https://yt3.googleusercontent.com/9bJu0WRWPRgja30h3i5gh3Mg4T94dVfcm6L8SEhjkM3j-AwqFKQZp1JxLhXpSVYzQjJTOXiw2vM=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuFFtHWoLl5fauMMD5Ww2jA"
+    }
+  },
+  {
+    "id": "abc-news-in-depth",
+    "name": "ABC News In-depth",
+    "url": "https://www.youtube.com/@ABCNewsIndepth",
+    "description": "Australian ABC documentaries and current affairs.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "au",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCxcrzzhQDj5zKJbXfIscCtg"
+    },
+    "image": "https://yt3.googleusercontent.com/ba728amzd4JE6Wv110CIvKp2XYdxsHiHHFr05Ic75XViA3-bSt9un6gGj1YvzuZccPgyMKW30w=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxcrzzhQDj5zKJbXfIscCtg"
+    }
+  },
+  {
+    "id": "channel-4-news-youtube",
+    "name": "Channel 4 News (YouTube)",
+    "url": "https://www.youtube.com/@Channel4News",
+    "description": "British news reports and interviews.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCTrQ7HXWRRxr7OsOtodr2_w"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mNdhtpAi0ZQmCqfkDSq6MQVdbfZe-c70nZ1qqdyQNzK3c=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTrQ7HXWRRxr7OsOtodr2_w"
+    }
+  },
+  {
+    "id": "dw-news",
+    "name": "DW News",
+    "url": "https://www.youtube.com/@dwnews",
+    "description": "German international news in English.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCknLrEdhRCp1aegoMqRaCZg"
+    },
+    "image": "https://yt3.googleusercontent.com/NSOdTQTWlqMy8O_j32dx-ftfTCHMOt04Hm7KZ4pfAK6-eQzQSZMWvvss90kG8KQfJ7iNP3phyA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCknLrEdhRCp1aegoMqRaCZg"
+    }
+  },
+  {
+    "id": "al-jazeera-english-youtube",
+    "name": "Al Jazeera English (YouTube)",
+    "url": "https://www.youtube.com/@aljazeeraenglish",
+    "description": "International news reports.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCNye-wNBqNL5ZzHSJj3l8Bg"
+    },
+    "image": "https://yt3.googleusercontent.com/XsTga3Nsfc1E6ZgC6HfHfzTG_3zhuZleOnsKxSK2aILMjwkkIm-0vdALFaU-yt0Lw07iLtbSifk=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNye-wNBqNL5ZzHSJj3l8Bg"
+    }
+  },
+  {
+    "id": "nbc-news-youtube",
+    "name": "NBC News (YouTube)",
+    "url": "https://www.youtube.com/@NBCNews",
+    "description": "US news clips.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCeY0bbntWzzVIaj2z3QigXg"
+    },
+    "image": "https://yt3.googleusercontent.com/PJj5jtuEOi5UmkFy4IBonj5WcabNcnJAIJe-jZMd1ArwIuVyQxFH_2zryBHwvfv6mJujwRpWDCM=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeY0bbntWzzVIaj2z3QigXg"
+    }
+  },
+  {
+    "id": "associated-press-youtube",
+    "name": "Associated Press (YouTube)",
+    "url": "https://www.youtube.com/@AssociatedPress",
+    "description": "AP news video.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC52X5wxOL_s5yw0dQk7NtgA"
+    },
+    "image": "https://yt3.googleusercontent.com/I2UXf4n7ukd9hl7UQDsPKN0QXQ9X_NoujZfOY_qPhbBwyJv-K3-rFsrWIDGc3CFylr2cL2c7=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC52X5wxOL_s5yw0dQk7NtgA"
+    }
+  },
+  {
+    "id": "reuters-youtube",
+    "name": "Reuters (YouTube)",
+    "url": "https://www.youtube.com/@Reuters",
+    "description": "Reuters news video.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UChqUTb7kYRX8-EiaN3XFrSQ"
+    },
+    "image": "https://yt3.googleusercontent.com/bCcVVrrV0EhGFJKsSvmeZHA9Y-YzSL9Keqrrr0HWYUPQy3-mVUVNHMbjwt7IoVkpsHt4E6BZ3pM=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChqUTb7kYRX8-EiaN3XFrSQ"
+    }
+  },
+  {
+    "id": "vice-news",
+    "name": "VICE News",
+    "url": "https://www.youtube.com/@VICENews",
+    "description": "Documentary-style news reports.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCZaT_X_mc0BI-djXOlfhqWQ"
+    },
+    "image": "https://yt3.googleusercontent.com/5-T_4OQwbVFrezPHUc3VP3wCyqo8nZ-VMOpJA_nppoxnZ6IhSVx1PrJPgfFkxD4Z8c5eDuQ9XQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZaT_X_mc0BI-djXOlfhqWQ"
+    }
+  },
+  {
+    "id": "wion",
+    "name": "WION",
+    "url": "https://www.youtube.com/@WION",
+    "description": "Indian international news channel.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "in",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC_gUM8rL-Lrg6O3adPW9K1g"
+    },
+    "image": "https://yt3.googleusercontent.com/evxeFzRem76hjPRh_S_B5MvjNhl4yKjSrIzmvwFx3nyEWHBOPHA4jTum6Yys3HRR0IvYmWud=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_gUM8rL-Lrg6O3adPW9K1g"
+    }
+  },
+  {
+    "id": "ndtv-youtube",
+    "name": "NDTV (YouTube)",
+    "url": "https://www.youtube.com/@ndtv",
+    "description": "Indian news video.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "in",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCZFMm1mMw0F81Z37aaEzTUA"
+    },
+    "image": "https://yt3.googleusercontent.com/mOb3OXPZO0-7LmZ0Y4o_wz2imPJ7aFa_isYXg0awkLyL1ehglmsiQD4rWxwrUrfXLK9jlh35=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZFMm1mMw0F81Z37aaEzTUA"
+    }
+  },
+  {
+    "id": "cna-youtube",
+    "name": "CNA (YouTube)",
+    "url": "https://www.youtube.com/@channelnewsasia",
+    "description": "Asian news and documentaries from Singapore.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "sg",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC83jt4dlz1Gjl58fzQrrKZg"
+    },
+    "image": "https://yt3.googleusercontent.com/-rE0W1GTFDHNy9pd2pkbItVQM6Jcp_hWwD4pUURoArQ2TvZ1TFernWqXFGJXKIYTN5IQtnxkUA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC83jt4dlz1Gjl58fzQrrKZg"
+    }
+  },
+  {
+    "id": "france-24-english-youtube",
+    "name": "FRANCE 24 English (YouTube)",
+    "url": "https://www.youtube.com/@FRANCE24English",
+    "description": "French international news in English.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "tldr-news",
+    "name": "TLDR News",
+    "url": "https://www.youtube.com/@TLDRnews",
+    "description": "Short explainers on UK and world politics.",
+    "category": "news",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCSMqateX8OA2s1wsOR2EgJA"
+    },
+    "image": "https://yt3.googleusercontent.com/ul2Or_OR2Qr6_icYec8PkPCcO9WLQQnFlMnb2ArWAmGO1SSCWaWPJBhSzL8lxB70QXdRQ9BS=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSMqateX8OA2s1wsOR2EgJA"
+    }
+  }
+]

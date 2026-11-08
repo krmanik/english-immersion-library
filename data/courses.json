@@ -1,0 +1,582 @@
+[
+  {
+    "id": "british-council-learnenglish",
+    "name": "British Council LearnEnglish",
+    "url": "https://learnenglish.britishcouncil.org",
+    "description": "Free lessons, grammar, vocabulary, listening and reading by CEFR level.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "tags": [
+      "grammar"
+    ],
+    "for_learners": true,
+    "recommended": true
+  },
+  {
+    "id": "bbc-learning-english-website",
+    "name": "BBC Learning English (website)",
+    "url": "https://www.bbc.co.uk/learningenglish",
+    "description": "Courses, grammar, pronunciation and news lessons with audio and video.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "for_learners": true,
+    "subtitles": "free",
+    "recommended": true
+  },
+  {
+    "id": "usa-learns",
+    "name": "USA Learns",
+    "url": "https://www.usalearns.org",
+    "description": "Free video-based English courses for adult beginners.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "for_learners": true,
+    "login": "required",
+    "recommended": false
+  },
+  {
+    "id": "american-english-us-state-department",
+    "name": "American English (US State Department)",
+    "url": "https://americanenglish.state.gov",
+    "description": "Free materials for learners and teachers of American English.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "for_learners": true
+  },
+  {
+    "id": "perfect-english-grammar",
+    "name": "Perfect English Grammar",
+    "url": "https://www.perfect-english-grammar.com",
+    "description": "Clear grammar explanations with free exercises.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "tags": [
+      "grammar"
+    ],
+    "for_learners": true,
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://www.perfect-english-grammar.com/english-grammar.xml"
+    }
+  },
+  {
+    "id": "englishclub",
+    "name": "EnglishClub",
+    "url": "https://www.englishclub.com",
+    "description": "Grammar, vocabulary, lessons and games for learners.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "for_learners": true
+  },
+  {
+    "id": "purdue-owl",
+    "name": "Purdue OWL",
+    "url": "https://owl.purdue.edu",
+    "description": "The classic guide to academic writing, citation and grammar.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "writing"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "engvid-website",
+    "name": "engVid (website)",
+    "url": "https://www.engvid.com",
+    "description": "Free video lessons with quizzes, organised by topic and level.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "for_learners": true,
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://www.engvid.com/feed/"
+    }
+  },
+  {
+    "id": "elllo",
+    "name": "ELLLO",
+    "url": "https://elllo.org",
+    "description": "Thousands of free listening lessons with real speakers from around the world.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "listening"
+    ],
+    "for_learners": true,
+    "subtitles": "free",
+    "recommended": true
+  },
+  {
+    "id": "randall-s-esl-cyber-listening-lab",
+    "name": "Randall's ESL Cyber Listening Lab",
+    "url": "https://www.esl-lab.com",
+    "description": "Listening quizzes with dialogues at three levels.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "listening"
+    ],
+    "for_learners": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://www.esl-lab.com/feed/"
+    }
+  },
+  {
+    "id": "khan-academy-grammar",
+    "name": "Khan Academy Grammar",
+    "url": "https://www.khanacademy.org/humanities/grammar",
+    "description": "Video lessons and exercises on English grammar.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "grammar"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "grammar-monster",
+    "name": "Grammar Monster",
+    "url": "https://www.grammar-monster.com",
+    "description": "Grammar and punctuation explained with tests.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "tags": [
+      "grammar"
+    ]
+  },
+  {
+    "id": "ego4u",
+    "name": "Ego4u",
+    "url": "https://www.ego4u.com",
+    "description": "Grammar explanations, tests and exercises.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "grammar"
+    ],
+    "for_learners": true
+  },
+  {
+    "id": "englishpage-com",
+    "name": "Englishpage.com",
+    "url": "https://www.englishpage.com",
+    "description": "Online grammar book and verb-tense tutorial.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "grammar"
+    ],
+    "for_learners": true
+  },
+  {
+    "id": "usingenglish-com",
+    "name": "UsingEnglish.com",
+    "url": "https://www.usingenglish.com",
+    "description": "Grammar, idioms, phrasal verbs and ESL resources.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "for_learners": true
+  },
+  {
+    "id": "learn-english-feel-good",
+    "name": "Learn English Feel Good",
+    "url": "https://www.learnenglishfeelgood.com",
+    "description": "Grammar and vocabulary exercises for ESL learners.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "for_learners": true
+  },
+  {
+    "id": "test-english",
+    "name": "Test-English",
+    "url": "https://test-english.com",
+    "description": "Grammar, reading, listening and exam practice by level.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "for_learners": true
+  },
+  {
+    "id": "lingolia-english",
+    "name": "Lingolia English",
+    "url": "https://english.lingolia.com",
+    "description": "Clear grammar explanations with exercises.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium",
+    "tags": [
+      "grammar"
+    ],
+    "for_learners": true,
+    "feed": {
+      "format": "atom",
+      "url": "https://www.lingolia.com/share/feed-en.xml"
+    }
+  },
+  {
+    "id": "agenda-web",
+    "name": "Agenda Web",
+    "url": "https://agendaweb.org",
+    "description": "Huge collection of free exercises sorted by topic.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "for_learners": true
+  },
+  {
+    "id": "oxford-online-english-website",
+    "name": "Oxford Online English (website)",
+    "url": "https://www.oxfordonlineenglish.com",
+    "description": "Free video lessons with transcripts plus paid online classes.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "freemium",
+    "for_learners": true
+  },
+  {
+    "id": "english-grammar-profile",
+    "name": "English Grammar Profile",
+    "url": "https://www.englishprofile.org/english-grammar-profile",
+    "description": "What learners can do with English grammar at each CEFR level.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "tags": [
+      "cefr"
+    ]
+  },
+  {
+    "id": "grammarly-blog",
+    "name": "Grammarly Blog",
+    "url": "https://www.grammarly.com/blog/",
+    "description": "Articles on grammar, punctuation and clear writing.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "writing"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://www.grammarly.com/blog/feed/"
+    }
+  },
+  {
+    "id": "daily-writing-tips",
+    "name": "Daily Writing Tips",
+    "url": "https://www.dailywritingtips.com",
+    "description": "Short posts on usage, punctuation and style.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "writing"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://www.dailywritingtips.com/feed/"
+    }
+  },
+  {
+    "id": "plain-language",
+    "name": "Plain Language",
+    "url": "https://www.plainlanguage.gov",
+    "description": "US government guidelines for clear, simple writing.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "writing"
+    ]
+  },
+  {
+    "id": "guardian-and-observer-style-guide",
+    "name": "Guardian and Observer Style Guide",
+    "url": "https://www.theguardian.com/guardian-observer-style-guide-a",
+    "description": "The Guardian's A–Z guide to British English usage.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "tags": [
+      "writing"
+    ]
+  },
+  {
+    "id": "coursera-learn-english",
+    "name": "Coursera: Learn English",
+    "url": "https://www.coursera.org/browse/language-learning/learning-english",
+    "description": "University English courses; free to audit, paid certificates.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium",
+    "login": "required"
+  },
+  {
+    "id": "bbc-bitesize",
+    "name": "BBC Bitesize",
+    "url": "https://www.bbc.co.uk/bitesize",
+    "description": "Short lessons on every school subject in clear British English.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "open-culture-free-language-lessons",
+    "name": "Open Culture: Free Language Lessons",
+    "url": "https://www.openculture.com/freelanguagelessons",
+    "description": "Directory of free English lessons and courses.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.openculture.com/feed"
+    }
+  },
+  {
+    "id": "language-log",
+    "name": "Language Log",
+    "url": "https://languagelog.ldc.upenn.edu",
+    "description": "Linguists blog about English usage, grammar myths and language in the news.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "linguistics"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2"
+    }
+  },
+  {
+    "id": "separated-by-a-common-language",
+    "name": "Separated by a Common Language",
+    "url": "https://separatedbyacommonlanguage.blogspot.com",
+    "description": "A linguist's blog comparing British and American English.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "british-vs-american"
+    ],
+    "feed": {
+      "format": "atom",
+      "url": "https://separatedbyacommonlanguage.blogspot.com/feeds/posts/default"
+    }
+  },
+  {
+    "id": "writing-commons",
+    "name": "Writing Commons",
+    "url": "https://writingcommons.org",
+    "description": "Open textbook on writing, research and style.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "writing"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://writingcommons.org/feed/"
+    }
+  },
+  {
+    "id": "elements-of-style",
+    "name": "Elements of Style",
+    "url": "https://www.bartleby.com/lit-hub/the-elements-of-style/",
+    "description": "Strunk's classic short guide to clear writing.",
+    "category": "courses",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "writing"
+    ]
+  }
+]

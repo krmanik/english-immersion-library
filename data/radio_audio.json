@@ -1,0 +1,264 @@
+[
+  {
+    "id": "librivox",
+    "name": "LibriVox",
+    "url": "https://librivox.org",
+    "description": "Free public-domain audiobooks read by volunteers.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "bbc-sounds",
+    "name": "BBC Sounds",
+    "url": "https://www.bbc.co.uk/sounds",
+    "description": "BBC radio, podcasts and audio drama.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "bbc-world-service",
+    "name": "BBC World Service",
+    "url": "https://www.bbc.co.uk/worldserviceradio",
+    "description": "International radio from the BBC.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "abc-listen",
+    "name": "ABC listen",
+    "url": "https://www.abc.net.au/listen",
+    "description": "Australian ABC radio and podcasts.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "au",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "cbc-listen",
+    "name": "CBC Listen",
+    "url": "https://www.cbc.ca/listen",
+    "description": "CBC radio and podcasts.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free"
+  },
+  {
+    "id": "rnz",
+    "name": "RNZ",
+    "url": "https://www.rnz.co.nz",
+    "description": "New Zealand public radio.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "nz",
+    "pricing": "free"
+  },
+  {
+    "id": "rt-radio-1",
+    "name": "RTÉ Radio 1",
+    "url": "https://www.rte.ie/radio/radio1/",
+    "description": "Irish national radio.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ie",
+    "pricing": "free"
+  },
+  {
+    "id": "radio-garden",
+    "name": "Radio Garden",
+    "url": "https://radio.garden",
+    "description": "Spin a globe to listen to live radio anywhere.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "tunein",
+    "name": "TuneIn",
+    "url": "https://tunein.com",
+    "description": "Live radio and podcasts.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium"
+  },
+  {
+    "id": "audible",
+    "name": "Audible",
+    "url": "https://www.audible.com",
+    "description": "Audiobook store and subscription.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "paid",
+    "login": "required"
+  },
+  {
+    "id": "lit2go",
+    "name": "Lit2Go",
+    "url": "https://etc.usf.edu/lit2go/",
+    "description": "Free classic audiobooks with matching text.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "subtitles": "free",
+    "recommended": true
+  },
+  {
+    "id": "loyal-books",
+    "name": "Loyal Books",
+    "url": "https://www.loyalbooks.com",
+    "description": "Free public-domain audiobooks.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "old-time-radio-researchers",
+    "name": "Old Time Radio Researchers",
+    "url": "https://otrr.org",
+    "description": "Classic radio dramas and comedies.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "wnyc",
+    "name": "WNYC",
+    "url": "https://www.wnyc.org",
+    "description": "New York public radio.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "wbur",
+    "name": "WBUR",
+    "url": "https://www.wbur.org",
+    "description": "Boston public radio.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "prx",
+    "name": "PRX",
+    "url": "https://www.prx.org",
+    "description": "Public radio stories and podcasts.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "storytel",
+    "name": "Storytel",
+    "url": "https://www.storytel.com",
+    "description": "Audiobook subscription.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "paid",
+    "login": "required"
+  },
+  {
+    "id": "libro-fm",
+    "name": "Libro.fm",
+    "url": "https://libro.fm",
+    "description": "Audiobooks supporting local bookstores.",
+    "category": "radio_audio",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "paid",
+    "login": "required"
+  }
+]

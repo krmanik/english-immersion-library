@@ -1,0 +1,255 @@
+[
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "url": "https://www.reddit.com",
+    "description": "Communities on every topic.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "login": "partial"
+  },
+  {
+    "id": "r-askreddit",
+    "name": "r/AskReddit",
+    "url": "https://www.reddit.com/r/AskReddit/",
+    "description": "Questions and thousands of answers in casual English.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "r-explainlikeimfive",
+    "name": "r/explainlikeimfive",
+    "url": "https://www.reddit.com/r/explainlikeimfive/",
+    "description": "Complex topics explained simply.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "r-todayilearned",
+    "name": "r/todayilearned",
+    "url": "https://www.reddit.com/r/todayilearned/",
+    "description": "Interesting facts with discussion.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "r-askhistorians",
+    "name": "r/AskHistorians",
+    "url": "https://www.reddit.com/r/AskHistorians/",
+    "description": "Expert answers to history questions.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "r-askscience",
+    "name": "r/askscience",
+    "url": "https://www.reddit.com/r/askscience/",
+    "description": "Scientists answer questions.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "r-casualconversation",
+    "name": "r/CasualConversation",
+    "url": "https://www.reddit.com/r/CasualConversation/",
+    "description": "Friendly small talk.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "r-nostupidquestions",
+    "name": "r/NoStupidQuestions",
+    "url": "https://www.reddit.com/r/NoStupidQuestions/",
+    "description": "Ask anything.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "r-outoftheloop",
+    "name": "r/OutOfTheLoop",
+    "url": "https://www.reddit.com/r/OutOfTheLoop/",
+    "description": "Explanations of internet trends and news.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "quora",
+    "name": "Quora",
+    "url": "https://www.quora.com",
+    "description": "Questions and answers.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "login": "partial"
+  },
+  {
+    "id": "stack-exchange",
+    "name": "Stack Exchange",
+    "url": "https://stackexchange.com",
+    "description": "Q&A communities on many topics.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "tumblr",
+    "name": "Tumblr",
+    "url": "https://www.tumblr.com",
+    "description": "Blogs and fandom culture.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "login": "partial"
+  },
+  {
+    "id": "mastodon",
+    "name": "Mastodon",
+    "url": "https://joinmastodon.org",
+    "description": "Decentralised social network.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "bluesky",
+    "name": "Bluesky",
+    "url": "https://bsky.app",
+    "description": "Social network similar to early Twitter.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "login": "partial"
+  },
+  {
+    "id": "metafilter",
+    "name": "MetaFilter",
+    "url": "https://www.metafilter.com",
+    "description": "Long-running community weblog.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "tildes",
+    "name": "Tildes",
+    "url": "https://tildes.net",
+    "description": "Thoughtful discussion community.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "feed": {
+      "format": "atom",
+      "url": "https://tildes.net/topics.atom"
+    }
+  },
+  {
+    "id": "lemmy",
+    "name": "Lemmy",
+    "url": "https://join-lemmy.org",
+    "description": "Decentralised link aggregator.",
+    "category": "social",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://join-lemmy.org/feed.xml"
+    }
+  }
+]

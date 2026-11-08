@@ -1,0 +1,511 @@
+[
+  {
+    "id": "rick-steves-europe",
+    "name": "Rick Steves' Europe",
+    "url": "https://www.youtube.com/@RickSteves",
+    "description": "Classic European travel shows.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "wolters-world",
+    "name": "Wolters World",
+    "url": "https://www.youtube.com/@WoltersWorld",
+    "description": "Travel tips and what not to do.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCFr3sz2t3bDp6Cux08B93KQ"
+    },
+    "image": "https://yt3.googleusercontent.com/StnHj83FLWH3wmBUNT46RAlWEED0R4jXDbzFpA--APYKauHye6gKHg60gWWzgf5YrnLIptuh=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFr3sz2t3bDp6Cux08B93KQ"
+    }
+  },
+  {
+    "id": "mark-wiens",
+    "name": "Mark Wiens",
+    "url": "https://www.youtube.com/@MarkWiens",
+    "description": "Food travel around the world.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCyEd6QBSgat5kkC6svyjudA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_l5kBueFnVEGQPnVudhsy3mCw1fMiasD0gibo-OF7FDCtSP=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyEd6QBSgat5kkC6svyjudA"
+    }
+  },
+  {
+    "id": "drew-binsky",
+    "name": "Drew Binsky",
+    "url": "https://www.youtube.com/@DrewBinsky",
+    "description": "Visiting every country.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC0Ize0RLIbGdH5x4wI45G-A"
+    },
+    "image": "https://yt3.googleusercontent.com/VCZmgTUILsHKyibr4m9W-bYkDhWPZtjcq3cksdTgtM3iVDMqHnXh0_M5hQoXLlFHRBeK9q7I=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0Ize0RLIbGdH5x4wI45G-A"
+    }
+  },
+  {
+    "id": "eva-zu-beck",
+    "name": "Eva zu Beck",
+    "url": "https://www.youtube.com/@EvazuBeck",
+    "description": "Adventure travel.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCDTINI9skkeZNY2ZXnBqIkQ"
+    },
+    "image": "https://yt3.googleusercontent.com/9BfzWV4mM_VTgYpHFgH62HZ_bTYjv79RFbJZBwPXhWKl3DNv1zG38yg36_JH6ATD5ysT29Qv=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDTINI9skkeZNY2ZXnBqIkQ"
+    }
+  },
+  {
+    "id": "lost-leblanc",
+    "name": "Lost LeBlanc",
+    "url": "https://www.youtube.com/@LostLeBlanc",
+    "description": "Travel films.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "ca",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCt_NLJ4McJlCyYM-dSPRo7Q"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nJUxaCrEA5dOWiEYwFbK82Trc2nnnkw4aYVLHufXd8TXM=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCt_NLJ4McJlCyYM-dSPRo7Q"
+    }
+  },
+  {
+    "id": "indigo-traveller",
+    "name": "Indigo Traveller",
+    "url": "https://www.youtube.com/@IndigoTraveller",
+    "description": "Travel to unusual places.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "nz",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCXulruMI7BHj3kGyosNa0jA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kmRrFnZE2uSMYLVXIr-262g1_BSFfoUYN_OQZb56yKQgY=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXulruMI7BHj3kGyosNa0jA"
+    }
+  },
+  {
+    "id": "bald-and-bankrupt",
+    "name": "Bald and Bankrupt",
+    "url": "https://www.youtube.com/@baldandbankrupt",
+    "description": "Backpacking off the beaten track.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCxDZs_ltFFvn0FDHT6kmoXA"
+    },
+    "image": "https://yt3.googleusercontent.com/luPuR5_rKYo9ghKH4I9bCTD6ZE3C0hYp29UHkhXbT_j_fnHsYTTfwMiUbTcyqf5PAurP5FHjZw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxDZs_ltFFvn0FDHT6kmoXA"
+    }
+  },
+  {
+    "id": "sailing-la-vagabonde",
+    "name": "Sailing La Vagabonde",
+    "url": "https://www.youtube.com/@SailingLaVagabonde",
+    "description": "Sailing around the world.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "au",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCZdQjaSoLjIzFnWsDQOv4ww"
+    },
+    "image": "https://yt3.googleusercontent.com/idehYrFJqFfE-LL6offHIhZJlc28vwSd881LKYH-F9vEgtUWTpmDLbiZ08nD6_w_3a89R7hE=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZdQjaSoLjIzFnWsDQOv4ww"
+    }
+  },
+  {
+    "id": "geowizard",
+    "name": "GeoWizard",
+    "url": "https://www.youtube.com/@GeoWizard",
+    "description": "Walking in straight lines and geography challenges.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCW5OrUZ4SeUYkUg1XqcjFYA"
+    },
+    "image": "https://yt3.googleusercontent.com/_3UOC-R5zgtyzI6aviBzcguD0oS7joetoo1FwxGVb1gl16rt_nGj3q254uVi9L2xhzsWQbSRIg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW5OrUZ4SeUYkUg1XqcjFYA"
+    }
+  },
+  {
+    "id": "abroad-in-japan",
+    "name": "Abroad in Japan",
+    "url": "https://www.youtube.com/@AbroadinJapan",
+    "description": "Funny British take on life in Japan.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCHL9bfHTxCMi-7vfxQ-AYtg"
+    },
+    "image": "https://yt3.googleusercontent.com/I9vESrXdD_HEmY6MUs8Twi9WVYuGF2vovbKxr7mnO9bz_-FnulWR-yuByMS7KYlzlU8GEaJknDQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHL9bfHTxCMi-7vfxQ-AYtg"
+    }
+  },
+  {
+    "id": "paolo-fromtokyo",
+    "name": "Paolo fromTOKYO",
+    "url": "https://www.youtube.com/@paolofromTOKYO",
+    "description": "Life and work in Japan.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCixD9UbKvDxzGNiPC_fgHyA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_l9NeDv3Ltbd4CYlVantFOI-4PLyIF1RoDU1wSpFzjG4X8=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCixD9UbKvDxzGNiPC_fgHyA"
+    }
+  },
+  {
+    "id": "best-ever-food-review-show",
+    "name": "Best Ever Food Review Show",
+    "url": "https://www.youtube.com/@BestEverFoodReviewShow",
+    "description": "Street food around the world.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCcAd5Np7fO8SeejB1FVKcYw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mHxfKz3n2cuQ7EAgJCsW577qgJb5-edooq-8e71txjKfQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcAd5Np7fO8SeejB1FVKcYw"
+    }
+  },
+  {
+    "id": "kurt-caz",
+    "name": "Kurt Caz",
+    "url": "https://www.youtube.com/@KurtCaz",
+    "description": "Exploring cities.",
+    "category": "travel",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "za",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC29vLPlafHcsqZu3L-Rk_pA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mp2kJV1gRrKgZrFe3F4IQ2obaAJk9k9JNd_ZdgMN8HYVKn=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC29vLPlafHcsqZu3L-Rk_pA"
+    }
+  },
+  {
+    "id": "lonely-planet",
+    "name": "Lonely Planet",
+    "url": "https://www.lonelyplanet.com",
+    "description": "Travel guides and articles.",
+    "category": "travel",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "atlas-obscura",
+    "name": "Atlas Obscura",
+    "url": "https://www.atlasobscura.com",
+    "description": "Hidden wonders of the world.",
+    "category": "travel",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "rick-steves-website",
+    "name": "Rick Steves (website)",
+    "url": "https://www.ricksteves.com",
+    "description": "European travel guides.",
+    "category": "travel",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "nomadic-matt",
+    "name": "Nomadic Matt",
+    "url": "https://www.nomadicmatt.com",
+    "description": "Budget travel guides.",
+    "category": "travel",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.nomadicmatt.com/feed/"
+    }
+  },
+  {
+    "id": "wikivoyage",
+    "name": "Wikivoyage",
+    "url": "https://en.wikivoyage.org",
+    "description": "Free travel guide.",
+    "category": "travel",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "cond-nast-traveler",
+    "name": "Condé Nast Traveler",
+    "url": "https://www.cntraveler.com",
+    "description": "Luxury travel.",
+    "category": "travel",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.cntraveler.com/feed/rss"
+    }
+  },
+  {
+    "id": "travel-leisure",
+    "name": "Travel + Leisure",
+    "url": "https://www.travelandleisure.com",
+    "description": "Travel news and guides.",
+    "category": "travel",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "the-man-in-seat-61",
+    "name": "The Man in Seat 61",
+    "url": "https://www.seat61.com",
+    "description": "Train travel guides.",
+    "category": "travel",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "the-points-guy",
+    "name": "The Points Guy",
+    "url": "https://thepointsguy.com",
+    "description": "Travel rewards and airlines.",
+    "category": "travel",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  }
+]

@@ -1,0 +1,712 @@
+[
+  {
+    "id": "history-today",
+    "name": "History Today",
+    "url": "https://www.historytoday.com",
+    "description": "Serious history magazine.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "freemium",
+    "login": "partial"
+  },
+  {
+    "id": "history-com",
+    "name": "History.com",
+    "url": "https://www.history.com",
+    "description": "History articles and videos.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free"
+  },
+  {
+    "id": "jstor-daily",
+    "name": "JSTOR Daily",
+    "url": "https://daily.jstor.org",
+    "description": "Articles grounded in scholarly research.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "the-public-domain-review",
+    "name": "The Public Domain Review",
+    "url": "https://publicdomainreview.org",
+    "description": "Essays on curious works from the public domain.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://publicdomainreview.org/rss.xml"
+    }
+  },
+  {
+    "id": "colossal",
+    "name": "Colossal",
+    "url": "https://www.thisiscolossal.com",
+    "description": "Art and visual culture.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.thisiscolossal.com/feed/"
+    }
+  },
+  {
+    "id": "hyperallergic",
+    "name": "Hyperallergic",
+    "url": "https://hyperallergic.com",
+    "description": "Art news and criticism.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://hyperallergic.com/rss/"
+    }
+  },
+  {
+    "id": "open-culture",
+    "name": "Open Culture",
+    "url": "https://www.openculture.com",
+    "description": "Free cultural and educational media.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://www.openculture.com/feed"
+    }
+  },
+  {
+    "id": "google-arts-and-culture",
+    "name": "Google Arts & Culture",
+    "url": "https://artsandculture.google.com",
+    "description": "Museum collections and stories.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "the-met",
+    "name": "The Met",
+    "url": "https://www.metmuseum.org",
+    "description": "The Metropolitan Museum's collection and essays.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "the-british-museum",
+    "name": "The British Museum",
+    "url": "https://www.britishmuseum.org",
+    "description": "Collection and blog.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free"
+  },
+  {
+    "id": "smarthistory",
+    "name": "Smarthistory",
+    "url": "https://smarthistory.org",
+    "description": "Free art history from experts.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "world-history-encyclopedia",
+    "name": "World History Encyclopedia",
+    "url": "https://www.worldhistory.org",
+    "description": "Free history encyclopedia.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "recommended": true
+  },
+  {
+    "id": "mental-floss",
+    "name": "Mental Floss",
+    "url": "https://www.mentalfloss.com",
+    "description": "Fun facts and trivia.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.mentalfloss.com/feed"
+    }
+  },
+  {
+    "id": "bbc-culture",
+    "name": "BBC Culture",
+    "url": "https://www.bbc.com/culture",
+    "description": "Arts and culture stories.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free"
+  },
+  {
+    "id": "dezeen",
+    "name": "Dezeen",
+    "url": "https://www.dezeen.com",
+    "description": "Architecture and design.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free"
+  },
+  {
+    "id": "historyextra",
+    "name": "HistoryExtra",
+    "url": "https://www.historyextra.com",
+    "description": "BBC History Magazine online.",
+    "category": "history_culture",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.historyextra.com/feed"
+    }
+  },
+  {
+    "id": "kings-and-generals",
+    "name": "Kings and Generals",
+    "url": "https://www.youtube.com/@KingsandGenerals",
+    "description": "Animated military history.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCMmaBzfCCwZ2KqaBJjkj0fw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lo5TWZUjPdOo49NiOvKzq_m9R5ruRv5BglNvwmUi9ywtqA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMmaBzfCCwZ2KqaBJjkj0fw"
+    }
+  },
+  {
+    "id": "historia-civilis",
+    "name": "Historia Civilis",
+    "url": "https://www.youtube.com/@HistoriaCivilis",
+    "description": "Roman history with simple animated maps.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCv_vLHiWVBh_FR9vbeuiY-A"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_n28SRk_JeipTsTESEnZjAVq6Ycq-jM5VzWNOqNtMt-0lg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCv_vLHiWVBh_FR9vbeuiY-A"
+    }
+  },
+  {
+    "id": "extra-history",
+    "name": "Extra History",
+    "url": "https://www.youtube.com/@ExtraHistory",
+    "description": "Animated history stories.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCCODtTcd5M1JavPCOr_Uydg"
+    },
+    "image": "https://yt3.googleusercontent.com/Zh0F8fpARiZBKd5ajAAsvRs9QURxmUZWqo1FOFNg6h1s3ySswsbcOXvNH3qBdsssr2OA_nC_=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCODtTcd5M1JavPCOr_Uydg"
+    }
+  },
+  {
+    "id": "the-history-guy",
+    "name": "The History Guy",
+    "url": "https://www.youtube.com/@TheHistoryGuyChannel",
+    "description": "History that deserves to be remembered.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC4sEmXUuWIFlxRIFBRV6VXQ"
+    },
+    "image": "https://yt3.googleusercontent.com/DSFCIRyYQw5FEtBevbY_L00cwkvILvhNZXR-tPQppn98e_GcV5tOHC9-2u3FnhIl6mmiItNu=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4sEmXUuWIFlxRIFBRV6VXQ"
+    }
+  },
+  {
+    "id": "oversimplified",
+    "name": "OverSimplified",
+    "url": "https://www.youtube.com/@OverSimplified",
+    "description": "Funny animated history.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCNIuvl7V8zACPpTmmNIqP2A"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nbHJmmJigQKWgdRGLBfVXYqRAsc1QMp3SfVEAwjMp9o-o=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNIuvl7V8zACPpTmmNIqP2A"
+    }
+  },
+  {
+    "id": "simple-history",
+    "name": "Simple History",
+    "url": "https://www.youtube.com/@SimpleHistory",
+    "description": "Short animated history.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC510QYlOlKNyhy_zdQxnGYw"
+    },
+    "image": "https://yt3.googleusercontent.com/5Vk6YkJqs5VOfYnatFMfYsMilcfjeb-Df6Nqn-lE6hwbDb6oWbBHT_hqQ3LaANN936PlRtaeIzg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC510QYlOlKNyhy_zdQxnGYw"
+    }
+  },
+  {
+    "id": "history-matters",
+    "name": "History Matters",
+    "url": "https://www.youtube.com/@HistoryMatters",
+    "description": "Short history questions answered.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC22BdTgxefuvUivrjesETjg"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_m7VbNGf_qrMUEp3LQi8Rl8LP97JNqqX3mwOJFPkKyOkxw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC22BdTgxefuvUivrjesETjg"
+    }
+  },
+  {
+    "id": "toldinstone",
+    "name": "toldinstone",
+    "url": "https://www.youtube.com/@toldinstone",
+    "description": "Ancient Rome explained.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCqBiWcuTF8IaLH7wBqnihsQ"
+    },
+    "image": "https://yt3.googleusercontent.com/SqTmykueOw-szpAuadTqU3ar9jUDxou0SfJWjKGkBTpP9DjVIQ7tU0Nc_3FuvxkxB_0cVvDn-U4=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqBiWcuTF8IaLH7wBqnihsQ"
+    }
+  },
+  {
+    "id": "fall-of-civilizations",
+    "name": "Fall of Civilizations",
+    "url": "https://www.youtube.com/@FallofCivilizations",
+    "description": "Long documentaries on collapsed civilisations.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCT6Y5JJPKe_JDMivpKgVXew"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_k3dNbc-PV4Gj_I6bSZ6tvmha1C36aFFbQFuLBEaMgP_Q=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT6Y5JJPKe_JDMivpKgVXew"
+    }
+  },
+  {
+    "id": "epic-history",
+    "name": "Epic History",
+    "url": "https://www.youtube.com/@EpicHistoryTV",
+    "description": "Military history documentaries.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCvPXiKxH-eH9xq-80vpgmKQ"
+    },
+    "image": "https://yt3.googleusercontent.com/pA3MMarJwnoFENoW2WvazT1_rcegyUOlee8y2ciwjArN1tXqAQyVESaXZ9HHD-qIzQV2mhhG=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvPXiKxH-eH9xq-80vpgmKQ"
+    }
+  },
+  {
+    "id": "weird-history",
+    "name": "Weird History",
+    "url": "https://www.youtube.com/@WeirdHistory",
+    "description": "Odd corners of history.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCc-N24Y5OA0gqbjBwe1ttfA"
+    },
+    "image": "https://yt3.googleusercontent.com/BkX-nkhcbdWVNNBrKxfJla0Pj88z_hiiO-GfUX_5CGh78Iy-KlusREJomMdok6ht5iCirv0MpA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc-N24Y5OA0gqbjBwe1ttfA"
+    }
+  },
+  {
+    "id": "overly-sarcastic-productions",
+    "name": "Overly Sarcastic Productions",
+    "url": "https://www.youtube.com/@OverlySarcasticProductions",
+    "description": "History and myths with humour.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCodbH5mUeF-m_BsNueRDjcw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_n_Uclnl7m2dCrddbBBmymj0JfkPvE3ERNS6GIPfD-_DO8=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCodbH5mUeF-m_BsNueRDjcw"
+    }
+  },
+  {
+    "id": "the-great-war",
+    "name": "The Great War",
+    "url": "https://www.youtube.com/@TheGreatWar",
+    "description": "World War I in depth.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCUcyEsEjhPEDf69RRVhRh4A"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nV8s_nSchsYZLh2ucm2n03z_pE9WqcbwMTlgRoutOnv4Q=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUcyEsEjhPEDf69RRVhRh4A"
+    }
+  },
+  {
+    "id": "voices-of-the-past",
+    "name": "Voices of the Past",
+    "url": "https://www.youtube.com/@VoicesofthePast",
+    "description": "Historical documents read aloud.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCqoGR_EedlhKDVuWNwYWRbg"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nSZIkFjFWOKf8p4x7jKV92_OtEPDI963zq22Az3qYZ_qI=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqoGR_EedlhKDVuWNwYWRbg"
+    }
+  },
+  {
+    "id": "great-art-explained",
+    "name": "Great Art Explained",
+    "url": "https://www.youtube.com/@GreatArtExplained",
+    "description": "Famous artworks explained in 15 minutes.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCePDFpCr78_qmVtpoB1Axaw"
+    },
+    "image": "https://yt3.googleusercontent.com/uZGTVg1hztj3kmsmVpl59D2okMdBIh6nyo_bE_xQdPxwftX7UAX1ODzh-lP5YyQ6ws5MSdcHxoc=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCePDFpCr78_qmVtpoB1Axaw"
+    }
+  },
+  {
+    "id": "the-art-assignment",
+    "name": "The Art Assignment",
+    "url": "https://www.youtube.com/@theartassignment",
+    "description": "Art history and ideas.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCmQThz1OLYt8mb2PU540LOA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_l0VVOo2oH5LYz7KXtQNzjk2T0Uz_ls3j2BNUL9OXIXNzk=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmQThz1OLYt8mb2PU540LOA"
+    }
+  },
+  {
+    "id": "biographics",
+    "name": "Biographics",
+    "url": "https://www.youtube.com/@Biographics",
+    "description": "Biographies of famous people.",
+    "category": "history_culture",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UClnDI2sdehVm1zm_LmUHsjQ"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_k_UR1Jj-wXODLI8VOq3JW8zyrfzCd_wPPTXFi3jGhrka4=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClnDI2sdehVm1zm_LmUHsjQ"
+    }
+  }
+]

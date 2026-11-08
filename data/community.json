@@ -1,0 +1,348 @@
+[
+  {
+    "id": "italki",
+    "name": "italki",
+    "url": "https://www.italki.com",
+    "description": "Book one-to-one lessons with English teachers and tutors.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "paid",
+    "tags": [
+      "tutors"
+    ]
+  },
+  {
+    "id": "preply",
+    "name": "Preply",
+    "url": "https://preply.com",
+    "description": "Marketplace of English tutors for online lessons.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "paid",
+    "tags": [
+      "tutors"
+    ]
+  },
+  {
+    "id": "cambly",
+    "name": "Cambly",
+    "url": "https://www.cambly.com",
+    "description": "On-demand video chats with native English speakers.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "paid",
+    "tags": [
+      "tutors"
+    ]
+  },
+  {
+    "id": "engoo",
+    "name": "Engoo",
+    "url": "https://engoo.com",
+    "description": "Affordable daily lessons with free lesson materials.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "paid",
+    "tags": [
+      "tutors"
+    ]
+  },
+  {
+    "id": "lingoda",
+    "name": "Lingoda",
+    "url": "https://www.lingoda.com",
+    "description": "Small-group online English classes by CEFR level.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "paid",
+    "tags": [
+      "classes"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://www.lingoda.com/en/feed/"
+    }
+  },
+  {
+    "id": "hellotalk",
+    "name": "HelloTalk",
+    "url": "https://www.hellotalk.com",
+    "description": "Chat with native speakers who are learning your language.",
+    "category": "community",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "tags": [
+      "language-exchange"
+    ],
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "tandem",
+    "name": "Tandem",
+    "url": "https://tandem.net",
+    "description": "Language-exchange app with text, voice and video.",
+    "category": "community",
+    "type": "app",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "tags": [
+      "language-exchange"
+    ],
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "hinative",
+    "name": "HiNative",
+    "url": "https://hinative.com",
+    "description": "Ask native speakers how to say things naturally.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium",
+    "tags": [
+      "qa"
+    ],
+    "login": "required"
+  },
+  {
+    "id": "conversation-exchange",
+    "name": "Conversation Exchange",
+    "url": "https://www.conversationexchange.com",
+    "description": "Find language-exchange partners online or in person.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "language-exchange"
+    ]
+  },
+  {
+    "id": "polyglot-club",
+    "name": "Polyglot Club",
+    "url": "https://polyglotclub.com",
+    "description": "Language exchange events and community.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "language-exchange"
+    ]
+  },
+  {
+    "id": "free4talk",
+    "name": "Free4Talk",
+    "url": "https://www.free4talk.com",
+    "description": "Join free voice chat rooms to practise speaking.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "speaking"
+    ],
+    "login": "partial"
+  },
+  {
+    "id": "r-englishlearning",
+    "name": "r/EnglishLearning",
+    "url": "https://www.reddit.com/r/EnglishLearning/",
+    "description": "Large community for questions about English.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "qa"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "r-languagelearning",
+    "name": "r/languagelearning",
+    "url": "https://www.reddit.com/r/languagelearning/",
+    "description": "Discussion of learning methods and resources.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free"
+  },
+  {
+    "id": "english-language-learners-stack-exchange",
+    "name": "English Language Learners Stack Exchange",
+    "url": "https://ell.stackexchange.com",
+    "description": "Q&A for learners of English.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "qa"
+    ],
+    "recommended": true,
+    "feed": {
+      "format": "atom",
+      "url": "https://ell.stackexchange.com/feeds"
+    }
+  },
+  {
+    "id": "english-language-and-usage-stack-exchange",
+    "name": "English Language & Usage Stack Exchange",
+    "url": "https://english.stackexchange.com",
+    "description": "Q&A for linguists, etymologists and serious English enthusiasts.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "qa"
+    ],
+    "recommended": true,
+    "feed": {
+      "format": "atom",
+      "url": "https://english.stackexchange.com/feeds"
+    }
+  },
+  {
+    "id": "wordreference-forums",
+    "name": "WordReference Forums",
+    "url": "https://forum.wordreference.com",
+    "description": "Active forums on English usage and translation.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "qa"
+    ],
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://forum.wordreference.com/forums/-/index.rss"
+    }
+  },
+  {
+    "id": "toastmasters-international",
+    "name": "Toastmasters International",
+    "url": "https://www.toastmasters.org",
+    "description": "Clubs worldwide for practising public speaking.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "paid",
+    "tags": [
+      "speaking"
+    ]
+  },
+  {
+    "id": "mylanguageexchange",
+    "name": "MyLanguageExchange",
+    "url": "https://www.mylanguageexchange.com",
+    "description": "Long-running language-exchange partner search.",
+    "category": "community",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium",
+    "tags": [
+      "language-exchange"
+    ]
+  }
+]

@@ -1,0 +1,503 @@
+[
+  {
+    "id": "ielts-official",
+    "name": "IELTS (official)",
+    "url": "https://ielts.org",
+    "description": "Official IELTS information, test formats and free sample questions.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "ielts"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "take-ielts-british-council",
+    "name": "Take IELTS (British Council)",
+    "url": "https://takeielts.britishcouncil.org",
+    "description": "British Council's IELTS booking and free preparation materials.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "tags": [
+      "ielts"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "idp-ielts",
+    "name": "IDP IELTS",
+    "url": "https://ielts.idp.com",
+    "description": "IDP's IELTS booking, preparation and practice tests.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "ielts"
+    ]
+  },
+  {
+    "id": "ielts-liz",
+    "name": "IELTS Liz",
+    "url": "https://ieltsliz.com",
+    "description": "Free, detailed IELTS lessons and model answers.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "tags": [
+      "ielts"
+    ],
+    "for_learners": true,
+    "recommended": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://ieltsliz.com/feed/"
+    }
+  },
+  {
+    "id": "ielts-liz-youtube",
+    "name": "IELTS Liz (YouTube)",
+    "url": "https://www.youtube.com/@ieltsliz",
+    "description": "Video lessons on every part of the IELTS test.",
+    "category": "exam",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "tags": [
+      "ielts"
+    ],
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCKPpfQUSfHhesyjbskDKSEg"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mnzZZX5VBpJmflaZ5X-A9Evhpd_UXkrRiFH2xDyXV9RFM=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKPpfQUSfHhesyjbskDKSEg"
+    }
+  },
+  {
+    "id": "ielts-simon",
+    "name": "IELTS Simon",
+    "url": "https://ielts-simon.com",
+    "description": "Daily lessons from a former IELTS examiner.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "tags": [
+      "ielts"
+    ],
+    "for_learners": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://ielts-simon.com/feed/"
+    }
+  },
+  {
+    "id": "ielts-advantage",
+    "name": "IELTS Advantage",
+    "url": "https://www.ieltsadvantage.com",
+    "description": "Strategy guides for IELTS writing and speaking.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "tags": [
+      "ielts"
+    ],
+    "for_learners": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://feeds.feedburner.com/ieltsadvantage/WHGg"
+    }
+  },
+  {
+    "id": "e2-ielts",
+    "name": "E2 IELTS",
+    "url": "https://www.youtube.com/@E2IELTS",
+    "description": "IELTS lessons and practice by section.",
+    "category": "exam",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium",
+    "tags": [
+      "ielts"
+    ],
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCglDIsg_Z9mE2oT9hsrbzFA"
+    },
+    "image": "https://yt3.googleusercontent.com/ccx4hBPDMYQig9SWsN9JKJ_98PISU60DJBuBVEFU48OPOALE10PsnyxvONE2QSKWGiwRVi7NTA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCglDIsg_Z9mE2oT9hsrbzFA"
+    }
+  },
+  {
+    "id": "engnovate",
+    "name": "Engnovate",
+    "url": "https://engnovate.com",
+    "description": "Free IELTS practice tests and sample answers.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "ielts"
+    ],
+    "for_learners": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://engnovate.com/feed/"
+    }
+  },
+  {
+    "id": "ielts-online-tests",
+    "name": "IELTS Online Tests",
+    "url": "https://ieltsonlinetests.com",
+    "description": "Free computer-based IELTS practice tests.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "freemium",
+    "tags": [
+      "ielts"
+    ],
+    "for_learners": true,
+    "login": "partial"
+  },
+  {
+    "id": "toefl-ets",
+    "name": "TOEFL (ETS)",
+    "url": "https://www.ets.org/toefl.html",
+    "description": "Official TOEFL information and free practice tests.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "toefl"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "toeic-ets",
+    "name": "TOEIC (ETS)",
+    "url": "https://www.ets.org/toeic.html",
+    "description": "Official TOEIC information for workplace English tests.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "toeic"
+    ]
+  },
+  {
+    "id": "tst-prep",
+    "name": "TST Prep",
+    "url": "https://tstprep.com",
+    "description": "TOEFL preparation lessons and practice.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "freemium",
+    "tags": [
+      "toefl"
+    ],
+    "for_learners": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://tstprep.com/feed/"
+    }
+  },
+  {
+    "id": "tst-prep-youtube",
+    "name": "TST Prep (YouTube)",
+    "url": "https://www.youtube.com/@TSTPrep",
+    "description": "Free TOEFL lessons, tips and sample answers.",
+    "category": "exam",
+    "type": "youtube",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "toefl"
+    ],
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCL0ZOT3eKp4RvKcQyBZJ4bw"
+    },
+    "image": "https://yt3.googleusercontent.com/SVp3-n6IE1SEP3OfDJdJcngJz74i5nLVHToLIAb9Te_tMLNbV5_yVmvFup8jmxmqvGgnk4vq=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL0ZOT3eKp4RvKcQyBZJ4bw"
+    }
+  },
+  {
+    "id": "magoosh-toefl-blog",
+    "name": "Magoosh TOEFL Blog",
+    "url": "https://magoosh.com/toefl/",
+    "description": "Free TOEFL tips and practice questions.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "toefl"
+    ],
+    "for_learners": true,
+    "feed": {
+      "format": "rss",
+      "url": "https://magoosh.com/toefl/feed/"
+    }
+  },
+  {
+    "id": "cambridge-english",
+    "name": "Cambridge English",
+    "url": "https://www.cambridgeenglish.org",
+    "description": "Official site for A2 Key, B1 Preliminary, B2 First, C1 Advanced and C2 Proficiency.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "tags": [
+      "cambridge"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "cambridge-english-youtube",
+    "name": "Cambridge English (YouTube)",
+    "url": "https://www.youtube.com/@CambridgeEnglishTV",
+    "description": "Exam guides, speaking test videos and learning tips.",
+    "category": "exam",
+    "type": "youtube",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "tags": [
+      "cambridge"
+    ],
+    "for_learners": true,
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCnXqRankqlC47qzXcYMazKA"
+    },
+    "image": "https://yt3.googleusercontent.com/SI8yZM706rJf0Ka9xiHBHW6YIHXwdMcmiWioUhSxw_F_IHNGyIURRD_UrmUYQF4KP2qDKA0lOg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnXqRankqlC47qzXcYMazKA"
+    }
+  },
+  {
+    "id": "flo-joe",
+    "name": "Flo-Joe",
+    "url": "https://www.flo-joe.co.uk",
+    "description": "Free practice for Cambridge English exams.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free",
+    "tags": [
+      "cambridge"
+    ],
+    "for_learners": true
+  },
+  {
+    "id": "exam-english",
+    "name": "Exam English",
+    "url": "https://www.examenglish.com",
+    "description": "Free practice tests for IELTS, TOEFL, TOEIC and Cambridge exams.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "for_learners": true,
+    "recommended": true
+  },
+  {
+    "id": "pte-academic",
+    "name": "PTE Academic",
+    "url": "https://www.pearsonpte.com",
+    "description": "Pearson's official PTE test site with practice materials.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "pte"
+    ]
+  },
+  {
+    "id": "duolingo-english-test",
+    "name": "Duolingo English Test",
+    "url": "https://englishtest.duolingo.com",
+    "description": "Online English test with free practice.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "paid"
+  },
+  {
+    "id": "ef-set",
+    "name": "EF SET",
+    "url": "https://www.efset.org",
+    "description": "Free standardised English test with a CEFR score.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "global",
+    "pricing": "free",
+    "tags": [
+      "cefr"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "michigan-language-assessment",
+    "name": "Michigan Language Assessment",
+    "url": "https://michiganassessment.org",
+    "description": "Official site for the MET and ECPE exams.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "region": "us",
+    "pricing": "free",
+    "tags": [
+      "michigan"
+    ]
+  },
+  {
+    "id": "trinity-college-london-ise",
+    "name": "Trinity College London ISE",
+    "url": "https://www.trinitycollege.com/qualifications/english-language",
+    "description": "Trinity's ISE and GESE speaking and writing exams.",
+    "category": "exam",
+    "type": "website",
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "region": "gb",
+    "pricing": "free"
+  }
+]
