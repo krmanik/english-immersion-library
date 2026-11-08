@@ -1,0 +1,98 @@
+name: Add a resource
+description: Suggest a channel, podcast, site or app for the list
+title: "Add: "
+labels: ["new resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks! Please check the [guidelines](https://github.com/krmanik/english-immersion-library/blob/main/CONTRIBUTING.md#what-belongs-here) first: official or licensed sources only, no re-uploads or piracy.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Sorted Food
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: Homepage, YouTube channel or Apple Podcasts page
+      placeholder: https://www.youtube.com/@SortedFood
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Learn English: Video
+        - Learn English: Podcasts
+        - Pronunciation & Accents
+        - Graded Reading
+        - Courses & Grammar
+        - Dictionaries & Tools
+        - Learning Apps
+        - IELTS, TOEFL & Cambridge
+        - Tutors & Community
+        - News
+        - Tech
+        - Business & Finance
+        - Science & Nature
+        - History & Culture
+        - Essays & Longform
+        - Web Fiction
+        - Classics & Poetry
+        - Books & Libraries
+        - Comics & Webcomics
+        - Social & Forums
+        - Free Streaming
+        - TV & Film
+        - Talk Shows & Interviews
+        - Comedy & Sketches
+        - Documentaries
+        - Explainers & Education
+        - Vlogs & Lifestyle
+        - Food & Cooking
+        - Travel
+        - Animation
+        - Kids & Family
+        - Gaming
+        - Sports & Fitness
+        - Music & Lyrics
+        - Podcasts: Talk & Ideas
+        - Podcasts: Stories
+        - Radio & Audiobooks
+        - Other / new category
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description
+      description: One sentence. What is it and why does it help learners?
+    validations:
+      required: true
+  - type: checkboxes
+    id: level
+    attributes:
+      label: Who can follow it?
+      options:
+        - label: Beginner
+        - label: Intermediate
+        - label: Advanced / native level
+  - type: dropdown
+    id: region
+    attributes:
+      label: Accent / country
+      options: [American, British, Australian, Canadian, Irish, New Zealand, Indian, South African, Singaporean, Global / mixed]
+  - type: checkboxes
+    id: extra
+    attributes:
+      label: Details
+      options:
+        - label: Made specifically for learners of English
+        - label: Has human-made captions or transcripts
+        - label: Paid, or free with a paid tier
+        - label: I'm affiliated with this resource
