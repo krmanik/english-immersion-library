@@ -1,0 +1,24 @@
+name: Weekly link check
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check resource and feed URLs
+        # Some sites block bots or are region-locked: those are
+        # reported as "unreachable" and do not fail the job. 404/410/5xx do.
+        run: python3 scripts/check_links.py --feeds --json link-report.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: link-report
+          path: link-report.json
